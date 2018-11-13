@@ -115,9 +115,7 @@ const renderCard = (post: BlogPost) => (
                 href={post.href}
                 className="btn btn--round btn-light stretched-link"
             >
-                <div className="icon">
-                    <i className="icon-arrow-up-right" />
-                </div>
+                
             </a>
         </div>
     </article>
