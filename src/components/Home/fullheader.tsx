@@ -44,7 +44,7 @@ import NovaMachineLearning from "../../images/Nova_MachineLearning-_100.png";
 
 import NovaScale from "../../images/Nova_Scale_100-1.png";
 
-import FaviconSvg from "../../images/favicon1.svg";
+// import FaviconSvg from "../../images/favicon1.svg";
 
 import GeneralPowerDigitalMission100 from "../../images/General_PowerDigital_Mission_100.png";
 

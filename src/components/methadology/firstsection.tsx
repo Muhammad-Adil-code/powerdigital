@@ -50,12 +50,7 @@ export default function firstsection() {
         }}
       />
       {/* lp:insertions start head */}
-      <link
-        href="builder-assets.unbounce.com/published-css/main-c696941.z.css"
-        rel="stylesheet"
-        media="screen"
-        type="text/css"
-      />
+      
       <meta
         property="og:title"
         content="Digital Marketing Agency Driving Online Growth | Power Digital"
@@ -110,7 +105,7 @@ export default function firstsection() {
         as="image"
       />
       {/* lp:insertions end head */}
-      <link rel="stylesheet" href="fonts.ub-assets.com/css" media="all" />
+      {/* <link rel="stylesheet" href="fonts.ub-assets.com/css" media="all" /> */}
       <link
         type="text/css"
         rel="stylesheet"
