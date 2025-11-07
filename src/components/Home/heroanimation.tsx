@@ -882,16 +882,27 @@ const HeroAnimation: React.FC<HeroAnimationProps> = ({
     const incrementPer100pxY = 40;
     const maxTextWidth = 2500;
 
-    // let currentWidthText = Math.min(window.innerWidth, maxTextWidth);
-    // let extraWidthText = Math.max(currentWidthText - baseTextWidth, 0);
-      // Lines 872-873
+    const w = Math.min(window.innerWidth, maxTextWidth);
+    let extraTranslateY = 0;
 
+    // ---- Custom stepped translation below 1420px ----
+    if (w >= 940 && w < 1040) {
+      extraTranslateY = -320;
+    } else if (w >= 1040 && w < 1140) {
+      extraTranslateY = -240;
+    } else if (w >= 1140 && w < 1240) {
+      extraTranslateY = -190;
+    } else if (w >= 1240 && w < 1340) {
+      extraTranslateY = -90;
+    } else if (w >= 1340 && w <= 1420) {
+      extraTranslateY = -50;
+    }
+    // ---- For widths above 1420, revert to proportional scaling ----
+    else if (w > 1420) {
+      const extraWidthText = Math.max(w - baseTextWidth, 0);
+      extraTranslateY = (extraWidthText / 100) * incrementPer100pxY;
+    }
 
-    // Lines 885-886
-    const currentWidthText = Math.min(window.innerWidth, maxTextWidth);
-    const extraWidthText = Math.max(currentWidthText - baseTextWidth, 0);
-    // how much extra translateY to add
-    const extraTranslateY = (extraWidthText / 100) * incrementPer100pxY;
 
 
 
@@ -947,7 +958,7 @@ const tlPinned = gsap.timeline({
   scrollTrigger: {
     trigger: wrapper,
     start: "top top",
-    end: "+=1300",
+    end: "+=900",
     scrub: true,
     pin: true,
     pinSpacing: true,
@@ -976,7 +987,7 @@ const tlUnpinned = gsap.timeline({
   scrollTrigger: {
     trigger: wrapper,
     start: "top+=50 top",
-    end: "+=1350",
+    end: "+=950",
     scrub: true,
     onUpdate: (self) => {
       // keep header logo visible when we’re in or beyond mid section
