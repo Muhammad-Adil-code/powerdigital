@@ -958,7 +958,7 @@ const tlPinned = gsap.timeline({
   scrollTrigger: {
     trigger: wrapper,
     start: "top top",
-    end: "+=900",
+    end: "+=1200",
     scrub: true,
     pin: true,
     pinSpacing: true,
@@ -986,8 +986,8 @@ tlPinned
 const tlUnpinned = gsap.timeline({
   scrollTrigger: {
     trigger: wrapper,
-    start: "top+=50 top",
-    end: "+=950",
+    start: "top+=100 top",
+    end: "+=1250",
     scrub: true,
     onUpdate: (self) => {
       // keep header logo visible when we’re in or beyond mid section

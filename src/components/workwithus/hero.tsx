@@ -127,7 +127,7 @@ export default function hero() {
             className="hs-input"
             inputMode="text"
             autoComplete="given-name"
-            defaultValue=""
+            // defaultValue=""
             // fdprocessedid="aws5t"
           />
         </div>

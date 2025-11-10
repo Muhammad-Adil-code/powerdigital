@@ -14,7 +14,7 @@ export default function marketing() {
         style={{ maxHeight: "px" }}
       />
       
-      <article className="2 note  is-article-outer z-100">
+      <article className="2 note  is-article-outer z-10">
         <div className="note__text">
           <p>
             Their ability to understand our goals, customer journey, and

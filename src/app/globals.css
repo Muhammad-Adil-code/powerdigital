@@ -92,7 +92,9 @@ body.company-page .swiper-slide {
   width: max-content !important;
 }
 
-
+.rfm-marquee-container {
+    overflow-x: visible !important;
+}
 
 
 /* .pin-spacer{
