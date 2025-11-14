@@ -76,18 +76,7 @@ const blogPosts: BlogPost[] = [
         image: image036, 
         href: "https://powerdigitalmarketing.com/blog/digital-transformation-on-investing/" 
     },
-    { 
-        title: "Market Expansion for Consumer Services: A Strategic Playbook for CEOs and CMOs", 
-        author: "Burac Ai | December 2, 2024", 
-        image: image037, 
-        href: "https://powerdigitalmarketing.com/blog/scaling-consumer-service-business/" 
-    },
-    { 
-        title: "Burac Ai Awarded Agency Partner of the Year at the Buy with Prime Partner Summit", 
-        author: "Burac Ai | December 4, 2024", 
-        image: image035, 
-        href: "https://powerdigitalmarketing.com/blog/buy-with-prime-agency-partner-of-the-year/" 
-    },
+   
     
 ];
 
