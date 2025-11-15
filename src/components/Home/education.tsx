@@ -3,33 +3,33 @@ import BlogCardSlider from "./BlogCardSlider";
 export default function education() {
   return (
     <>
-    <section className="bg-light overflow-hidden">
-      <div className="intro-twos-columns">
-        <div className="intro-twos-columns__col">
-          <div className="intro-twos-columns__title">
-            <span className="badge rounded-pill bg-dark">Insights</span>
-            <h2>
-              Access <br /> our education
-            </h2>
-          </div>
-          <div className="intro-twos-columns__text">
-            <p>
-              Unlock a wealth of cutting-edge insights on the latest trends shaping AI, intelligent automation, and product innovation. From data strategy and engineering workflows to go-to-market acceleration and performance analytics, the Burac.ai Knowledge Hub delivers the expertise you need to stay ahead. Every resource is packed with actionable guidance to fuel today’s execution and prepare you for tomorrow’s breakthroughs.
-            </p>
-            <a
-              href="#"
-              className="btn btn-secondary"
-            >
-              <div className="icon">
-                <span>Browse recent insights</span>
-                <i className="icon-arrow-up-right" />
-              </div>
-            </a>
+      <section className="bg-light overflow-hidden">
+        <div className="intro-twos-columns">
+          <div className="intro-twos-columns__col">
+            <div className="intro-twos-columns__title">
+              <span className="badge rounded-pill bg-dark">Insights</span>
+              <h2>
+                Access <br /> our education
+              </h2>
+            </div>
+            <div className="intro-twos-columns__text">
+              <p>
+                Unlock a wealth  of cutting-edge insights on the newest trends impacting AI, intelligent automation, and product innovation.   From data strategy and engineering workflows to go-to-market acceleration and performance analytics, the Burac.ai Knowledge Hub gives the skills you need to stay ahead.   Every resource is packed with concrete information to fuel today’s execution and prepare you for tomorrow’s breakthroughs.
+              </p>
+              <a
+                href="#"
+                className="btn btn-secondary"
+              >
+                <div className="icon">
+                  <span>Browse recent insights</span>
+                  <i className="icon-arrow-up-right" />
+                </div>
+              </a>
+            </div>
           </div>
         </div>
-      </div>
-      <BlogCardSlider/>
-      {/* <div className="blog-card-grid swiper">
+        <BlogCardSlider />
+        {/* <div className="blog-card-grid swiper">
         <div className="swiper-wrapper">
           <div className="swiper-slide blog-card-grid__item">
             <article className="card-blog">
@@ -280,7 +280,7 @@ export default function education() {
           </div>
         </div>
       </div> */}
-    </section>
+      </section>
     </>
   )
 }
