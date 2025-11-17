@@ -1,4 +1,5 @@
 import React from 'react'
+import Image from 'next/image'
 import image from '../../images/PE.png'
 export default function mainprivate() {
   return (
@@ -7,18 +8,12 @@ export default function mainprivate() {
       <div className="single-hero__text">
         <span className="badge rounded-pill bg-dark">Delivering Alpha</span>
         <div className="title">
-          <h1>Private Equity Marketing Services</h1>
+          <h1>Private Equity Growth Intelligence Services</h1>
         </div>
         <div className="text">
           <p>
-            At Power Digital, we are more than just a marketing firm  we are a
-            resource partner for diligence and value creation work. Our
-            dedicated private equity practice holds a singular mission: to
-            support the rapid acceleration of growth while de-risking your
-            investments. With nova, our proprietary technology, we empower
-            private equity groups and capital providers to expose opportunity
-            and pinpoint hidden growth levers that can impact valuations and
-            investment outcomes.
+            At Burac.ai, we’re more than a digital partner — we’re your AI-powered growth and diligence ally.
+Our dedicated Private Equity practice has one mission: to accelerate portfolio performance and de-risk investments through intelligent, data-driven marketing analysis.With Burac Core, our proprietary AI platform, we empower private equity groups and capital partners to expose untapped opportunity, validate thesis assumptions, and identify hidden growth levers that directly influence valuation and investment outcomes.
           </p>
         </div>
         <a
@@ -33,7 +28,7 @@ export default function mainprivate() {
       </div>
       <div className="single-hero__image">
         <div className="single-badge"></div>
-        <img src={image.src} alt="" />
+        <Image src={image.src} alt="" />
       </div>
     </section>
     </>

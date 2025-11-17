@@ -10,52 +10,51 @@ import LearnMore from '../maincomonents/learnmore';
 import WhySection from '../maincomonents/whysection';
 import WorkWith from '../maincomonents/workwith';
 import BackgroundImageSection from './backgroundimagesection';
-
 const creativeHomeHeroSectionData = {
     badge: "Creative",
     title: "Creative Strategy Agency",
-    description: "At Power Digital, we’re more than just strategists—we’re the architects of your brand’s success. Our expertise lies in blending creative insight with data-driven tactics to craft strategies and testing frameworks that elevate your brand and drive measurable results. Whether you need a comprehensive brand strategy or a performance-driven campaign, we’re here to make it happen.",
+    description: "At Burac AI, we’re not just strategists — we design creative that drives results. By combining data-driven insights with creative expertise, we craft strategies and testing frameworks that elevate brands and deliver measurable impact.",
     buttonText: "Request a consultation",
     buttonUrl: "#",
     image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Hero-Image-Right-2-small.png",
-    imageAlt: "Programmatic Advertising Services"
+    imageAlt: "Creative Services"
 };
 
 const creativeHomeLearnMoreData = {
     badge: "Learn More",
     title: "Understanding Our Creative Services",
-    description: "Your questions, answered. \n\n Learn how we craft strategies that connect and convert.",
+    description: "Your questions, answered.\n\nSee how Burac AI turns insights into creative strategies that connect and convert.",
     faqs: [
         {
-            question: "What is the scope of your creative strategy services?",
+            question: "What creative strategy services do you offer?",
             answer: [
-                "We offer a comprehensive range of services including campaign ideation, brand strategy, performance creative, and omnichannel execution. Each service is customized to meet your specific marketing and branding needs."
+                "We offer a full suite of services including campaign ideation, brand strategy, performance creative, and omnichannel execution — tailored to your brand and objectives."
             ]
         },
         {
-            question: "How do you ensure that the strategies align with our brand?",
+            question: "How do you ensure the strategies align with our brand?",
             answer: [
-                "We start every project by thoroughly understanding your brand, your audience, and your objectives. This allows us to craft creative strategies and content that are not only visually compelling but also strategically aligned with your brand's goals."
+                "Every project starts with a deep understanding of your brand, audience, and goals. This ensures our creative solutions are both visually compelling and strategically aligned."
             ]
         },
         {
             question: "Can you handle large-scale creative projects?",
             answer: [
-                "Absolutely! Our team is equipped to manage projects of any size, from comprehensive brand strategies to large-scale video productions and design projects. We ensure that every aspect of your campaign is executed flawlessly."
+                "Absolutely. Our team manages projects of any size, from brand strategies to large-scale video productions, ensuring seamless execution and consistency."
             ]
         },
         {
-            question: "Why should I choose Power Digital for my creative needs?",
+            question: "Why choose Burac AI for creative strategy?",
             answer: [
-                "At Power Digital, we combine creativity, strategy, and data to deliver results that matter. Our team of experts is dedicated to elevating your brand through innovative, effective creative solutions tailored to your specific needs."
+                "Burac AI combines creativity, data, and strategy to deliver impactful results. Our team crafts innovative solutions designed to grow your brand and engage your audience."
             ]
         }
     ]
 };
 
 const creativeHomeWhySectionData = {
-    badge: "WHY POWER",
-    title: "Intentional Creatives with Powerful Strategies",
+    badge: "WHY BURAC AI",
+    title: "Purposeful Creatives with Strategic Impact",
     buttonText: "Get a free brand audit",
     buttonUrl: "#",
     introText: "",
@@ -63,8 +62,8 @@ const creativeHomeWhySectionData = {
         {
             type: "list" as const,
             content: [
-                "<p>As the creative powerhouse of Power Digital, we have a purposeful approach to developing powerful creative. By combining research, data, and expertise, we build creative that connects to your audience and inspires impact.</p>",
-                "<p>We believe the best creatives tell a story—your story. With a purposeful approach, we build a connection that inspires your customers to be loyal advocates.</p>"
+                "<p>At Burac AI, we merge data and design to create purposeful creative that resonates and drives measurable results.</p>",
+                "<p>Every great creative tells a story — your story. We help brands connect deeply with audiences and inspire loyalty.</p>"
             ]
         }
     ]
@@ -72,10 +71,10 @@ const creativeHomeWhySectionData = {
 
 const creativeHomeWorkWithData = {
     badge: "What We Do",
-    title: "Bridging brand identity with performance",
+    title: "Bridging Brand Identity with Performance",
     paragraphs: [
-        "We believe that the foundation of any successful campaign lies in a strong brand strategy, and our approach begins with a thorough brand audit, where we uncover the insights needed to inform every step along the way.",
-        "From there, we develop comprehensive plans that connect your brand identity with performance-focused marketing tactics."
+        "We start with a brand audit to uncover insights that shape impactful campaigns.",
+        "Then, we design comprehensive plans that align your brand identity with performance-focused marketing tactics."
     ],
     buttonText: "Get in touch",
     buttonUrl: "#",
@@ -83,29 +82,29 @@ const creativeHomeWorkWithData = {
         {
             icon: ServiceIcon1.src,
             title: "Brand Obsessed",
-            description: "Committed to ensuring your brand fully aligns with all creative we develop together. Equally proud to represent your brand we take extra measures to ensure consistency and expertise across all touch points.",
+            description: "We ensure all creative reflects your brand identity. Consistency, quality, and attention to detail are at the core of everything we produce.",
             bgColor: "bg-secondary" as const,
             textColor: "#333333",
             iconColor: "invert(0)",
-            alt: "Premium Inventory Icon"
+            alt: "Brand Obsessed Icon"
         },
         {
             icon: Layer11.src,
-            title: "Data-Drive Decisions",
-            description: "We leverage comprehensive data and insights at every stage, ensuring that our creative solutions are both innovative and strategically sound.",
+            title: "Data-Driven Decisions",
+            description: "Every creative decision is backed by data and insights, ensuring strategies are innovative and results-focused.",
             bgColor: "bg-primary" as const,
             textColor: "#ffffff",
             iconColor: "invert(1)",
-            alt: "Hands-On Execution Icon"
+            alt: "Data Driven Icon"
         },
         {
             icon: Layer1.src,
             title: "Holistic Approach",
-            description: "Our specialty is in crafting an approach that aligns creative across all channels. Diversified in execution and mindful of platform best practices.",
+            description: "We craft creative that is aligned across all channels, ensuring cohesive messaging and maximum impact.",
             bgColor: "bg-dark" as const,
             textColor: "#ffffff",
             iconColor: "invert(1)",
-            alt: "Incremental Growth Icon"
+            alt: "Holistic Approach Icon"
         }
     ]
 };
@@ -114,7 +113,7 @@ const creativeHomeCardSliderData = [
     {
         id: "strategy-performance",
         title: "Strategy",
-        description: "Experts across platforms, our team has the creative insights that drive impact. With the support of Nova Insights and Creative Affinity we are ahead of the trends and constantly evolving to gather learnings.",
+        description: "We provide creative concepts that perform across platforms, leveraging insights to stay ahead of trends and optimize impact.",
         image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Rectangle-46-4.png",
         imageAlt: "Strategy & Performance",
         bgColor: "bg-secondary" as const
@@ -122,7 +121,7 @@ const creativeHomeCardSliderData = [
     {
         id: "design-brand",
         title: "Campaigns",
-        description: "As strategic storytellers we craft every campaign to build connections and inspire action. Combining our experience with performance and brand creative our team is versed across all visions and creative styles.",
+        description: "Our campaigns are crafted to connect, inspire, and perform. We combine brand storytelling with performance creativity across all channels.",
         image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Image-4096x2304-1-1-768x432.png",
         imageAlt: "Design & Brand",
         bgColor: "bg-grey" as const
@@ -130,7 +129,7 @@ const creativeHomeCardSliderData = [
     {
         id: "editing-motion-graphics",
         title: "Brand",
-        description: "From campaigns to setting brand strategies our storytelling capabilities go brand deep and map across all touch points.",
+        description: "We translate brand strategy into compelling stories, ensuring creative consistency across every touchpoint.",
         image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Rectangle-46-6.png",
         imageAlt: "Editing & Motion Graphics",
         bgColor: "bg-primary" as const
@@ -138,12 +137,13 @@ const creativeHomeCardSliderData = [
     {
         id: "production-ugc",
         title: "Testing Roadmaps",
-        description: "Our approach to creative is based in our testing roadmaps that clearly map the creative questions we want answers to. Utilizing testing roadmaps as our foundation our creative is always intentional.",
+        description: "Our creative process is guided by testing roadmaps to answer key questions and ensure each asset is intentional and performance-driven.",
         image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Rectangle-46-8.png",
         imageAlt: "Production & UGC",
         bgColor: "bg-white" as const
     }
 ];
+
 
 const CreativeHomePage = () => {
     return (

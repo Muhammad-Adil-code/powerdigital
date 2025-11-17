@@ -4,6 +4,7 @@ import Header from '../../components/consumer/header';
 import Layer_1_1 from "./images/Layer_1-1.svg"
 import Meeting from "./images/meeting.png"
 import PurpleFlatSmaller from "./images/purple-flat-smaller.png"
+import Carousal from './carousal';
 
 const MarketingMeasurementIncrementalityPage = () => {
     return (
@@ -11,7 +12,7 @@ const MarketingMeasurementIncrementalityPage = () => {
             <Header />
             <div
                 data-cmplz={2}
-                className="wp-singular page-template page-template-approach-template page-template-approach-template-php page page-id-8965 wp-theme-pdm-theme"
+                className="wp-singular page-template page-template-approach-template page-templte-approach-template-php page page-id-8965 wp-theme-pdm-theme"
             >
                 <main>
                     <section className="single-hero bg-light  ">
@@ -21,20 +22,16 @@ const MarketingMeasurementIncrementalityPage = () => {
                             </span>
                             <div className="title">
                                 <h1>
-                                    Stop wasting millions of dollars on{" "}
-                                    <span className="highlighted">ineffective marketing.</span>{" "}
+                                    Stop throwing millions at marketing that 
+                                    <span className="highlighted"> doesn’t work.</span>
                                 </h1>
                             </div>
                             <div className="text">
                                 <p>
-                                    The purpose of marketing is to make money. Period. If anyone says
-                                    something differently, they’re confused or selling something.
+                                    Marketing exists to generate revenue. Period. Anything else is noise or a sales pitch.
                                 </p>
                                 <p>
-                                    So much marketing is ineffective. It contributes no revenue, it
-                                    damages your profitability, and it doesn’t drive incremental growth
-                                    to the business. This is why accurate marketing measurement and
-                                    understanding incrementality is so appealing.
+                                    Much marketing today fails to drive actual growth. It consumes budget without producing incremental profit and sometimes even harms ROI. That’s why robust marketing measurement and understanding incrementality is critical.
                                 </p>
                             </div>
                             <a
@@ -51,13 +48,13 @@ const MarketingMeasurementIncrementalityPage = () => {
                             <div className="single-badge"></div>
                             <img src="https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Marketing-Measurement-Incrementality.png" alt="" />
                         </div>
-                    </section>{" "}
+                    </section>
                     <section className="multi-cards-section bg-dark py-3">
                         <div className="intro-twos-columns ">
                             <div className="intro-twos-columns__col">
                                 <div className="intro-twos-columns__title">
                                     <span className="badge rounded-pill bg-secondary">Measurement</span>
-                                    <h2>Measurement is hard. And it’s getting worse.&nbsp;</h2>
+                                    <h2>Measuring marketing impact is increasingly difficult.&nbsp;</h2>
                                 </div>
                                 <div className="intro-twos-columns__text"></div>
                             </div>
@@ -67,12 +64,11 @@ const MarketingMeasurementIncrementalityPage = () => {
                                 <div className="text">
                                     <div className="description">
                                         <p>
-                                            Privacy regulations (GDPR) and technology (iOS14.5)
-                                            <strong>
-                                                {" "}
-                                                limit advertisers’ ability to track individual users
+                                            Privacy changes (GDPR, iOS 14.5) 
+
+                                            <strong>  reduce visibility   
                                             </strong>
-                                            , weakening traditional attribution.
+                                               into individual user behavior.
                                         </p>
                                     </div>
                                 </div>
@@ -81,8 +77,8 @@ const MarketingMeasurementIncrementalityPage = () => {
                                 <div className="text">
                                     <div className="description">
                                         <p>
-                                            A fragmented media landscape{" "}
-                                            <strong>prevents a unified view.</strong>
+                                            A fragmented media ecosystem prevents a{" "}
+                                            <strong>unified performance view.</strong>
                                         </p>
                                     </div>
                                 </div>
@@ -91,14 +87,14 @@ const MarketingMeasurementIncrementalityPage = () => {
                                 <div className="text">
                                     <div className="description">
                                         <p>
-                                            Platforms and channels are incentivized to show the best{" "}
-                                            <strong>“results”</strong> they can.
+                                            Platforms often inflate results to {" "}
+                                            <strong>showcase success.</strong>
                                         </p>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </section>{" "}
+                    </section>
                     <section className="full-image-testimonial bg-light  section-inner">
                         <img
                             className="full-image-testimonial__image"
@@ -109,10 +105,9 @@ const MarketingMeasurementIncrementalityPage = () => {
                         <article className="1 note note--manual fade-up is-article-inner bg-dark">
                             <div className="note__text">
                                 <p>
-                                    If marketing needs to be measured, and attribution is unable to
-                                    accurately determine if a tactic is incremental
+                                    When attribution can’t confirm if a tactic drives incremental growth,
                                     <br />
-                                    or not, <span className="highlighted"> what’s the solution?</span>
+                                    <span className="highlighted"> what’s the solution?</span>
                                 </p>
                             </div>
                             <div className="testimonial-person">
@@ -138,86 +133,17 @@ const MarketingMeasurementIncrementalityPage = () => {
                                 <div className="col-lg-6">
                                     <div className="mb-0">
                                         <p>
-                                            Just doing everything and calling it a measurement framework
-                                            doesn’t count. Savvy marketers and data practitioners prioritize
-                                            specific data for certain decisions. Different methods often
-                                            disagree, so knowing when to use what is crucial.
+                                            Not all frameworks are equal—selecting the right data for each decision is key. Methods can conflict, so knowing when and how to apply each approach is essential.
                                         </p>
                                         <p>
-                                            We save brands hundreds of millions of dollars in wasted ad
-                                            spend while simultaneously growing their revenue, improving
-                                            overall profitability and marketing ROI.
+                                            Savvy measurement saves brands hundreds of millions in wasted ad spend while boosting revenue, profitability, and ROI.
                                         </p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </section>
-                    <section className="carousel-company bg-grey">
-                        <div className="carousel-company__desktop">
-                            <div className="carousel-company__title">
-                                <span className="badge rounded-pill bg-light" />
-                                <h2>A combined view of:</h2>
-                            </div>
-                            <div className="swiper swiper-carousel">
-                                <div className="swiper-wrapper">
-                                    <div
-                                        className="three-card swiper-slide"
-                                        style={{ backgroundColor: "rgb(175,170,249)", color: "", marginRight: "17px" }}
-                                    >
-                                        <div className="icon">
-                                            <img src="https://powerdigitalmarketing.com/wp-content/uploads/2024/11/icon-6.svg" alt="" />
-                                        </div>
-                                        <div className="text">
-                                            <h4>Business level data.</h4>
-                                        </div>
-                                    </div>
-                                    <div
-                                        className="three-card swiper-slide"
-                                        style={{
-                                            backgroundColor: "rgb(119,86,255)",
-                                            color: "rgb(255,255,255)",
-                                            marginRight: "17px"
-                                        }}
-                                    >
-                                        <div className="icon">
-                                            <img src={Layer_1_1.src} alt="" />
-                                        </div>
-                                        <div className="text">
-                                            <h4>True scientific incrementality experiments.</h4>
-                                        </div>
-                                    </div>
-                                    <div
-                                        className="three-card swiper-slide"
-                                        style={{ backgroundColor: "rgb(255,255,255)", color: "", marginRight: "17px" }}
-                                    >
-                                        <div className="icon">
-                                            <img src="https://powerdigitalmarketing.com/wp-content/uploads/2024/11/icon-3.svg" alt="" />
-                                        </div>
-                                        <div className="text">
-                                            <h4>Rigorous and ML-enabled media mix modeling.</h4>
-                                        </div>
-                                    </div>
-                                    <div
-                                        className="three-card swiper-slide"
-                                        style={{
-                                            backgroundColor: "rgb(0,0,0)",
-                                            color: "rgb(255,255,255)",
-                                            marginRight: "17px"
-
-                                        }}
-                                    >
-                                        <div className="icon">
-                                            <img src="https://powerdigitalmarketing.com/wp-content/uploads/2024/11/icon8.png" alt="" />
-                                        </div>
-                                        <div className="text">
-                                            <h4>Knowledge of when and how to use platform attribution.</h4>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>{" "}
+                    <Carousal/>
                     <section className="dual-layout-section bg-light pb-0">
                         <div className="container-note-image is-reversed">
                             <div className="note-image fade-up">
@@ -231,13 +157,11 @@ const MarketingMeasurementIncrementalityPage = () => {
                             <div className="text-section">
                                 <span className="badge rounded-pill bg-dark">Accuracy</span>
                                 <div className="title">
-                                    <h2> Improve the accuracy of your marketing. </h2>
+                                    <h2> Maximize the reliability of your marketing insights. </h2>
                                 </div>
                                 <div className="text">
                                     <p>
-                                        We believe that each measurement method has strengths and
-                                        weaknesses, and that using them together actually improves the
-                                        overall accuracy and utility of your marketing.
+                                        Every measurement method has strengths and weaknesses. Using them together improves overall precision and decision-making.
                                     </p>
                                 </div>
                                 <a
@@ -264,11 +188,7 @@ const MarketingMeasurementIncrementalityPage = () => {
                                     </h4>
                                     <div className="mb-2">
                                         <p>
-                                            Every industry outside of advertising follows the same
-                                            principles when determining the impact of a variable – the test
-                                            and control group. Advertising should be treated the same as
-                                            politics, healthcare, or culinary science to determine what’s
-                                            working.
+                                            Marketing should be treated like other sciences—test vs. control—to determine what drives real impact.
                                         </p>
                                     </div>
                                 </div>
@@ -276,11 +196,7 @@ const MarketingMeasurementIncrementalityPage = () => {
                                     <h4 className="pe-3 mb-1">Media Mix Modeling</h4>
                                     <div className="mb-2">
                                         <p>
-                                            We run tens of thousands of agile models built with machine
-                                            learning on our clients’ data. Each model is customized to the
-                                            brand’s specific data, but has been guided through our
-                                            experience by vertical, incrementality experiments, and order
-                                            values.
+                                            We deploy tens of thousands of agile, ML-driven models. Each is tailored to the client’s data, guided by industry experience, incrementality tests, and purchase behavior.
                                         </p>
                                     </div>
                                 </div>
@@ -288,11 +204,7 @@ const MarketingMeasurementIncrementalityPage = () => {
                                     <h4 className="pe-3 mb-1">Incorporating Attribution</h4>
                                     <div className="mb-2">
                                         <p>
-                                            We don’t just use attribution software (such as Google
-                                            Analytics) out of the box. However it is still helpful when
-                                            determining small, fast, and tactical optimizations. We apply
-                                            the right modifiers and weights to attribution to ensure we’re
-                                            not over-investing in the wrong areas.
+                                            We don’t rely on attribution software alone. When used correctly, it helps optimize quickly and tactically. We apply modifiers and weights to avoid misallocating budget.
                                         </p>
                                     </div>
                                 </div>
@@ -306,21 +218,16 @@ const MarketingMeasurementIncrementalityPage = () => {
                                     <div className="intro-twos-columns__title">
                                         <span className="badge rounded-pill bg-light" />
                                         <h1>
-                                            Power Digital specializes in driving meaningful (and profitable)
-                                            growth for our brands.
+                                            Burac.ai  delivers profitable, measurable growth.
+
                                         </h1>
                                     </div>
                                     <div className="intro-twos-columns__text">
                                         <p>
-                                            Our dedicated measurement team will not only advise on the
-                                            initial framework to best support your marketing efforts, but
-                                            will provide ongoing strategy, insights, and recommendations on
-                                            how to improve your marketing ROI.
+                                            Our measurement team advises on framework design and provides ongoing strategy, insights, and optimization recommendations.
                                         </p>
                                         <p>
-                                            And we’ve driven undeniable results across hundreds of clients –
-                                            hundreds of millions of dollars saved in wasted ad spend, and
-                                            hundreds of dollars of incremental revenue generated.
+                                            Proven results: hundreds of millions saved in wasted ad spend, and hundreds of millions in incremental revenue generated for our clients.
                                         </p>
                                         <a
                                             href="https://powerdigitalmarketing.com/resources/building-an-effective-omnichannel-strategy-for-consumer-services-brands/"
@@ -335,7 +242,7 @@ const MarketingMeasurementIncrementalityPage = () => {
                                 </div>
                             </div>
                         </article>
-                    </section>{" "}
+                    </section>
                 </main>
             </div>
 

@@ -1,4 +1,5 @@
 import React from 'react'
+import Image from 'next/image'
 import PDMWebsite from '../../images/PDM-Website-2025-Layer-1-1.png'
 export default function Bglight() {
   return (
@@ -19,7 +20,7 @@ export default function Bglight() {
         <div className="product-feature-showcase__content">
           <div className="product-feature-showcase__firts-card">
             <div className="title">
-              <img src={PDMWebsite.src} alt="" />
+              <Image src={PDMWebsite} alt="" />
               <h3>Purpose-built applications leveraging 300M+ data points</h3>
             </div>
             <a

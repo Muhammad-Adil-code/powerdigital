@@ -37,7 +37,7 @@ export default function result() {
             <div className="item">
                 <CountUp end={300}  duration={3} suffix="M+" />
               <p>
-                <span style={{ fontWeight: 400 }}>Client retention rate</span>
+                <span style={{ fontWeight: 400 }}>Consumer data points leveraged by Burac.ai</span>
               </p>
             </div>
           </div>
@@ -63,13 +63,7 @@ export default function result() {
           </div>
           <div className="description">
             <p>
-              Explore how our strategic approach catalyzed profitable,
-              sustainable growth for ViX Paula Hermanny. By conducting a deep
-              analysis of primary audience cohorts, sharpening acquisition and
-              retention offers, and implementing a sophisticated marketing mix,
-              we enabled ViX to capture and retain higher-value customers while
-              decreasing both discounts &amp; advertising costs. The result? A
-              transformative impact on top-line revenue.
+              Burac.ai transformed ViX Paula Hermanny’s growth. By analyzing primary audience cohorts, optimizing acquisition and retention offers, and implementing a sophisticated, AI-driven marketing mix, we helped ViX capture and retain higher-value customers while reducing discounts and ad spend. The result: transformative top-line growth and measurable ROI.
             </p>
           </div>
         </div>

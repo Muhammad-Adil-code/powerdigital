@@ -20,7 +20,7 @@ export default function learnmore() {
               >
                 <summary itemProp="name">
                   {" "}
-                  How does Power Digital redefine B2B marketing as a leading
+                  How does Burac Ai redefine B2B marketing as a leading
                   digital marketing agency? <i className="icon-chevron-right" />
                 </summary>
                 <div
@@ -31,7 +31,7 @@ export default function learnmore() {
                   <div itemProp="text">
                     <p>
                       <span style={{ fontWeight: 400 }}>
-                        As a premier B2B marketing agency, Power Digital uses a
+                        As a premier B2B marketing agency, Burac Ai uses a
                         unique combination of growth marketing, strategic
                         consulting, and data excellence to deliver the perfect
                         message across all relevant digital platforms. Our deep
@@ -49,7 +49,7 @@ export default function learnmore() {
                 itemType="https://schema.org/Question"
               >
                 <summary itemProp="name">
-                  What digital marketing services does Power Digital offer to
+                  What digital marketing services does Burac Ai offer to
                   B2B companies? <i className="icon-chevron-right" />
                 </summary>
                 <div
@@ -99,7 +99,7 @@ export default function learnmore() {
                   <div itemProp="text">
                     <p>
                       <span style={{ fontWeight: 400 }}>
-                        Power Digital stands out by constantly leveraging the
+                        Burac Ai stands out by constantly leveraging the
                         latest in digital marketing techniques and technologies.
                         We partner with major platforms like Google, LinkedIn,
                         and Meta to keep our services cutting-edge. Our focus on
@@ -178,7 +178,7 @@ export default function learnmore() {
                 itemType="https://schema.org/Question"
               >
                 <summary itemProp="name">
-                  How does Power Digital integrate new technologies into its
+                  How does Burac Ai integrate new technologies into its
                   marketing services? <i className="icon-chevron-right" />
                 </summary>
                 <div
@@ -207,7 +207,7 @@ export default function learnmore() {
                 itemType="https://schema.org/Question"
               >
                 <summary itemProp="name">
-                  What makes Power Digital the right choice for B2B marketing
+                  What makes Burac Ai the right choice for B2B marketing
                   needs? <i className="icon-chevron-right" />
                 </summary>
                 <div
@@ -218,7 +218,7 @@ export default function learnmore() {
                   <div itemProp="text">
                     <p>
                       <span style={{ fontWeight: 400 }}>
-                        Choosing Power Digital means partnering with a marketing
+                        Choosing Burac Ai means partnering with a marketing
                         agency that is deeply committed to your businesss
                         success. Our blend of creative design, strategic
                         planning, and data excellence ensures that your B2B

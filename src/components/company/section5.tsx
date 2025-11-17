@@ -18,11 +18,9 @@ export default function section5() {
             <div className="note__text">
               <p>
                 <em>
-                  Our people have always been and will always be our #1
-                  priority. They are the heart of our organization, our greatest
-                  asset, and the biggest driver behind our success. We lead with
-                  people and deliver with purpose.
-                </em>
+  Our people have always been—and will always be—our top priority. They are the heart of our organization, our greatest asset, and the driving force behind our success. We lead with people and deliver with purpose.
+</em>
+
               </p>
             </div>
             <div className="testimonial-person">
@@ -45,12 +43,9 @@ export default function section5() {
           </div>
           <div className="text">
             <p>
-              We live at the leading-edge of machine learning and artificial
-              intelligence. But it’s our people that make Power an industry
-              leader in the digital marketing. Technology will always be
-              integral to our work, but talent is why clients work with us.
-              Think you’ve got what it takes to be on our team?
-            </p>
+  We operate at the forefront of machine learning and AI, but it’s our people who make Power a leader in digital marketing. Technology drives our work, yet talent is why clients choose us. Ready to join the team?
+</p>
+
           </div>
           <a
             href="https://powerdigitalmarketing.com/company/careers/"

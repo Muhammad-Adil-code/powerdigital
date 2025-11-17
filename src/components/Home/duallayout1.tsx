@@ -9,7 +9,7 @@ export default function duallayout1() {
       <div className="separator" >
       <hr />
       <div className="separator__text">
-        <span>Power Digital</span>
+        <span>burac.ai</span>
         <div>
           <span className="separator__number">01</span>
           <span>Who we are</span>
@@ -32,14 +32,11 @@ export default function duallayout1() {
         <div className="text-section">
           <span className="badge rounded-pill bg-dark">who we are</span>
           <div className="title">
-            <h2> Transform uncertain into undeniable. </h2>
+            <h2> Empowering intelligence-driven decisions. </h2>
           </div>
           <div className="text">
             <p>
-              Power is the digital marketing firm that operates at the
-              intersection of data, technology, and human intelligence to make
-              profit predictable. In today’s hyper-competitive, often volatile
-              marketplace, average results just won’t cut it.
+              burac.ai is an innovative AI-powered platform that leverages advanced machine learning, data science, and human expertise to transform data into actionable insights. In an increasingly complex digital landscape, we make intelligent automation and predictive analytics accessible, driving smarter outcomes.
             </p>
           </div>
           <a

@@ -1,4 +1,5 @@
 import React from 'react'
+import Image from 'next/image'
 import Approach from '../../images/Approach.png'
 
 
@@ -9,16 +10,16 @@ export default function hero() {
       <div className="single-hero__text">
         <span className="badge rounded-pill bg-dark">How we work</span>
         <div className="title">
-          <h2>Going beyond surface-level solutions for next-level growth.</h2>
+          <h2>Beyond Tactics. Toward Transformative Growth.</h2>
         </div>
         <div className="text">
           <p>
-            Other digital marketing agencies make things unnecessarily
-            complicated for their clients. So our data-driven approach is
-            refreshingly simple: we care about doing what works, period. Brands
-            work with Power when they want to see real growth in their revenue,
-            create and activate a high-impact marketing strategy, clean up and
-            analyze their data, and plan for a predictably profitable future.
+            At Burac.ai, we go beyond surface-level marketing to deliver next-level growth.
+Where traditional agencies complicate execution, we simplify through intelligence — using AI-driven data models, predictive insights, and performance alignment to unlock measurable, repeatable success.
+
+Brands partner with Burac.ai when they want more than impressions and engagement — they want revenue acceleration, clean data ecosystems, and strategic clarity for scalable, profitable growth.
+
+We don’t just analyze performance — we engineer outcomes.
           </p>
         </div>
         <a
@@ -33,7 +34,7 @@ export default function hero() {
       </div>
       <div className="single-hero__image">
         <div className="single-badge"></div>
-        <img src={Approach.src} alt="" />
+        <Image src={Approach} alt="" />
       </div>
     </section>
 </>  )

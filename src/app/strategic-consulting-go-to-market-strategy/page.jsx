@@ -18,9 +18,7 @@ export default function StrategicConsulting() {
                             <div className="text">
                                 <p>
                                     <span style={{ fontWeight: 400 }}>
-                                        We can’t tell you how many brands come to us with excellent
-                                        creative, a super smart media plan, and a ton of funding, but
-                                        still struggle to grow.
+                                        We’ve seen countless brands arrive at Burac AI with beautiful creative, solid media plans, and strong funding — yet they still can’t unlock consistent growth.
                                     </span>
                                 </p>
                             </div>
@@ -51,14 +49,12 @@ export default function StrategicConsulting() {
                                     </div>
                                     <div className="text content-post">
                                         <p>
-                                            They didn’t understand the way that their product produces
-                                            differentiated value for their customer. The key two words there
-                                            are differentiated and value. They needed to understand:
+                                            They haven’t truly defined how their product delivers unique, differentiated value to their customer. The key words are differentiated and value. To fix that, we help brands understand:
                                         </p>
                                         <ul>
-                                            <li>The larger market and the lay of the land</li>
-                                            <li>Who their customer was and what problems they have</li>
-                                            <li>How to communicate in a way that’s impactful</li>
+                                            <li>The market landscape and competitive dynamics</li>
+                                            <li>Who their customer really is, and what drives their decisions</li>
+                                            <li>How to communicate in a way that connects and converts</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -69,71 +65,56 @@ export default function StrategicConsulting() {
                                 </div>
                                 <div className="content-text">
                                     <div className="title">
-                                        <h2>Your comprehensive, data-backed go to market strategy</h2>
+                                        <h2>Your comprehensive, AI-driven go-to-market strategy</h2>
                                     </div>
                                     <div className="text content-post">
                                         <p>
-                                            If you’re selling the same thing in the same way as a half dozen
-                                            other competitors, you have very little chance of being
-                                            successful. Or if you’re selling to Selena Gomez and your
-                                            customer is actually Dolly Parton, you’re going to burn a ton of
-                                            cash on ineffective marketing.
+                                            If your product and messaging look identical to your competitors’, your odds of success are slim. Or worse — if your ideal customer is actually Dolly Parton but you’re marketing to Selena Gomez, you’re wasting serious ad spend.
                                         </p>
                                         <p>
                                             <strong>
-                                                That’s where a fully fledged, comprehensive, data-backed go to
-                                                market strategy comes in.
+                                                That’s why you need a comprehensive, data-backed, AI-powered go-to-market strategy.
                                             </strong>
                                         </p>
                                         <ul>
                                             <li>
                                                 <strong>A Deep Business Audit</strong>
                                                 <br />
-                                                We’ll plug your financials, customer file, and marketing data
-                                                into nova Intelligence, our proprietary technology platform.
-                                                Our expert growth analysts will diagnose your biggest pain
-                                                points, assess your unit economics, compare your LTV:CAC ratio
-                                                to what’s healthy, and quickly map out the biggest needle
-                                                mover metrics.
+                                                We’ll feed your financial, customer, and marketing data into Nova Intelligence, Burac AI’s proprietary analytics engine.
+Our AI growth analysts diagnose key pain points, assess your unit economics, benchmark LTV:CAC ratios, and pinpoint the metrics that truly move the needle.
                                             </li>
                                             <li>
                                                 <strong>Customer Insights + Persona</strong>
                                                 <br />
-                                                From there we’ll compare who you think your customer is to
-                                                what it actually is. This isn’t just some subjective
-                                                alliterative persona either, it’s actually baked in verified
-                                                deterministic data based on their past purchase behavior,
-                                                media consumption, and psychographics.
+                                                We’ll analyze who you think your customer is versus who they actually are.
+Our persona development isn’t guesswork — it’s grounded in verified behavioral data, purchase patterns, and psychographic analysis to uncover what genuinely drives buying intent.
                                             </li>
                                             <li>
                                                 <strong>Market Research</strong>
                                                 <br />
-                                                What are your competitors doing? What’s the overall size of
-                                                the business opportunity (revenue size and total addressable
-                                                market). Is it mature and commoditized? Is it emerging and
-                                                requires category education as well as product education?
-                                                We’ll include the watch outs and the low hanging fruit.
+                                                We’ll evaluate your competitive space and total addressable market (TAM):
+Is the category saturated or emerging?
+
+Does it require customer education?
+
+Where are the gaps and hidden opportunities?
+
+You’ll get a full picture of market maturity, competitive advantage, and growth potential — complete with risk factors and quick wins.
                                             </li>
                                             <li>
                                                 <strong>Media Plan</strong>
                                                 <br />
-                                                Knowing your customer, your market, and your unit economics
-                                                tees up how to properly spend your marketing dollars. Where to
-                                                invest, when, how much, and by what channel and tactic to
-                                                generate the best return on your investment.
+                                                Once we understand your customer, market, and economics, we’ll architect a precise investment roadmap:
+When to spend, where to spend, how much, and through which channels — all to maximize your marketing ROI.
                                             </li>
                                         </ul>
                                         <p>
-                                            And those are just the big categories. Depending on what we find
-                                            during our appraisal process, we very well much identify areas
-                                            of improvement around your technology stack, your processes and
-                                            procedures, customer reviews or sentiment, internal management,
-                                            or how you’re measuring your marketing ROI.
+                                            And that’s just the start.
+Depending on what we uncover, we’ll also provide insights on your tech stack, internal processes, customer sentiment, management efficiency, and ROI measurement framework.
                                         </p>
                                         <p>
-                                            Get the benefit of working with a “big 4” holding company
-                                            without having to pay millions of dollars. And we’re biased, but
-                                            we think our product is just as good (if not better).
+                                            Experience the advantage of working with a Big 4-level consultancy, powered by AI intelligence, without the seven-figure price tag.
+And honestly? We think Burac AI delivers smarter, faster, and better results.
                                         </p>
                                     </div>
                                 </div>

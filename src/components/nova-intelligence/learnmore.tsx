@@ -14,244 +14,128 @@ export default function LearnMore() {
             <div className="description"></div>
           </div>
           <div className="intro-twos-columns__text">
-            <div className="section-list-accordion-faq">
-              <details
-                itemScope={true}
-                itemProp="mainEntity"
-                itemType="https://schema.org/Question"
-              >
-                <summary itemProp="name">
-                  How does Creative Affinity help improve my ad campaigns?{" "}
-                  <i className="icon-chevron-right" />
-                </summary>
-                <div
-                  itemScope={true}
-                  itemProp="acceptedAnswer"
-                  itemType="https://schema.org/Answer"
-                >
-                  <div itemProp="text">
-                    <p>
-                      <span style={{ fontWeight: 400 }}>
-                        By identifying top-performing creatives based on metrics
-                        like LTV and engagement, you can optimize your campaigns
-                        to focus on ads that resonate most with high-value
-                        audiences.
-                      </span>
-                    </p>
-                  </div>
-                </div>
-              </details>
-              <details
-                itemScope={true}
-                itemProp="mainEntity"
-                itemType="https://schema.org/Question"
-              >
-                <summary itemProp="name">
-                  Can Creative Affinity be used for different platforms?{" "}
-                  <i className="icon-chevron-right" />
-                </summary>
-                <div
-                  itemScope={true}
-                  itemProp="acceptedAnswer"
-                  itemType="https://schema.org/Answer"
-                >
-                  <div itemProp="text">
-                    <p>
-                      <span style={{ fontWeight: 400 }}>
-                        Yes, Creative Affinity supports ad performance analysis
-                        across platforms like Meta, TikTok, and YouTube (coming
-                        soon), providing tailored insights for each platform&#39;s
-                        unique audience and performance metrics.
-                      </span>
-                    </p>
-                  </div>
-                </div>
-              </details>
-              <details
-                itemScope={true}
-                itemProp="mainEntity"
-                itemType="https://schema.org/Question"
-              >
-                <summary itemProp="name">
-                  How does Creative Affinity match creatives to customer data?{" "}
-                  <i className="icon-chevron-right" />
-                </summary>
-                <div
-                  itemScope={true}
-                  itemProp="acceptedAnswer"
-                  itemType="https://schema.org/Answer"
-                >
-                  <div itemProp="text">
-                    <p>
-                      <span style={{ fontWeight: 400 }}>
-                        It uses a proprietary matching algorithm that connects
-                        ad creatives with customer data, including transaction
-                        IDs and purchase behavior, to provide insights on which
-                        ads drive the highest value.
-                      </span>
-                    </p>
-                  </div>
-                </div>
-              </details>
-              <details
-                itemScope={true}
-                itemProp="mainEntity"
-                itemType="https://schema.org/Question"
-              >
-                <summary itemProp="name">
-                  Does Creative Affinity account for different types of ad
-                  creatives? <i className="icon-chevron-right" />
-                </summary>
-                <div
-                  itemScope={true}
-                  itemProp="acceptedAnswer"
-                  itemType="https://schema.org/Answer"
-                >
-                  <div itemProp="text">
-                    <p>
-                      <span style={{ fontWeight: 400 }}>
-                        Absolutely. It evaluates a variety of ad formats,
-                        including static images, videos, and UGC (User-Generated
-                        Content), and provides inspiration based on the format&#39;s
-                        performance.
-                      </span>
-                    </p>
-                  </div>
-                </div>
-              </details>
-              <details
-                itemScope={true}
-                itemProp="mainEntity"
-                itemType="https://schema.org/Question"
-              >
-                <summary itemProp="name">
-                  Can Creative Affinity help with future creative development?{" "}
-                  <i className="icon-chevron-right" />
-                </summary>
-                <div
-                  itemScope={true}
-                  itemProp="acceptedAnswer"
-                  itemType="https://schema.org/Answer"
-                >
-                  <div itemProp="text">
-                    <p>
-                      <span style={{ fontWeight: 400 }}>
-                        Yes, by analyzing trends and performance metrics, it
-                        offers actionable recommendations for improving existing
-                        creatives and designing new ones tailored to specific
-                        audience segments.
-                      </span>
-                    </p>
-                  </div>
-                </div>
-              </details>
-              <details
-                itemScope={true}
-                itemProp="mainEntity"
-                itemType="https://schema.org/Question"
-              >
-                <summary itemProp="name">
-                  What if an ad doesn&#39;t have LTV attributed?{" "}
-                  <i className="icon-chevron-right" />
-                </summary>
-                <div
-                  itemScope={true}
-                  itemProp="acceptedAnswer"
-                  itemType="https://schema.org/Answer"
-                >
-                  <div itemProp="text">
-                    <p>
-                      <span style={{ fontWeight: 400 }}>
-                        This typically means the system was unable to match the
-                        ad to a customer&#39;s transaction, often due to limited
-                        data, low spend, or tracking configuration issues.
-                        However, depending on your campaign objectives, or
-                        recency of campaign deployment, some ads may not yet
-                        have yielded customers.
-                      </span>
-                    </p>
-                  </div>
-                </div>
-              </details>
-              <details
-                itemScope={true}
-                itemProp="mainEntity"
-                itemType="https://schema.org/Question"
-              >
-                <summary itemProp="name">
-                  How can I use Creative Affinity insights to increase LTV?{" "}
-                  <i className="icon-chevron-right" />
-                </summary>
-                <div
-                  itemScope={true}
-                  itemProp="acceptedAnswer"
-                  itemType="https://schema.org/Answer"
-                >
-                  <div itemProp="text">
-                    <p>
-                      <span style={{ fontWeight: 400 }}>
-                        The tool helps you identify creatives and messaging that
-                        attract high-LTV customers, allowing you to prioritize
-                        these elements in your campaigns for better customer
-                        retention and revenue growth.
-                      </span>
-                    </p>
-                  </div>
-                </div>
-              </details>
-              <details
-                itemScope={true}
-                itemProp="mainEntity"
-                itemType="https://schema.org/Question"
-              >
-                <summary itemProp="name">
-                  Are there future updates planned for Creative Affinity?{" "}
-                  <i className="icon-chevron-right" />
-                </summary>
-                <div
-                  itemScope={true}
-                  itemProp="acceptedAnswer"
-                  itemType="https://schema.org/Answer"
-                >
-                  <div itemProp="text">
-                    <p>
-                      <span style={{ fontWeight: 400 }}>
-                        Yes, upcoming updates include enhanced filtering
-                        options, customer insights linked to ads, video analysis
-                        capabilities, and the integration of image recognition
-                        AI to further improve creative insights.
-                      </span>
-                    </p>
-                  </div>
-                </div>
-              </details>
-              <details
-                itemScope={true}
-                itemProp="mainEntity"
-                itemType="https://schema.org/Question"
-              >
-                <summary itemProp="name">
-                  Is there a learning curve for using Creative Affinity?{" "}
-                  <i className="icon-chevron-right" />
-                </summary>
-                <div
-                  itemScope={true}
-                  itemProp="acceptedAnswer"
-                  itemType="https://schema.org/Answer"
-                >
-                  <div itemProp="text">
-                    <p>
-                      <span style={{ fontWeight: 400 }}>
-                        Not at all. The platform is designed for marketers,
-                        offering intuitive dashboards and tools that make it
-                        easy to analyze and act on creative performance data.
-                      </span>
-                    </p>
-                  </div>
-                </div>
-              </details>
-            </div>
-          </div>
+  <div className="section-list-accordion-faq">
+
+    <details itemScope={true} itemProp="mainEntity" itemType="https://schema.org/Question">
+      <summary itemProp="name">
+        How does Burac AI Creative Affinity improve ad campaigns? <i className="icon-chevron-right" />
+      </summary>
+      <div itemScope={true} itemProp="acceptedAnswer" itemType="https://schema.org/Answer">
+        <div itemProp="text">
+          <p><span style={{ fontWeight: 400 }}>
+            Burac AI identifies which creatives attract high-value customers using metrics like engagement and LTV, helping you double down on the ads that perform best across key audiences.
+          </span></p>
+        </div>
+      </div>
+    </details>
+
+    <details itemScope={true} itemProp="mainEntity" itemType="https://schema.org/Question">
+      <summary itemProp="name">
+        Can Creative Affinity work across multiple platforms? <i className="icon-chevron-right" />
+      </summary>
+      <div itemScope={true} itemProp="acceptedAnswer" itemType="https://schema.org/Answer">
+        <div itemProp="text">
+          <p><span style={{ fontWeight: 400 }}>
+            Yes. Burac AI supports campaign analysis across platforms like Meta, TikTok, and YouTube (coming soon), offering performance insights customized for each ecosystem.
+          </span></p>
+        </div>
+      </div>
+    </details>
+
+    <details itemScope={true} itemProp="mainEntity" itemType="https://schema.org/Question">
+      <summary itemProp="name">
+        How does Burac AI match creatives with customer data? <i className="icon-chevron-right" />
+      </summary>
+      <div itemScope={true} itemProp="acceptedAnswer" itemType="https://schema.org/Answer">
+        <div itemProp="text">
+          <p><span style={{ fontWeight: 400 }}>
+            Our proprietary algorithm connects creatives with audience data — linking transactions, engagement, and purchase behavior to pinpoint which ads drive the most valuable actions.
+          </span></p>
+        </div>
+      </div>
+    </details>
+
+    <details itemScope={true} itemProp="mainEntity" itemType="https://schema.org/Question">
+      <summary itemProp="name">
+        Does Burac AI analyze different ad formats? <i className="icon-chevron-right" />
+      </summary>
+      <div itemScope={true} itemProp="acceptedAnswer" itemType="https://schema.org/Answer">
+        <div itemProp="text">
+          <p><span style={{ fontWeight: 400 }}>
+            Absolutely. It evaluates static, video, and UGC formats, revealing what performs best for your audience and inspiring future creative direction.
+          </span></p>
+        </div>
+      </div>
+    </details>
+
+    <details itemScope={true} itemProp="mainEntity" itemType="https://schema.org/Question">
+      <summary itemProp="name">
+        Can Burac AI help guide future creative development? <i className="icon-chevron-right" />
+      </summary>
+      <div itemScope={true} itemProp="acceptedAnswer" itemType="https://schema.org/Answer">
+        <div itemProp="text">
+          <p><span style={{ fontWeight: 400 }}>
+            Yes. Burac AI uncovers patterns and performance insights, helping your team refine creative direction and design data-informed content for stronger engagement.
+          </span></p>
+        </div>
+      </div>
+    </details>
+
+    <details itemScope={true} itemProp="mainEntity" itemType="https://schema.org/Question">
+      <summary itemProp="name">
+        What if some ads don’t have LTV data? <i className="icon-chevron-right" />
+      </summary>
+      <div itemScope={true} itemProp="acceptedAnswer" itemType="https://schema.org/Answer">
+        <div itemProp="text">
+          <p><span style={{ fontWeight: 400 }}>
+            This usually means limited transaction data is available — often due to new campaigns or incomplete tracking. Burac AI highlights these gaps so your team can quickly resolve them.
+          </span></p>
+        </div>
+      </div>
+    </details>
+
+    <details itemScope={true} itemProp="mainEntity" itemType="https://schema.org/Question">
+      <summary itemProp="name">
+        How can Creative Affinity insights increase LTV? <i className="icon-chevron-right" />
+      </summary>
+      <div itemScope={true} itemProp="acceptedAnswer" itemType="https://schema.org/Answer">
+        <div itemProp="text">
+          <p><span style={{ fontWeight: 400 }}>
+            Burac AI pinpoints creatives and messages that attract high-value users, allowing you to scale what works and retain more profitable customers over time.
+          </span></p>
+        </div>
+      </div>
+    </details>
+
+    <details itemScope={true} itemProp="mainEntity" itemType="https://schema.org/Question">
+      <summary itemProp="name">
+        Are there future updates planned for Creative Affinity? <i className="icon-chevron-right" />
+      </summary>
+      <div itemScope={true} itemProp="acceptedAnswer" itemType="https://schema.org/Answer">
+        <div itemProp="text">
+          <p><span style={{ fontWeight: 400 }}>
+            Yes — upcoming enhancements include predictive creative analysis, image recognition AI, and cross-platform intelligence for deeper insight into creative performance.
+          </span></p>
+        </div>
+      </div>
+    </details>
+
+    <details itemScope={true} itemProp="mainEntity" itemType="https://schema.org/Question">
+      <summary itemProp="name">
+        Is Burac AI easy to use for marketing teams? <i className="icon-chevron-right" />
+      </summary>
+      <div itemScope={true} itemProp="acceptedAnswer" itemType="https://schema.org/Answer">
+        <div itemProp="text">
+          <p><span style={{ fontWeight: 400 }}>
+            Definitely. Burac AI’s intuitive dashboard gives marketers direct access to performance data and insights — no technical expertise required.
+          </span></p>
+        </div>
+      </div>
+    </details>
+
+  </div>
+</div>
+
         </div>
       </div>
     </section>

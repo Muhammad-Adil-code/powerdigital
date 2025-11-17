@@ -18,18 +18,11 @@ export default function dualllayout2() {
         <div className="text-section">
           <span className="badge rounded-pill bg-dark">Our Approach</span>
           <div className="title">
-            <h2> Welcome to the end of gut feelings </h2>
+            <h2> Demystifying AI for real-world impact </h2>
           </div>
           <div className="text">
             <p>
-              As a leading global digital marketing agency, we do everything in
-              our power to quell uncertainty through total transparency. We
-              provide receipts for what’s driving business impact, believing in
-              accountability versus obfuscation. Our unconventional approach
-              integrates strategic consulting, data intelligence, channel
-              expertise and proprietary technology — enabling our teams to
-              develop clear, actionable insights and activate high-performing
-              digital marketing campaigns.
+              As a cutting-edge AI solutions provider, burac.ai is committed to transparency and precision. We deliver measurable results by combining domain knowledge, robust algorithms, and user-centric design. Our approach fuses strategic innovation, deep analytics, and proprietary AI technology — enabling our clients to harness data confidently and optimize business performance.
             </p>
           </div>
           <a

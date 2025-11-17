@@ -7,11 +7,11 @@ export default function firstsection() {
       <meta name="emotion-insertion-point" content="" />
       <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
       {/*82ae2d09-ef92-4188-9d95-7d48b4689e32 c*/}
-      <title>Digital Marketing Agency Driving Online Growth | Power Digital</title>
+      <title>Digital Marketing Agency Driving Online Growth | burac ai</title>
       <meta name="keywords" content="" />
       <meta
         name="description"
-        content="At Power Digital, we don't guess — we diagnose. Our proprietary PowerCircuit™ Framework is the key to transforming uncertainty into undeniable growth."
+        content="At  burac ai, we don't guess — we diagnose. Our proprietary PowerCircuit™ Framework is the key to transforming uncertainty into undeniable growth."
       />
       <link
         type="text/css"
@@ -53,11 +53,11 @@ export default function firstsection() {
       
       <meta
         property="og:title"
-        content="Digital Marketing Agency Driving Online Growth | Power Digital"
+        content="Digital Marketing Agency Driving Online Growth |  burac ai"
       />
       <meta
         property="og:description"
-        content="At Power Digital, we don't guess — we diagnose. Our proprietary PowerCircuit™ Framework is the key to transforming uncertainty into undeniable growth."
+        content="At  burac ai, we don't guess — we diagnose. Our proprietary PowerCircuit™ Framework is the key to transforming uncertainty into undeniable growth."
       />
       <meta
         property="og:image"

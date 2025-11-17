@@ -13,16 +13,12 @@ export default function mutitextapproach() {
             <div className="paragraph">
               <p>
                 <span style={{ fontWeight: 400 }}>
-                  We’re quick on our feet – adapting and solving for new
-                  possibilities and obstacles as they come. Our team of marketers,
-                  data scientists, strategists, and analysts are ready to help your
-                  business grow.
+                  We integrate seamlessly with businesses like yours, elevating pipelines and digital operations to achieve measurable growth. 
                 </span>
               </p>
               <p>
                 <span style={{ fontWeight: 400 }}>
-                  We have the capabilities and resources to solve the challenges
-                  that keep you up at night. Challenges such as:
+                  Agile and adaptive, our teams of data scientists, developers, strategists, and analysts tackle your biggest challenges with precision.
                 </span>
               </p>
             </div>
@@ -32,31 +28,20 @@ export default function mutitextapproach() {
             <div className="multi-text-section__row">
               <div className="item">
                 <div className="text">
-                  <h3>Increasing Contactable Volume of Customers/ Leads</h3>
+                  <h3>Increasing Contactable Leads</h3>
                   <p>
                     <span style={{ fontWeight: 400 }}>
-                      Sending the right messaging, to the right audience, through
-                      the right channel mix is a science. Luckily we can securely
-                      analyze your marketing data, forecast where and how you should
-                      spend, develop the creative concepts to attract and engage the
-                      right audience, executing on campaigns that will make the
-                      leads pour in and are ready to become your newest customer.
+                      Target the right audience, with the right message, across the right channels. Our AI and analytics platforms forecast opportunities, optimize creative concepts, and execute campaigns that generate high-quality leads ready to convert.
                     </span>
                   </p>
                 </div>
               </div>
               <div className="item">
                 <div className="text">
-                  <h3>Nurture and Retention</h3>
+                  <h3>Nurture & Retention</h3>
                   <p>
                     <span style={{ fontWeight: 400 }}>
-                      It’s one thing to get a lead in the door (&amp; all the time/
-                      money that goes into it), it’s another to nurture, convert and
-                      retain until a lead becomes a loyal customer and comes back
-                      time and time again. We’re experts when it comes to working
-                      with various sales cycles, enrollment calendars, importance of
-                      lifetime value and have proven success nurturing leads into
-                      customers and improving retention.
+                      We don’t stop at lead generation — we nurture prospects through complex sales cycles, optimizing lifetime value and retention. Our AI-driven workflows ensure leads convert consistently and return repeatedly.
                     </span>
                   </p>
                 </div>
@@ -66,17 +51,10 @@ export default function mutitextapproach() {
             <div className="multi-text-section__row">
               <div className="item">
                 <div className="text">
-                  <h3>Measurement and Contribution Effect</h3>
+                  <h3>Measurement & Contribution Analysis</h3>
                   <p>
                     <span style={{ fontWeight: 400 }}>
-                      Marketers in any industry are under fire to show ROI and
-                      effectiveness of the marketing mix for every dollar spent. Are
-                      you spending dollars on a channel, seeing decent results, but
-                      not seeing the impact on overall revenue or understanding what
-                      channels are contributing most effectively? Our team of data
-                      scientists can dig into the numbers and show what tactics are
-                      actually contributing to incremental (or new) revenue and
-                      which tactics are not. Then, we adapt and execute.
+                      Our analytics teams determine which channels and campaigns truly contribute to revenue. We then optimize for incremental gains and refine strategies to maximize ROI.
                     </span>
                   </p>
                 </div>
@@ -86,10 +64,7 @@ export default function mutitextapproach() {
                   <h3>Operational Efficiency</h3>
                   <p>
                     <span style={{ fontWeight: 400 }}>
-                      Are you drowning in third party tools, data, martech, and
-                      disconnected teams trying to make sense of it all? Our team
-                      can plug in – weaving together marketing and business
-                      practices that streamline to impact your bottom line.
+                      Burac.ai connects disparate tools, data, and teams into unified systems — streamlining operations, improving collaboration, and boosting the bottom line.
                     </span>
                   </p>
                 </div>

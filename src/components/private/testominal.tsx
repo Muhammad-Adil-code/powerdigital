@@ -1,12 +1,13 @@
 import React from 'react'
-import Image from '../../images/mb20220421_wcp_img_4034-min.jpg'
+import Image1 from '../../images/mb20220421_wcp_img_4034-min.jpg'
+import Image from 'next/image'
 export default function testominal() {
   return (
     <>
     <section className="full-image-testimonial bg-light  section-inner">
-      <img
+      <Image
         className="full-image-testimonial__image"
-        src={Image.src}
+        src={Image1.src}
         alt=""
         style={{ maxHeight: "px" }}
       />
@@ -14,20 +15,14 @@ export default function testominal() {
         <div className="note__text">
           <p>
             <em>
-              “Power Digital is a clear leader in the digital marketing space.
-              Their team has partnered closely with our private equity firm’s
-              portfolio companies to understand gaps in internal resources and
-              help drive revenue growth. I’ve been on the agency side, and I’ve
-              also worked with a lot of agencies on the client side, and without
-              a doubt, Power Digital has shown the most consistent business
-              intelligence and results.”
+              “Burac.ai is redefining how private equity evaluates marketing performance. Their insights gave us clarity on true growth levers across our portfolio and validated our investment theses with measurable proof.”
             </em>
           </p>
         </div>
         <div className="testimonial-person">
           <div className="person-info">
             <div className="person-photo">
-              <img src="img" alt="" srcSet="" />
+              <Image src="Image" alt="" />
             </div>
             <div className="person-details">
               <h3 className="person-name interface-small" />

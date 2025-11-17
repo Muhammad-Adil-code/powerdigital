@@ -1,9 +1,4 @@
 import React from 'react'
-import Image from 'next/image'
-import pepdmimage from '../../images/pe_pdm_image-768x430.png'
-import education from '../../images/Education-768x768.jpg'
-import homeservices from '../../images/0_2-2-768x768.jpg'
-import healthcare from '../../images/0_1-1-768x768.jpg'
 import Cardslider from '../../app/services/maincomonents/cardslider';
 
 const CardSliderData = [
@@ -80,7 +75,7 @@ export default function multitextindustries() {
             <div className="title">
               <span className="badge rounded-pill bg-dark">Industries</span>
               <h2>
-                From our talent to our tech, this is new wave digital marketing.
+               From talent to technology, this is next-generation digital operations.
               </h2>
             </div>
             <div className="paragraph">
@@ -102,10 +97,7 @@ export default function multitextindustries() {
                 <div className="text">
                   <h3>Undeniable Speed</h3>
                   <p>
-                    Everyone has capabilities, but coupling them with agility is the
-                    holy grail of growth marketing. We dive into the numbers to see
-                    what tactics are creating incremental or new revenue and which
-                    ones aren’t then we swiftly adapt and execute.
+                    We analyze performance, identify revenue-driving tactics, and adapt quickly — ensuring growth is continuous and measurable.
                   </p>
                 </div>
               </div>
@@ -113,10 +105,7 @@ export default function multitextindustries() {
                 <div className="text">
                   <h3>Undeniable Expertise</h3>
                   <p>
-                    Our team boasts some of the brightest minds in the world of
-                    digital and performance marketing, and everyone here is
-                    lockstep-focused on business impact  evidenced by a stellar 96+
-                    % client retention rate. Expect nothing less than best-in-class.
+                    Our team combines AI, data, and operational knowledge to deliver world-class results. With 96%+ client retention, excellence is standard.
                   </p>
                 </div>
               </div>
@@ -124,10 +113,7 @@ export default function multitextindustries() {
                 <div className="text">
                   <h3>Undeniable Results</h3>
                   <p>
-                    We’re driven by the outcomes, not ego. Perhaps that’s why we
-                    grow companies 2.6x faster than the industry average, with 27+ %
-                    YoY revenue increases. All of our critical capabilities
-                    prioritize optimizing our clients’ investments for maximum ROI.
+                    Clients grow faster and smarter, achieving 2.6x the industry average growth and 27%+ YoY revenue increases. Every capability is optimized for maximum ROI.
                   </p>
                 </div>
               </div>

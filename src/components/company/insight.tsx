@@ -4,7 +4,6 @@ import Image, { StaticImageData } from 'next/image'
 import { SwiperOptions, SwiperModule } from 'swiper/types'
 import { Swiper, SwiperSlide } from 'swiper/react'
 import 'swiper/css'
- import styles from '../../styles/companyinsight.module.css'
 // Images
 import wastedad from '../../images/wastedad-683x1024.png'
 import holidayshop from '../../images/holidayshop-1024x683.jpg'
@@ -24,41 +23,42 @@ interface CompanyPost {
 // Data (company content)
 const posts: CompanyPost[] = [
   {
-    title: 'The Hidden Cost of Wasted Ad Spend—and How to Fix It',
+    title: 'Cutting Ad Waste: How to Maximize Every Marketing Dollar',
     author: 'Tara Johnson | October 9, 2025',
     image: wastedad,
     href: 'https://powerdigitalmarketing.com/blog/hidden-cost-wasted-ad-spend/',
-    tags: ['Brand Building', 'Digital Marketing', 'Measurement'],
+    tags: ['Digital Marketing', 'ROI Optimization', 'Advertising Strategy'],
   },
   {
-    title: 'Why Early Customer Acquisition Is the Key to Holiday Success',
+    title: 'Holiday Marketing Success: Why Early Customer Acquisition Matters',
     author: 'Tara Johnson | October 9, 2025',
     image: holidayshop,
     href: 'https://powerdigitalmarketing.com/blog/early-customer-acquisition-holiday-success/',
-    tags: ['Digital Marketing', 'eCommerce', 'Paid Social'],
+    tags: ['eCommerce', 'Customer Acquisition', 'Paid Social'],
   },
   {
-    title: 'Turning Small Carts into Big Wins: Growing LTV in Food & Beverage',
+    title: 'Boosting LTV in Food & Beverage: From Small Carts to Big Wins',
     author: 'Tara Johnson | September 22, 2025',
     image: b6bc2835,
     href: 'https://powerdigitalmarketing.com/blog/grow-ltv-food-beverage-low-aov/',
-    tags: ['Digital Marketing', 'eCommerce', 'Measurement'],
+    tags: ['eCommerce', 'Customer Retention', 'Revenue Growth'],
   },
   {
-    title: 'Messaging in a Regulated Market: 7 Food and Beverage Brand Compliance Tips',
+    title: '7 Compliance Tips for Messaging in Regulated Food & Beverage Markets',
     author: 'Tara Johnson | September 22, 2025',
     image: foodbeverage,
     href: 'https://powerdigitalmarketing.com/blog/food-beverage-messaging-compliance/',
-    tags: ['Brand Building', 'Digital Marketing', 'eCommerce', 'Measurement'],
+    tags: ['Brand Strategy', 'Regulatory Compliance', 'Digital Marketing'],
   },
   {
-    title: 'How a CPG Brand Unlocked $3.6M in Incremental Revenue with the Power Circuit™',
+    title: 'Unlocking $3.6M in Incremental Revenue with the Power Circuit™',
     author: 'Tara Johnson | September 22, 2025',
     image: screenshot,
     href: 'https://powerdigitalmarketing.com/blog/cpg-brand-growth-power-circuit/',
-    tags: ['Digital Marketing', 'eCommerce', 'Measurement'],
+    tags: ['eCommerce', 'Revenue Growth', 'Marketing Automation'],
   },
-]
+];
+
 
 // Responsiveness hook (consumer logic)
 const MOBILE_BREAKPOINT = 768

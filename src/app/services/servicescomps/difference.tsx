@@ -281,7 +281,7 @@ export default function Difference() {
                                         <p>
                                             <span style={{ fontWeight: 400 }}>
                                                 Insights AI integrates 20+ marketing reports, AI-driven
-                                                analytics, and expert data support within the Power Digital
+                                                analytics, and expert data support within the Burac.ai 
                                                 ecosystem. Powered by a top LLM model, it allows you to
                                                 interact with your data in real-time, ask marketing questions,
                                                 and receive expert-backed recommendations for impactful

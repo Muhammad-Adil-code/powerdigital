@@ -4,31 +4,15 @@ export default function power() {
     <section className="multi-text-section bg-light ">
       <div className="multi-text-section__text">
         <div className="title">
-          <span className="badge rounded-pill bg-dark">Why Power?</span>
+          <span className="badge rounded-pill bg-dark">Why Burac.ai?</span>
           <h2>
-            Accelerate your B2B marketing growth with tailored, data-backed
-            holistic strategies that grow with your business
+            Accelerate your B2B growth with AI-driven solutions designed for speed, scale, and measurable ROI.
           </h2>
         </div>
         <div className="paragraph">
           <p>
             <span style={{ fontWeight: 400 }}>
-              In the fast-moving world of B2B, decision-makers need clear,
-              actionable insights to drive growth. At Power Digital,{" "}
-            </span>
-            <span style={{ fontWeight: 400 }}>
-              a leading digital marketing agency,{" "}
-            </span>
-            <span style={{ fontWeight: 400 }}>
-              we specialize in building strategies that target the exact needs
-              of B2B companies—whether that’s shortening long sales cycles,
-              boosting user adoption, or improving retention. By leveraging data
-              from every touchpoint, we help you streamline your sales funnel
-              and deliver personalized messaging that resonates with each layer
-              of your buyer personas, from C-suite executives to product users.
-              Every strategy we deploy is designed to optimize for growth,
-              efficiency, and long-term success, with measurable impact at every
-              stage.
+              In a world where decisions must be made faster and smarter, Burac.ai builds technology that connects strategy, automation, and intelligence — helping enterprises reduce friction, improve efficiency, and grow stronger every quarter.
             </span>
           </p>
         </div>
@@ -38,38 +22,25 @@ export default function power() {
         <div className="multi-text-section__row">
           <div className="item">
             <div className="text">
-              <h3>Data-Backed Insights for Precision Targeting</h3>
+              <h3>Data-Driven Precision</h3>
               <p>
-                We turn complex data into actionable insights, helping you reach
-                the right decision-makers at the right time. By understanding
-                what drives each stakeholder, we craft messaging that resonates
-                deeply, speeding up the decision-making process and enhancing
-                your SEO and PPC efforts to increase traffic.
+                We use advanced data models to identify and engage the right users at the right time — amplifying performance across all digital channels.
               </p>
             </div>
           </div>
           <div className="item">
             <div className="text">
-              <h3>Holistic Strategies Aligned with Business Goals</h3>
+              <h3>Unified Strategies Aligned to Your Goals</h3>
               <p>
-                Our approach isn’t just about lead generation; it’s about
-                aligning every strategy with your long-term business objectives.
-                From boosting user engagement to increasing retention rates, we
-                ensure each initiative drives meaningful progress for your brand
-                by leveraging organic and paid advertising methods to maximize
-                reach.
+                Every solution we build supports long-term success — from user acquisition to product scalability and retention.
               </p>
             </div>
           </div>
           <div className="item">
             <div className="text">
-              <h3>Customized Solutions for Complex Sales Cycles</h3>
+              <h3>Custom Solutions for Complex Journeys</h3>
               <p>
-                B2B sales often involve multiple touchpoints and long cycles. We
-                streamline this journey by creating targeted, persona-based
-                campaigns that nurture leads at every stage, keeping prospects
-                engaged and driving conversions faster with our comprehensive
-                influencer management and development strategies.
+                Whether you're managing multi-touch enterprise pipelines or scaling startup operations, we design adaptive systems that accelerate conversion and adoption.
               </p>
             </div>
           </div>
@@ -78,27 +49,17 @@ export default function power() {
         <div className="multi-text-section__row">
           <div className="item">
             <div className="text">
-              <h3>Cross-Department Collaboration for Consistent Messaging</h3>
+              <h3>Cross-Team Alignment</h3>
               <p>
-                We break down silos between your sales, marketing, and product
-                teams, ensuring a unified brand message across all online and
-                offline touchpoints. This consistency builds trust with your
-                audience and strengthens every interaction within the buyer
-                journey, making us a preferred marketing agency for
-                comprehensive digital solutions.
+                We unite your development, marketing, and operations teams to ensure consistent delivery and messaging across every touchpoint.
               </p>
             </div>
           </div>
           <div className="item">
             <div className="text">
-              <h3>Measurable Impact with a Focus on ROI</h3>
+              <h3>ROI You Can Measure</h3>
               <p>
-                Every strategy we implement is built with measurable outcomes in
-                mind. By closely tracking performance and adapting as needed, we
-                ensure that your investment delivers a strong ROI and measurable
-                impact, providing clear value at every phase of your growth,
-                whether through enhanced advertising effectiveness, improved
-                offer acceptance rates, or increased traffic and engagement.
+                Every initiative is tracked, optimized, and reported transparently — ensuring your investment produces visible, repeatable outcomes.
               </p>
             </div>
           </div>

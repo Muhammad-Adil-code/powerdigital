@@ -1,4 +1,5 @@
 import React from 'react'
+import Image from 'next/image'
 import Marketing from '../../images/Marketing-Measurement-Incrementality.png'
 
 export default function hero() {
@@ -39,7 +40,7 @@ export default function hero() {
       </div>
       <div className="single-hero__image">
         <div className="single-badge"></div>
-        <img src={Marketing.src} alt="" />
+        <Image src={Marketing.src} alt="" width={1200} height={675} />
       </div>
     </section>
     </>

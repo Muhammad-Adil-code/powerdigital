@@ -12,11 +12,10 @@ import WhySection from '../maincomonents/whysection';
 import WorkWith from '../maincomonents/workwith';
 import Services from '../maincomonents/Services';
 
-
 const HeroSectionData = {
     badge: "GROWTH MARKETING",
     title: "Supercharge revenue with an award-winning affiliate digital marketing agency",
-    description: "With a dedicated team of affiliate experts we have what it takes to take your business to the next level. Explore our robust affiliate marketing offerings to support your overall business strategy.",
+    description: "With a dedicated team of affiliate experts, Burac AI has what it takes to take your business to the next level. Explore our robust affiliate marketing offerings to support your overall business strategy.",
     buttonText: "Get a Proposal",
     buttonUrl: "#",
     image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Affiliate.png",
@@ -24,12 +23,12 @@ const HeroSectionData = {
 };
 
 const WorkWithData = {
-    badge: "Work with Power",
-    title: "Strategic PPC Management Services",
+    badge: "Work with Burac AI",
+    title: "Strategic Amazon & DTC Marketing Services",
     paragraphs: [
-        "Today's customer doesn't distinguish between buying online, on Amazon, or at a physical store. What matters is a frictionless, convenient and accessible shopping experience, regardless of time and place.&nbsp;",
-        "For many brands, orchestrating a true customer-centric experience from digital awareness through conversion is challenging. DTC and retail divisions often operate in silos, and most retail marketing partners only cover a slice of the journey",
-        "<b>Our Amazon marketing agency unifies retail and DTC digital marketing under one roof, driving brand awareness and profitable sales growth across channels and tactics</b>"
+        "Today's customer doesn't distinguish between buying online, on Amazon, or at a physical store. What matters is a frictionless, convenient, and accessible shopping experience, regardless of time and place.",
+        "For many brands, orchestrating a true customer-centric experience from digital awareness through conversion is challenging. DTC and retail divisions often operate in silos, and most retail marketing partners only cover a slice of the journey.",
+        "<b>Burac AI unifies retail and DTC digital marketing under one roof, driving brand awareness and profitable sales growth across channels and tactics.</b>"
     ],
     buttonText: "Get in touch",
     buttonUrl: "https://powerdigitalmarketing.com/work-with-us/",
@@ -37,7 +36,7 @@ const WorkWithData = {
         {
             icon: ServiceIcon1.src,
             title: "Authentic Brand Experience Across Touchpoints",
-            description: "Product mix consulting, product page optimization &amp; Amazon SEO, Brand Store optimization &amp; more – we ensure your Amazon presence is true to your brand, and converts in a crowded marketplace.",
+            description: "Product mix consulting, product page optimization & Amazon SEO, Brand Store optimization & more – we ensure your Amazon presence is true to your brand, and converts in a crowded marketplace.",
             bgColor: "bg-secondary" as const,
             textColor: "#333333",
             iconColor: "invert(0)",
@@ -46,7 +45,7 @@ const WorkWithData = {
         {
             icon: Layer11.src,
             title: "Full-Funnel Media Strategy",
-            description: "We employ Amazon's full advertising arsenal across search, DSP and Amazon Marketing Cloud to fuel growth. From media planning &amp; ongoing optimization to advanced measurement capabilities that continuously calibrate.",
+            description: "We employ Amazon's full advertising arsenal across search, DSP and Amazon Marketing Cloud to fuel growth. From media planning & ongoing optimization to advanced measurement capabilities that continuously calibrate.",
             bgColor: "bg-primary" as const,
             textColor: "#ffffff",
             iconColor: "invert(1)",
@@ -75,15 +74,15 @@ const ServicesData = {
     items: [
         {
             title: "01 Prioritize & Plan",
-            description: "Identify the highest impact Amazon and retail marketing strategies to implement based on audit results &amp; brand goals. Once we've identified your final destination, we calculate turn-by-turn directions. Using your KPIs, timeline, and industry trends, we'll outline the most efficient path and navigate the competitive landscape.&nbsp;"
+            description: "Identify the highest impact Amazon and retail marketing strategies based on audit results & brand goals. Using KPIs, timeline, and industry trends, we outline the most efficient path and navigate the competitive landscape."
         },
         {
             title: "02 Align & Grow",
-            description: "Synchronize your Amazon marketing strategy with your brand's holistic ecommerce and/or B&amp;M strategy, from product mix to media activation. Implement synergistic cross-channel strategies &amp; omnichannel measurement techniques to drive overall brand growth."
+            description: "Synchronize your Amazon marketing strategy with your brand's holistic ecommerce and/or B&M strategy, from product mix to media activation. Implement synergistic cross-channel strategies & omnichannel measurement techniques to drive overall brand growth."
         },
         {
             title: "03 Measure, Iterate, Repeat",
-            description: "With advanced measurement and in-depth analytics, we consider the true impact of each strategy, pivoting with marketplace &amp; competitive landscape changes, and capitalizing on new opportunities."
+            description: "With advanced measurement and in-depth analytics, we assess the impact of each strategy, pivot with marketplace & competitive changes, and capitalize on new opportunities."
         }
     ]
 };
@@ -92,7 +91,7 @@ const CardSliderData = [
     {
         id: "catalog-management",
         title: "Catalog Management & Organic Strategy",
-        description: "Experts on your side to keep your account healthy, products live, and pull all organic visibility levers available to build & maintain a strong foundation for sustained growth",
+        description: "Experts on your side to keep your account healthy, products live, and pull all organic visibility levers to build & maintain a strong foundation for sustained growth.",
         image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Strategic-Roadmap-768x768.jpg",
         imageAlt: "Catalog Management & Organic Strategy",
         bgColor: "bg-white" as const
@@ -100,7 +99,7 @@ const CardSliderData = [
     {
         id: "product-page-creative",
         title: "Product Page & Storefront Creative",
-        description: "Conversion-driving, Amazon-optimized assets from the product image carousel to the Amazon Brand Store that turn browsers into buyers",
+        description: "Conversion-driving, Amazon-optimized assets from the product image carousel to the Amazon Brand Store that turn browsers into buyers.",
         image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Amazon-Ads-1-768x768.jpg",
         imageAlt: "Product Page & Storefront Creative",
         bgColor: "bg-secondary" as const
@@ -108,7 +107,7 @@ const CardSliderData = [
     {
         id: "seo-algorithm",
         title: "SEO - Tuned to the Amazon Algorithm",
-        description: "Written content on the frontend and backend of your listings that maximizes product discoverability on the marketplace",
+        description: "Written content on the frontend and backend of your listings that maximizes product discoverability on the marketplace.",
         image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Conversion-Rates-768x768.jpg",
         imageAlt: "SEO - Tuned to the Amazon Algorithm",
         bgColor: "bg-primary" as const
@@ -116,7 +115,7 @@ const CardSliderData = [
     {
         id: "ppc-advertising",
         title: "Amazon PPC Search Advertising",
-        description: "Acquire & retain Amazon customers with adaptive search advertising strategy that puts business & bottom line impact first",
+        description: "Acquire & retain Amazon customers with adaptive search advertising strategy that puts business & bottom line impact first.",
         image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Optimization-Opportunities-768x768.jpg",
         imageAlt: "Amazon PPC Search Advertising",
         bgColor: "bg-white" as const
@@ -124,7 +123,7 @@ const CardSliderData = [
     {
         id: "dsp-advertising",
         title: "Amazon DSP Advertising",
-        description: "Fuel the funnel for continuous growth with Amazon's powerful first-party customer data in the hands of seasoned Amazon programmatic display experts",
+        description: "Fuel the funnel for continuous growth with Amazon's powerful first-party customer data in the hands of seasoned programmatic display experts.",
         image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Executive-Strategy-768x768.jpg",
         imageAlt: "Amazon DSP Advertising",
         bgColor: "bg-secondary" as const
@@ -132,7 +131,7 @@ const CardSliderData = [
     {
         id: "omnichannel-strategies",
         title: "Cutting-Edge Omnichannel Strategies",
-        description: "Customized cross-channel advertising that aligns your digital strategy with your customer's unique journey and leverages the strengths of non-Amazon channels, like our paid media marketing services, to grow Amazon revenue",
+        description: "Customized cross-channel advertising that aligns your digital strategy with your customer's journey and leverages non-Amazon channels to grow Amazon revenue.",
         image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/12/pr_pdm_image-768x430.png",
         imageAlt: "Cutting-Edge Omnichannel Strategies",
         bgColor: "bg-primary" as const,
@@ -150,7 +149,7 @@ const CardSliderData = [
     {
         id: "measurement-solutions",
         title: "Advanced Measurement Solutions",
-        description: "Amazon Marketing Cloud analytics and data science-backed incrementality testing to assess the true impact of Amazon marketing strategy and continuously iterate",
+        description: "Amazon Marketing Cloud analytics and data science-backed incrementality testing to assess the true impact of Amazon marketing strategy and continuously iterate.",
         image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/12/0_0-1-768x768.jpg",
         imageAlt: "Advanced Measurement Solutions",
         bgColor: "bg-white" as const
@@ -158,8 +157,8 @@ const CardSliderData = [
 ];
 
 const WhySectionData = {
-    badge: "Why Power?",
-    title: "Our team of experts across all major ecommerce channels take a customized, iterative and adaptive approach to your success on Amazon and overall growth as a brand.",
+    badge: "Why Burac AI?",
+    title: "Our team of experts across all major ecommerce channels takes a customized, iterative, and adaptive approach to your success on Amazon and overall brand growth.",
     buttonText: "Get a free marketing audit",
     buttonUrl: "https://powerdigitalmarketing.com/work-with-us/",
     introText: "By partnering with us, you get:",
@@ -167,9 +166,9 @@ const WhySectionData = {
         {
             type: "list" as const,
             content: [
-                "<b>Full-service management:</b> Amazon storefront, Amazon DSP, &amp; product mix consulting, catalog management, troubleshooting, and more taken off your hands.",
-                "<b>A dedicated team of experts:</b> Hyper-focused SME's with deep knowledge and robust experience in their specific online retail discipline.",
-                "<b>Adaptive Amazon marketplace strategies:</b> Continuous monitoring, measuring, and adapting to changes in your unique Amazon landscape"
+                "<b>Full-service management:</b> Amazon storefront, Amazon DSP, & product mix consulting, catalog management, troubleshooting, and more handled for you.",
+                "<b>A dedicated team of experts:</b> Hyper-focused SMEs with deep knowledge and robust experience in their specific online retail discipline.",
+                "<b>Adaptive Amazon marketplace strategies:</b> Continuous monitoring, measuring, and adapting to changes in your unique Amazon landscape."
             ]
         }
     ]
@@ -183,67 +182,61 @@ const LearnMoreData = {
         {
             question: "What are the advantages of having 1 agency manage my DTC and Amazon marketing (vs. specialized shops)?",
             answer: [
-                "Cohesive &amp; complementary strategies (1 agency goaled on overall success vs. sales channel success), brand image &amp; messaging consistency, budget fluidity, nimbleness / agility – especially during critical periods like Q4, efficiency / ease of 1 go-to POC with a team behind them."
+                "Cohesive & complementary strategies (1 agency focused on overall success vs. sales channel success), brand image & messaging consistency, budget flexibility, agility during peak periods, and efficiency of a single point of contact backed by a full team."
             ]
         },
         {
             question: "Will focusing on Amazon growth cannibalize sales from my website?",
             answer: [
-                "Amazon accounts for nearly half of all ecommerce transactions in the US. Customers will continue to buy on Amazon, whether they end up purchasing your product or a competitor's. If your products aren't available where your customers want to shop, you're missing out on revenue.",
-                "With the right intentional, coordinated strategies in place (avoid \"siloing\" your Amazon strategy from the rest of your digital strategy), you can avoid cannibalization and drive overall brand growth. Power Digital specializes in growing Amazon sales &amp; market share while deploying strategies that complement, instead of detract from, DTC efforts. Our team is goaled on overall brand success vs. retailer success."
+                "Amazon accounts for nearly half of all ecommerce transactions in the US. Customers will continue to buy on Amazon, whether your products or a competitor's. With intentional, coordinated strategies, you can avoid cannibalization and drive overall brand growth. Burac AI specializes in growing Amazon sales & market share while complementing DTC efforts."
             ]
         },
         {
-            question: "If Amazon sales are less profitable than my DTC sales, why would I invest to grow Amazon?",
+            question: "If Amazon sales are less profitable than my DTC sales, why invest in Amazon?",
             answer: [
-                "Amazon offers a sizable volume of high-intent customers to acquire – there's a high ceiling for revenue. That said, the fees charged for access to these customers often impacts profitability for brands.",
-                "Profitability is a key consideration at Power Digital when tailoring Amazon strategy for brands. We first evaluate strategies to improve profitability, then take a next-best-dollar approach, balancing higher traffic and conversion on Amazon with margin, often at the product level."
+                "Amazon provides access to high-intent customers at scale. Burac AI evaluates profitability first and balances revenue growth with margin optimization, often at the product level."
             ]
         },
         {
-            question: "Is paid Amazon advertising necessary? Can't I just list my products to capture that revenue?",
+            question: "Is paid Amazon advertising necessary?",
             answer: [
-                "With 2,000+ new sellers joining Amazon every day, simply listing products isn't enough. Just like brick &amp; mortar retail, nobody will buy your products if they can't find them on the shelves.",
-                "Power Digital takes a holistic approach to advertising for growth of your amazon store, with strategies like search advertising to get in front of &amp; convert interested shoppers in the digital aisle, combined with a full suite of digital marketing services to build brand intent before shoppers arrive at the (online) store."
+                "With thousands of new sellers daily, just listing products isn’t enough. Burac AI takes a holistic approach to Amazon advertising, combining search, DSP, and cross-channel strategies to drive traffic and conversions."
             ]
         },
         {
             question: "What drives organic ranking on Amazon?",
             answer: [
-                "Organic (unpaid) ranking for keyword searches on Amazon is driven by several factors, including a product's keyword relevancy (from the product page's written content), sales velocity, availability/fulfillment, and reviews. With the most recent update to the ranking algorithm, traffic and conversions from sources outside the marketplace (for example, from clicks on a TikTok ad) now have a significant impact on organic ranking as well.&nbsp;",
-                "This highlights the importance of all facets of Amazon strategy – from operational soundness, to content &amp; creative, to Amazon ads (Amazon PPC &amp; DSP), to cross-channel paid strategy driving traffic to Amazon – in building &amp; sustaining success."
+                "Organic ranking is influenced by keyword relevancy, sales velocity, fulfillment, reviews, and external traffic. Burac AI integrates operational, creative, and advertising strategies to maximize rankings."
             ]
         },
         {
-            question: "What are the advantages of Amazon DSP compared to other programmatic display platforms?",
+            question: "What are the advantages of Amazon DSP compared to other programmatic platforms?",
             answer: [
-                "The primary advantage of DSP compared to <a href=\"https://powerdigitalmarketing.com/services/programmatic-advertising-agency/\">programmatic advertising services</a> is the robust first-party Amazon customer data that powers it. This data gives brands the ability to target lucrative high-intent audiences across the internet even as a cookieless future quickly approaches. Other advantages include exclusive inventory (like Twitch and Prime Video), closed-loop attribution, and evolving in-store capabilities such as Amazon DSP x Whole Foods in-store signage and measurement."
+                "DSP provides access to Amazon’s first-party data, exclusive inventory (Twitch, Prime Video), closed-loop attribution, and evolving in-store capabilities."
             ]
         },
         {
-            question: "What is Amazon Marketing Cloud? How can I benefit from it?",
+            question: "What is Amazon Marketing Cloud?",
             answer: [
-                "Amazon Marketing Cloud (AMC) is a secure, privacy-safe, and cloud-based data clean room solution. Brands and advertisers can use even-level data sets across channels to perform custom analytics and gain insights that can't be found with standard business and advertising reports alone.",
-                "Brands can combine event-level data from Amazon Search, Amazon DSP, Amazon Seller Central and/or Vendor Central, as well as their own DTC site and other ad platforms like Meta and TikTok, in the AMC clean room. From there they can answer questions like: What's the incremental reach of my DSP advertising? What's the LTV of my Amazon customers? How many customers that see an ad on Instagram end up buying on Amazon later? What's the overlap between my DTC and Amazon customers – how many of them purchase through both channels?",
-                "Power Digital's Data Intelligence team is equipped to dive into these unanswered questions and many more through custom queries &amp; reporting, powered by AMC. These insights lead to a better understanding of your customer, their shopper journey, and better, more informed marketing decisions."
+                "AMC is a privacy-safe clean room solution allowing custom analytics across Amazon and external data sources. Burac AI uses AMC to generate actionable insights for customer understanding and marketing optimization."
             ]
         },
         {
-            question: "Can I use Amazon's Customer Reviews to improve my marketing strategy?",
+            question: "Can I use Amazon Customer Reviews to improve strategy?",
             answer: [
-                "Yes, customer reviews play a significant role in both your product's visibility and its credibility. Positive reviews not only build trust with potential buyers but also influence organic ranking on Amazon. At Power Digital, we recommend using customer feedback to refine your product listings, enhance your marketing messaging, and even guide your product development. Engaging with reviews (both positive and negative) can also improve your brand image and customer loyalty, ultimately contributing to long-term success."
+                "Yes, positive reviews improve credibility and ranking. Burac AI leverages reviews to optimize listings, messaging, and product development."
             ]
         },
         {
-            question: "How do I improve my product's visibility on Amazon?",
+            question: "How do I improve product visibility on Amazon?",
             answer: [
-                "Improving visibility on Amazon involves optimizing your product listings, leveraging Amazon Ads, and using Amazon SEO best practices. We can help identify the right keywords, optimize your images, and implement targeted advertising strategies to increase your product's reach and attract more potential buyers."
+                "Optimize listings, leverage Amazon Ads, and follow SEO best practices. Burac AI identifies the right keywords, images, and ad strategies to boost visibility."
             ]
         },
         {
-            question: "How can I track my Amazon marketing performance?",
+            question: "How can I track Amazon marketing performance?",
             answer: [
-                "Amazon provides various metrics, such as sales data, conversion rates, and advertising performance, to help track your marketing efforts. Our team analyzes this data to uncover insights and continuously optimize your strategies, ensuring your Amazon store is always improving and generating the best possible results."
+                "Burac AI analyzes sales, conversion, and advertising metrics to continuously optimize strategies and improve results."
             ]
         }
     ]

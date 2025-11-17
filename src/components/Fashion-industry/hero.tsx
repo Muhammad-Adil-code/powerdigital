@@ -15,7 +15,7 @@ export default function hero() {
         </div>
         <div className="divider-top pb-3" />
         <div className="subtitle">
-          <h3>A Bi-Annual CMO Briefing by Power Digital | June 2025</h3>
+          <h3>A Bi-Annual CMO Briefing by Burac AI | June 2025</h3>
         </div>
         <div className="resource-image">
           <img
@@ -136,8 +136,7 @@ export default function hero() {
     <div>
       <div className="hs-richtext hs-main-font-element">
         <p>
-          By submitting I agree that Power Digital Marketing may process my data
-          in the manner described in Power Digital Marketing’s updated&nbsp;
+          By submitting, I agree that Burac AI may process my data in accordance with Burac AI’s updated&nbsp;
           <a
             href="https://trust-center.powerdigitalmarketing.com/doc/trust?rid=6671a6a7daa79be4542dcf89&r=ggd678n3cmyxdjwrnhbos7&_gl=1*1sj9iw0*_gcl_aw*R0NMLjE3MjM4MTY4MzcuQ2p3S0NBanc4ZnUxQmhCc0Vpd0F3RHJzakFhcTBVTUJWX3drcC1IZ0RjRHVLS2xtd3F6YWVRNktvS2RJRWdReVM2LVpzbWFtd0R4UV9Sb0NqaUVRQXZEX0J3RQ..*_gcl_au*MzE3MjIxMDg3LjE3MjM1NTk5MTIuOTIwMzg3NTU3LjE3Mjg2NjIzODQuMTcyODY2MjM4Mw..*_ga*MTg2MDgzOTY3Mi4xNzIzNTU5OTEy*_ga_H7150FWT9R*MTczMDczMTI0OC43OS4wLjE3MzA3MzEyNTAuNTguMC4w"
             target="_blank"
@@ -554,19 +553,12 @@ export default function hero() {
         <div className="resource-description-content">
           <p>
             <span style={{ fontWeight: 400 }}>
-              With Q4 planning underway and shopper behavior shifting in real
-              time, this CMO briefing distills today’s most urgent signals into
-              one strategic guide. From discount fatigue to media inefficiency,
-              we unpack what’s no longer working—and spotlight how top brands
-              are adapting to stay ahead.
+              With Q4 planning accelerating and consumer behavior shifting by the week, this Burac AI CMO briefing distills the industry&apos;s most urgent signals into one strategic, data-driven guide. From escalating discount fatigue to declining media efficiency, we break down what’s no longer working—and highlight how forward-thinking brands are adapting to stay ahead.
             </span>
           </p>
           <p>
             <span style={{ fontWeight: 400 }}>
-              Backed by live performance data, consumer research, and
-              industry-leading trend reports, this briefing reveals what’s
-              driving profitability in fashion right now and what’s quietly
-              dragging it down.
+              Built on real-time performance intelligence, consumer research, and industry-leading AI forecasts, this briefing uncovers what’s driving profitability in fashion today—and what hidden forces are slowing growth.
             </span>
           </p>
           <span className="list-title">
@@ -576,62 +568,55 @@ export default function hero() {
             <li>
               <p>
                 <span style={{ fontWeight: 400 }}>
-                  What 600+ U.S. fashion consumers say is{" "}
+                  What 600+ U.S. fashion consumers report is actually influencing{" "}
                 </span>
                 <i>
                   <span style={{ fontWeight: 400 }}>actually</span>
                 </i>
                 <span style={{ fontWeight: 400 }}>
                   {" "}
-                  driving purchases in 2025
+                  purchase behavior in 2025
                 </span>
                 <span style={{ fontWeight: 400 }}>
                   <br />
                 </span>
                 <span style={{ fontWeight: 400 }}>
-                  How platform demand is shifting, based on live testing across
-                  TikTok, YouTube, Pinterest, and Google
+                  How platform demand is shifting based on live Burac AI performance testing across TikTok, YouTube, Pinterest, and Google
                 </span>
               </p>
             </li>
             <li>
               <p>
                 <span style={{ fontWeight: 400 }}>
-                  What 100+ Power Circuit™ audits reveal about where brands are
-                  losing margin—and why
+                  What 100+ Burac AI Circuit™ audits reveal about where brands are losing margin—and why
                 </span>
               </p>
             </li>
             <li>
               <p>
                 <span style={{ fontWeight: 400 }}>
-                  How creative variety improved ROAS in real growth experiments
-                  across Meta and CTV
+                  How creative variety unlocked higher ROAS in real optimization experiments across Meta and CTV
                 </span>
               </p>
             </li>
             <li>
               <p>
                 <span style={{ fontWeight: 400 }}>
-                  What CMOs are struggling with most, based on firsthand
-                  insights from Power Digital partners
+                 What CMOs are struggling with most, based on firsthand insights from Burac AI’s partnerships
                 </span>
               </p>
             </li>
             <li>
               <p>
                 <span style={{ fontWeight: 400 }}>
-                  The future-ready growth blueprint built from benchmark data
-                  across CAC, LTV, ROAS, and retention
+                  The future-ready growth blueprint, built from benchmark data across CAC, LTV, ROAS, and retention
                 </span>
               </p>
             </li>
           </ul>
           <p>
             <span style={{ fontWeight: 400 }}>
-              Built for fashion CMOs, this is more than a trend report—it’s a
-              strategic operating system grounded in live performance data, not
-              guesswork.{" "}
+             Designed specifically for fashion CMOs and growth leaders, this briefing isn’t just another trend report—it’s a strategic operating system grounded in real-time AI performance data, not guesswork.{" "}
             </span>
           </p>
         </div>

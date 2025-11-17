@@ -6,8 +6,9 @@ export default function meet() {
     <>
     <section className="sinle-text-nova ">
       <div className="text">
-        <h3>95% of marketers tell us they’re still winging it without data.</h3>
-        <p>(You don’t have to be one of them.)</p>
+        <h3>95% of marketers still make decisions without reliable data.</h3>
+<p>With Burac AI, you don’t have to be one of them.</p>
+
       </div>
     </section>
     <section className="section-video-nova bg-dark">

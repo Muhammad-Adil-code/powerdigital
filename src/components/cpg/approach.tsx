@@ -8,15 +8,12 @@ export default function approach() {
         <div className="title">
           <span className="badge rounded-pill bg-light">Our Approach</span>
           <h2>
-            How We Help CPG Brands Cut Waste, Build Margin, and Drive Velocity
-          </h2>
+How Burac.ai Helps CPG Brands Cut Waste, Build Margin, and Drive Velocity          </h2>
         </div>
         <div className="paragraph">
           <p>
             <span style={{ fontWeight: 400 }}>
-              Growth isn’t about spending more. It’s about making every dollar
-              do more, especially when youre juggling DTC, retail media, and
-              traditional brick-and-mortar.
+              Growth isn’t about spending more — it’s about making every dollar do more, especially when managing DTC, retail media, and traditional retail simultaneously.
             </span>
           </p>
           <p>
@@ -34,9 +31,7 @@ export default function approach() {
               <h3>01. Unified Data Visibility</h3>
               <p>
                 <span style={{ fontWeight: 400 }}>
-                  We connect your digital and in-store data so you can actually
-                  see what’s driving performance and allocate budget with
-                  precision.
+                  We integrate your digital and in-store data to reveal what’s driving performance and allocate budget with precision.
                 </span>
               </p>
             </div>
@@ -46,9 +41,7 @@ export default function approach() {
               <h3>02. Channel + Creative Alignment</h3>
               <p>
                 <span style={{ fontWeight: 400 }}>
-                  Creative that wins in-store doesn’t always win online. We
-                  build asset strategies that meet your audience where they are
-                  and move them to buy.
+                  Creative that wins offline doesn’t always win online. We build asset strategies that meet your audience where they are and inspire purchase behavior.
                 </span>
               </p>
             </div>
@@ -58,8 +51,7 @@ export default function approach() {
               <h3>03. Zip Code-Level Activation</h3>
               <p>
                 <span style={{ fontWeight: 400 }}>
-                  Our media plans get local, real local. Think store-by-store,
-                  geo-specific campaigns that drive lift where it counts.
+                  Media plans that get local, really local. Store-by-store, geo-specific campaigns drive lift where it counts.
                 </span>
               </p>
             </div>
@@ -72,9 +64,7 @@ export default function approach() {
               <h3>04. Full-Funnel Optimization</h3>
               <p>
                 <span style={{ fontWeight: 400 }}>
-                  From retail media to TikTok to Google Shopping, we build
-                  strategies that don’t just hit KPIs, they grow your bottom
-                  line.
+                  From retail media to TikTok, Google Shopping, and beyond, our strategies don’t just hit KPIs — they grow your bottom line.
                 </span>
               </p>
             </div>
@@ -84,9 +74,7 @@ export default function approach() {
               <h3>05. Measurement That Stands Up in a Boardroom</h3>
               <p>
                 <span style={{ fontWeight: 400 }}>
-                  We isolate what’s actually working with incrementality testing
-                  and MMM frameworks, so you can show up to leadership with
-                  answers, not guesses.
+                 Incrementality testing and MMM frameworks isolate what’s working, giving leadership clear answers — not guesses.
                 </span>
               </p>
             </div>

@@ -6,16 +6,13 @@ export default function power() {
    <section className="multi-text-section bg-light ">
       <div className="multi-text-section__text">
         <div className="title">
-          <span className="badge rounded-pill bg-dark">Why Power?</span>
-          <h2>We Optimize Your Investments with Data-Driven Insights</h2>
+          <span className="badge rounded-pill bg-dark">Why Burac.ai?</span>
+          <h2>Optimizing Investments with Intelligence That Scales</h2>
         </div>
         <div className="paragraph">
           <p>
-            Our private equity practice is tailored specifically for the unique
-            needs of PE firms. We combine our deep industry knowledge with
-            cutting-edge technology to deliver unparalleled value and insights,
-            ensuring that every marketing dollar is optimized for maximum
-            return.
+            Our Private Equity solutions are built for precision.
+We merge deep industry experience, AI analytics, and data-backed forecasting to optimize every marketing dollar toward maximum return.
           </p>
         </div>
       </div>
@@ -26,15 +23,8 @@ export default function power() {
             <div className="text">
               <h3>Data</h3>
               <p>
-                At Power Digital, we go beyond what others offer. Our private
-                equity practice is not a single-point solution but a
-                comprehensive service that integrates multiple facets of the
-                marketing ecosystem. This holistic approach allows us to deliver
-                unparalleled value and strategic recommendations. We provide the
-                deep insights and extensive analysis necessary to drive
-                substantial growth and maximize investment returns, making us
-                the clear choice for private equity firms seeking to optimize
-                their portfolios.
+                Burac.ai goes beyond surface-level metrics.
+Our end-to-end platform integrates performance, financial, and behavioral data to deliver full-funnel visibility — driving actionable recommendations that enhance portfolio value.
               </p>
             </div>
           </div>
@@ -42,14 +32,8 @@ export default function power() {
             <div className="text">
               <h3>Growth</h3>
               <p>
-                Marketing and advertising have long been misunderstood as mere
-                costs on the P&amp;L statement. We see them as powerful growth
-                levers. Private equity groups often cut these budgets, viewing
-                them as expendable cost centers. Our mission is to change this
-                perspective. By optimizing marketing and advertising, we drive
-                substantial growth. We created this department to lead the way
-                in proving their potential as massive growth drivers for PE
-                groups.
+                Marketing isn’t a cost center — it’s a growth multiplier.
+Where others cut marketing to save, Burac.ai uses intelligence to scale — identifying efficient spend, reallocating resources, and transforming marketing into a repeatable value creation lever for PE portfolios.
               </p>
             </div>
           </div>
@@ -57,10 +41,8 @@ export default function power() {
             <div className="text">
               <h3>Value</h3>
               <p>
-                Interested in a free appraisal for one of your portfolio
-                companies? Contact us today and discover how Power Digitals
-                expertise and cutting-edge technology can deliver unparalleled
-                value to your investments.
+                Interested in an AI-driven valuation appraisal for your portfolio companies?
+Connect with Burac.ai and discover how our intelligence platform can deliver quantifiable ROI and risk-adjusted growth across your investments.
               </p>
             </div>
           </div>

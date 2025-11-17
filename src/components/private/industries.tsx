@@ -97,10 +97,7 @@ export default function industries() {
             <div className="text">
               <h3>Undeniable Speed</h3>
               <p>
-                Everyone has capabilities, but coupling them with agility is the
-                holy grail of growth marketing. We dive into the numbers to see
-                what tactics are creating incremental or new revenue and which
-                ones aren’t then we swiftly adapt and execute.
+                Capabilities mean little without agility. Burac.ai fuses data, AI, and execution speed to test, learn, and scale what drives incremental and net-new growth — fast.
               </p>
             </div>
           </div>
@@ -108,10 +105,7 @@ export default function industries() {
             <div className="text">
               <h3>Undeniable Expertise</h3>
               <p>
-                Our team boasts some of the brightest minds in the world of
-                digital and performance marketing, and everyone here is
-                lockstep-focused on business impact  evidenced by a stellar 96+
-                % client retention rate. Expect nothing less than best-in-class.
+                Our team of performance strategists, growth engineers, and data scientists align around one outcome — impact. It’s why our retention rate exceeds 96% across enterprise clients and private equity partners.
               </p>
             </div>
           </div>
@@ -119,10 +113,7 @@ export default function industries() {
             <div className="text">
               <h3>Undeniable Results</h3>
               <p>
-                We’re driven by the outcomes, not ego. Perhaps that’s why we
-                grow companies 2.6x faster than the industry average, with 27+ %
-                YoY revenue increases. All of our critical capabilities
-                prioritize optimizing our clients’ investments for maximum ROI.
+                We’re measured by results, not rhetoric. Burac.ai clients grow 2.6x faster than the industry average, achieving 27%+ YoY revenue growth through smarter data alignment and continuous optimization.
               </p>
             </div>
           </div>

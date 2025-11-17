@@ -18,9 +18,9 @@ export default function culyure() {
               </div>
               <div className="description">
                 <p>
-                  We play it straight and keep it real, always keeping our word
-                  to build rock solid relationships.
-                </p>
+  We keep it honest and transparent, honoring our commitments to forge strong, lasting relationships.
+</p>
+
               </div>
             </div>
           </div>
@@ -32,9 +32,9 @@ export default function culyure() {
               </div>
               <div className="description">
                 <p>
-                  We thrive on independence to fuel creativity, push boundaries
-                  and achieve personal growth.
-                </p>
+  We embrace independence to spark creativity, break boundaries, and drive growth.
+</p>
+
               </div>
             </div>
           </div>
@@ -46,9 +46,9 @@ export default function culyure() {
               </div>
               <div className="description">
                 <p>
-                  We’re self-starters who are masters of our craft because we
-                  never settle for what’s easy.
-                </p>
+  We’re driven self-starters, mastering our craft by always pushing beyond the easy path.
+</p>
+
               </div>
             </div>
           </div>
@@ -60,9 +60,9 @@ export default function culyure() {
               </div>
               <div className="description">
                 <p>
-                  No time for whining — just winning. Turn every hurdle into a
-                  springboard for new thinking.
-                </p>
+  No excuses — only results. We turn every challenge into a launchpad for innovation.
+</p>
+
               </div>
             </div>
           </div>
@@ -74,9 +74,9 @@ export default function culyure() {
               </div>
               <div className="description">
                 <p>
-                  Change is inevitable, so we own it as our special sauce for
-                  staying ahead of the game.
-                </p>
+  Change is constant, and we embrace it as our secret to staying ahead and driving innovation.
+</p>
+
               </div>
             </div>
           </div>
@@ -88,9 +88,9 @@ export default function culyure() {
               </div>
               <div className="description">
                 <p>
-                  Defying what’s normal is what’s normal here. Rethinking and
-                  reinventing is in our DNA.
-                </p>
+  Challenging the ordinary is our standard. Innovation and reinvention are part of who we are.
+</p>
+
               </div>
             </div>
           </div>
@@ -102,9 +102,9 @@ export default function culyure() {
               </div>
               <div className="description">
                 <p>
-                  We don’t check boxes, we draw outside of them. Exceptional is
-                  always better than acceptable.
-                </p>
+  We don’t follow the rules—we rewrite them. Exceptional always beats ordinary.
+</p>
+
               </div>
             </div>
           </div>
@@ -116,9 +116,9 @@ export default function culyure() {
               </div>
               <div className="description">
                 <p>
-                  Hustle is best served with humor and a lively workplace is
-                  where the best ideas come to life.
-                </p>
+  We mix hustle with humor—because a fun, energetic workplace sparks the best ideas.
+</p>
+
               </div>
             </div>
           </div>

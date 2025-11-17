@@ -12,11 +12,9 @@ export default function testominal() {
           <div className="quote__review">
             <p />
             <p>
-              “We hit&nbsp;double&nbsp;and&nbsp;triple&nbsp;growth in all KPIs –
-              Power Digital’s team stabilized and built a&nbsp;consistent,
-              forecastable, and reportable lead funnel&nbsp;resulting
-              in&nbsp;triple-digit lead volume.”
-            </p>
+  “We achieved double- and triple-digit growth across all KPIs. Burac Ai’s team established a stable, predictable, and trackable lead funnel, resulting in a significant increase in lead volume.”
+</p>
+
             <p />
           </div>
           <div className="d-flex">

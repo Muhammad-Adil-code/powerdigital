@@ -12,23 +12,21 @@ export default function footer() {
           <div className="col-12">
             <div className="interested-form__content">
              <FadeUp> <h2 className="fade-up">
-                Ready to be <span>undeniable?</span>
+                Ready to be <span>unstoppable?</span>
               </h2></FadeUp>
               
               <div className="interested-form__two-columns">
                 <FadeUp>
                 <div className="text fade-up">
                   <p>
-                    For brands and enterprise companies that demand digital
-                    marketing strategies with proven impact, Power is ready to
-                    be your partner in business growth.
+                    For businesses and enterprises that demand AI-powered development with proven results, Burac.ai is ready to be your partner in digital transformation.
                   </p>
                   <div className="text-form">
-                    <p>Request your free marketing audit to get started.</p>
+                    <p>Request your free project consultation to get started.</p>
                   </div>
                   <a href="#" className="btn btn-secondary" id="interestedForm">
                     <div className="icon">
-                      <span>Get in touch</span>
+                      <span>Request a consultation</span>
                       <i className="icon-arrow-up-right" />
                     </div>
                   </a>

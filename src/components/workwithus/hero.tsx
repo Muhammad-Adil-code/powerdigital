@@ -1,4 +1,5 @@
 import React from 'react'
+import Image from 'next/image'
 import pdm from '../../images/pdm-gradient-logo.svg'
 import stats1 from '../../images/stats-card-1-image.png'
 import stats2 from '../../images/stats-card-2-image.png'
@@ -11,9 +12,10 @@ export default function hero() {
       <div className="work-with-us-hero__text">
         <span className="badge rounded-pill bg-dark">WORK WITH US</span>
         <div className="title">
-          <h2>
-            Power Digital is trusted by the world&apos;s fastest growing brands
-          </h2>
+         <h2>
+  Trusted by the world’s fastest-growing brands, Burac delivers measurable growth.
+</h2>
+
         </div>
         <div className="stats-text">
           <p>A few stats we’re proud of from 2025:</p>
@@ -32,7 +34,7 @@ export default function hero() {
               </div>
             </div>
             <div className="card-image" style={{ marginTop: "-0px" }}>
-              <img src={stats2.src} alt="" />
+              <Image src={stats2} alt="" />
             </div>
           </div>
           <div className="stats-cards__card bg-dark">
@@ -50,7 +52,7 @@ export default function hero() {
               </div>
             </div>
             <div className="card-image" style={{ marginTop: "-0px" }}>
-              <img src={stats1.src} alt="" />
+              <Image src={stats1} alt="" />
             </div>
           </div>
           <div className="stats-cards__card bg-primary">
@@ -66,13 +68,13 @@ export default function hero() {
               </div>
             </div>
             <div className="card-image" style={{ marginTop: "-50px" }}>
-              <img src={stats3.src} alt="" />
+              <Image src={stats3} alt="" />
             </div>
           </div>
         </div>
-        <img
+        <Image
           className="work-with-us-hero__text__bg_image"
-          src={pdm.src}
+          src={pdm}
           alt=""
         />
       </div>
@@ -329,8 +331,8 @@ export default function hero() {
     <fieldset className="form-columns-0">
       <div className="hs-richtext hs-main-font-element">
         <p>
-          By submitting I agree that Power Digital Marketing may process my data
-          in the manner described in Power Digital Marketing’s updated&nbsp;
+          By submitting, I agree that Power Digital Marketing may process my data as outlined in Power Digital Marketing’s updated...
+&nbsp;
           <a
             href="https://trust-center.powerdigitalmarketing.com/doc/trust?rid=6671a6a7daa79be4542dcf89&r=ggd678n3cmyxdjwrnhbos7&_gl=1*1sj9iw0*_gcl_aw*R0NMLjE3MjM4MTY4MzcuQ2p3S0NBanc4ZnUxQmhCc0Vpd0F3RHJzakFhcTBVTUJWX3drcC1IZ0RjRHVLS2xtd3F6YWVRNktvS2RJRWdReVM2LVpzbWFtd0R4UV9Sb0NqaUVRQXZEX0J3RQ..*_gcl_au*MzE3MjIxMDg3LjE3MjM1NTk5MTIuOTIwMzg3NTU3LjE3Mjg2NjIzODQuMTcyODY2MjM4Mw..*_ga*MTg2MDgzOTY3Mi4xNzIzNTU5OTEy*_ga_H7150FWT9R*MTczMDczMTI0OC43OS4wLjE3MzA3MzEyNTAuNTguMC4w"
             target="_blank"

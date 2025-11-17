@@ -18,23 +18,23 @@ export default function DataIntelligenceCompany() {
                             <span className="badge rounded-pill bg-dark">DATA INTELLIGENCE</span>
                             <div className="title">
                                 <h2>
-                                    Stop wasting{" "}
-                                    <span className="highlighted">millions of dollars</span> on ads.
+                                    Stop wasting
+                                    <span className="highlighted">millions on</span> ineffective ad spend.
                                 </h2>
                             </div>
                             <div className="text">
                                 <p style={{ fontSize: "1rem" }}>
-                                    We help growing brands ($10m+ annual revenue) prove:
+                                    We help growing brands ($10m+ annual revenue) uncover:
                                 </p>
                                 <ul style={{ paddingLeft: "2rem" }}>
                                     <li style={{ fontSize: "1rem", marginBottom: 0, paddingLeft: 0 }}>
-                                    Marketing&#39;s true incremental ROI
+                                    True ROI of every marketing dollar
                                     </li>
                                     <li style={{ fontSize: "1rem", marginBottom: 0, paddingLeft: 0 }}>
-                                        Impact by channel and tactic
+                                        Performance across channels and tactics
                                     </li>
                                     <li style={{ fontSize: "1rem", marginBottom: 0, paddingLeft: 0 }}>
-                                        Deep customer insights (LTV:CAC, cohorts, and more)
+                                        Advanced customer insights (LTV:CAC, cohorts, and more)
                                     </li>
                                 </ul>
                             </div>
@@ -64,15 +64,10 @@ export default function DataIntelligenceCompany() {
                                 </div>
                                 <div className="intro-twos-columns__text">
                                     <p>
-                                        Working with our data intelligence team combines the benefits of
-                                        our proprietary software – <strong>nova Intelligence</strong>, and
-                                        a dedicated group of practiced marketing scientists. The
-                                        flexibility to customize with the speed of a technology solution.
+                                        Our approach blends the power of our proprietary software, with the expertise of dedicated marketing scientists—giving you the speed of technology with the strategic insight of human experts.
                                     </p>
                                     <p>
-                                        If you’re a marketing or business leader looking to justify your
-                                        marketing investment or profitably grow your revenue, reach out
-                                        for a free consultation.
+                                        Marketing or business leaders looking to justify ad spend or grow revenue profitably can schedule a free consultation today.
                                     </p>
                                     <a
                                         href="https://powerdigitalmarketing.com/contact/"
@@ -139,8 +134,7 @@ export default function DataIntelligenceCompany() {
                                     </div>
                                     <div className="description">
                                         <p>
-                                            Save millions on ad spend with proven marketing measurement and
-                                            incrementality.
+                                            Reduce ad waste and understand the real impact of your marketing spend.
                                         </p>
                                     </div>
                                 </div>
@@ -163,8 +157,7 @@ export default function DataIntelligenceCompany() {
                                     </div>
                                     <div className="description">
                                         <p>
-                                            Optimize marketing with advanced mix modeling and expert data
-                                            science.
+                                            Advanced analytics and expert insight to drive smarter decisions.
                                         </p>
                                     </div>
                                 </div>
@@ -187,8 +180,7 @@ export default function DataIntelligenceCompany() {
                                     </div>
                                     <div className="description">
                                         <p>
-                                            Build a modern data stack to simplify management, ensure data
-                                            quality, and drive smart decisions.
+                                            Streamline data management, ensure quality, and enable actionable insights.
                                         </p>
                                     </div>
                                 </div>
@@ -211,7 +203,7 @@ export default function DataIntelligenceCompany() {
                             __html:
                                 "\n  .service-category__item:hover {\n    background-color: rgba(43, 42, 41, 1);\n  }\n"
                         }}
-                    />{" "}
+                    />
                 </main>
             </div>
         </>

@@ -4,7 +4,6 @@ import image2 from '../../images/TTMarketingPartnerLogoWhite-1-1.png';
 import image3 from '../../images/PremierPartner-RGB-1.png';
 import image4 from '../../images/Advanced-partner-badge-5-1.png';
 import image5 from '../../images/snowflake-1.png';
-import image6 from '../../images/amazon-web-services.png';
 export default function logos() {
   return (
     <>
@@ -14,7 +13,7 @@ export default function logos() {
           <h2>We Play Well with the Platforms That Power CPG</h2>
           <p>
             <span style={{ fontWeight: 400 }}>
-              Our partnerships go beyond access—they give you an edge.
+             Our partnerships don’t just provide access — they give you a competitive edge.
             </span>
           </p>
         </div>

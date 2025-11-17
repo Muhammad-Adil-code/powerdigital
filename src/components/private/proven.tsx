@@ -33,8 +33,7 @@ export default function proven() {
             <div className="item">
               <CountUp end={330}  duration={3} suffix="M+" />
               <p>
-                Data points leveraged by nova applications to drive business
-                insight
+                Data points leveraged by Burac Core to drive investment intelligence
               </p>
             </div>
           </div>

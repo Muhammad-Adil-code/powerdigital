@@ -10,12 +10,12 @@ export default function powerdigital() {
      <section className="data-driven-insight bg-dark">
       <div className="separator">
         <div className="separator__title">
-          <h2>Get the data that dominates doubt.</h2>
+          <h2>Get insights that outsmart uncertainty.</h2>
           <Image src={LogoBlock} alt="img"  />
         </div>
         <hr />
         <div className="separator__text">
-          <span>POWER DIGITAL</span>
+          <span>BURAC.AI</span>
           <div>
             <span>OUR RESULTS</span>
           </div>
@@ -33,13 +33,7 @@ export default function powerdigital() {
         <article className="note bg-primary">
           <div className="note__text">
             <p>
-              Power brings a fresh, analytical approach to our campaigns,
-              finding unique entry points and solutions that many would
-              overlook. Their involvement transcends traditional marketing,
-              delving into the economic aspects of our business to ensure all
-              strategies are sustainable and scalable. Their commitment to our
-              success is evident, and their expertise is a cornerstone of our
-              strategic planning.
+              Burac.ai brings a data-intelligent, engineering-first mindset to every project — merging AI-driven insights with agile development to uncover growth opportunities others miss. Our approach goes beyond traditional digital solutions; we dive deep into the operational and commercial layers of your business to ensure every strategy and product we build is scalable, secure, and ROI-positive.
             </p>
           </div>
           <div className="testimonial-person">
@@ -64,27 +58,21 @@ export default function powerdigital() {
           <span className="badge rounded-pill bg-light">Our results</span>
           <div className="data-driven-insight__insight  insight-section">
             <div>
-              <CountUp  end={27} suffix="%" prefix="+"/>
+              <CountUp  end={32} suffix="%" prefix="+"/>
               <p>
-                Increase in YoY revenue growth — 2.6x faster than the industry
-                average.
+                Increase in client efficiency and revenue growth — powered by AI automation and intelligent analytics.
               </p>
             </div>
             <div>
-             <CountUp  end={95} suffix="%" />
+             <CountUp  end={97} suffix="%" />
               <p>
-                Client retention rate, because exceeding expectations is our
-                standard.
+                Client retention rate — because reliability, transparency, and tangible results are our default.
               </p>
             </div>
           </div>
           <div className="paragraph">
             <p>
-              Simply put, we invest in the best technology and talent to produce
-              outsized results and build trusting relationships with our
-              clients. Get started today with an integrated digital strategy
-              that’s tailored to profitably grow your unique business, generate
-              ROI, drive higher EBITDA and exceed your business goals.
+              At Burac.ai, we invest in breakthrough technologies and elite developers to deliver results that outperform expectations. Partner with us for an integrated, AI-powered strategy designed to accelerate growth, increase profitability, and future-proof your business.
             </p>
           </div>
           <a

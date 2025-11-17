@@ -88,7 +88,15 @@ div.lp-pom-root .lp-pom-text span {
 body.company-page .swiper-slide {
   display: flex !important;
 }
-#maxcontent{
+
+.flex-slide {
+  display: flex !important;
+  width: max-content !important;
+
+}
+
+
+#maxcontent{ 
   width: max-content !important;
 }
 

@@ -13,13 +13,12 @@ import WorkWith from '../services/maincomonents/workwith';
 import Services from '../services/maincomonents/Services';
 
 
-
 const optimizeAdvertisingWorkWithData = {
   badge: "STRATEGY",
   title: "Optimize Advertising",
   paragraphs: [
-    "The foundation of any high impact strategic decision is dependent on clean, easy to understand, and relevant information.",
-    "<b>Power Digital can build and manage your modern data stack</b> - to make sophisticated measurements, to maintain data security, or to activate across your first party data - specifically to fit your needs."
+    "Maximize the impact of every marketing dollar with accurate, actionable data and insights.",
+    "<b>Burac.ai  can design and manage your modern data stack</b> - enabling precise measurement, secure data handling, and activation across your first-party datasets tailored to your business needs."
   ],
   buttonText: "Get in touch",
   buttonUrl: "https://powerdigitalmarketing.com/work-with-us/",
@@ -27,7 +26,7 @@ const optimizeAdvertisingWorkWithData = {
     {
       icon: ServiceIcon1.src,
       title: "Performance",
-      description: "Reduce signal loss and improve platform algorithms. Ad platforms like Meta, Tiktok, and Google are more and more dependent on \"signal\" from the business. We see significant improvements to incrementality and ROI when brands properly integrate server to server feedback loops.",
+      description: "Minimize data signal loss and improve ad platform effectiveness. Platforms like Meta, TikTok, and Google perform better when server-to-server feedback loops are implemented, boosting incrementality and ROI.",
       bgColor: "bg-secondary" as const,
       textColor: "#333333",
       iconColor: "invert(0)",
@@ -36,7 +35,7 @@ const optimizeAdvertisingWorkWithData = {
     {
       icon: Layer11.src,
       title: "Future-Proofing",
-      description: "Cookieless data infrastructure resilient against future changes. Building first-party centric databases eliminates concerns for what's coming next.",
+      description: "Build a cookieless, first-party data infrastructure designed to adapt to future privacy changes and evolving platform requirements.",
       bgColor: "bg-primary" as const,
       textColor: "#ffffff",
       iconColor: "invert(1)",
@@ -45,7 +44,7 @@ const optimizeAdvertisingWorkWithData = {
     {
       icon: Layer1.src,
       title: "Privacy",
-      description: "Compliance with evolving privacy regulations such as GDPR and CCPA. Whether through legal means or customer preference, building a system that allows you to advertise to new and existing customers in a safe way is critical for a growing business.",
+      description: "Ensure compliance with GDPR, CCPA, and other privacy regulations. Safely advertise to new and existing customers while respecting evolving data privacy standards.",
       bgColor: "bg-white" as const,
       textColor: "#333333",
       iconColor: "invert(0)",
@@ -65,19 +64,19 @@ const dataChallengesServicesData = {
   items: [
     {
       title: "Data Volume",
-      description: "Complex data sets integrated and simplified. Most modern businesses need to pull in multiple revenue streams (social commerce, direct to consumer, retail) and marketing data (web analytics, ad spend, business intelligence) to make the right decisions. The volume of data is only going to increase and we can help you build the infrastructure to prepare."
+      description: "Simplify and integrate large, complex datasets from multiple channels and revenue streams. Our infrastructure solutions help your business scale while keeping data manageable and actionable."
     },
     {
       title: "Compliance",
-      description: "Compliance with regulations like GDPR and CCPA. Regulatory and technology pressure are getting more strict every year. Navigating the complex landscape is practically a full time job, one that if done incorrectly opens up businesses to performance hits, audits, and even lawsuits."
+      description: "Navigate GDPR, CCPA, and other data regulations with confidence. Avoid performance risks, audits, or fines by implementing compliant and secure systems."
     },
     {
       title: "Data Quality",
-      description: "Rigorous protocols around QA and data integrity. Is your information accurate and up to date? What if it's not? How will you know? Let us take the anxiety out of the equation and ensure that the decisions you're making are off of quality assured data."
+      description: "Maintain accurate, up-to-date data with rigorous QA protocols. Ensure all business decisions are based on high-quality, reliable information."
     },
     {
       title: "Integration",
-      description: "Connect, seamlessly share, and analyze. Synthesizing all of this information into one clean source allows organizational alignment by all teams and units. Speak the same language, use the same definitions, and refer to the same KPIs across the entire team (internal and external)."
+      description: "Connect and centralize your data into a single source of truth. Align teams with consistent definitions, KPIs, and metrics across your organization."
     }
   ]
 };
@@ -86,7 +85,7 @@ const dataStackCardSliderData = [
   {
     id: "scalable-infrastructure",
     title: "Scalable Infrastructure",
-    description: "A data foundation that can grow with your business. We'll help you identify the long term goals of the organization (exit? IPO? ten figure revenue?) and help build the plumbing that will last.",
+    description: "A robust foundation that grows with your business. Build long-lasting data architecture to support goals like expansion, IPOs, or multi-figure revenue growth.",
     image: "https://powerdigitalmarketing.com/wp-content/uploads/2025/05/6e5a3c9229d015405348b2616b9f3db89d16f7f3-768x362.jpg",
     imageAlt: "Scalable Infrastructure",
     bgColor: "bg-grey" as const
@@ -94,7 +93,7 @@ const dataStackCardSliderData = [
   {
     id: "data-ownership",
     title: "Data Ownership",
-    description: "Have complete ownership over your first party data. Powerful businesses grow largely off of recurring revenue – revenue driven by your existing customer base. Owning and organizing that customer data is essential for you to scale.",
+    description: "Take full control of your first-party data to grow recurring revenue and make smarter business decisions. Proper organization of customer data enables scalable growth.",
     image: "https://powerdigitalmarketing.com/wp-content/uploads/2025/05/58a79107a03cfbe6d079080a4978ec99caa94223-768x432.jpg",
     imageAlt: "Data Ownership",
     bgColor: "bg-primary" as const
@@ -102,7 +101,7 @@ const dataStackCardSliderData = [
   {
     id: "etl",
     title: "ETL",
-    description: "Centralized cloud-native warehouse (Google Cloud or Snowflake). We're deep partners with both Google and Snowflake and can help navigate the pros and cons of each for our business.",
+    description: "Centralized cloud-native warehouse solutions using Google Cloud or Snowflake. We help you select and implement the best solution for your business needs.",
     image: "https://powerdigitalmarketing.com/wp-content/uploads/2025/05/e9a993a2e6c60d71b41ce237400e2207110be60c-768x504.jpg",
     imageAlt: "ETL",
     bgColor: "bg-white" as const
@@ -110,12 +109,13 @@ const dataStackCardSliderData = [
   {
     id: "data-transformation-pipelines",
     title: "Data Transformation and Pipelines",
-    description: "Join and transform data with dbt. We believe it to be the best in class solution for organizing your data into actionable and reliable insights.",
+    description: "Transform and organize your data with dbt to create actionable, reliable insights that drive smarter marketing and business decisions.",
     image: "https://powerdigitalmarketing.com/wp-content/uploads/2025/05/e0d9272cafe5686a499ad84b6d625f5c6f55dc93-768x276.jpg",
     imageAlt: "Data Transformation and Pipelines",
     bgColor: "bg-secondary" as const
   }
 ];
+
 
 const AmazonMarketingPage = () => {
   return (

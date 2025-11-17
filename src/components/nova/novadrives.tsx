@@ -7,8 +7,9 @@ export default function novadrives() {
       <div className="separator">
         <div className="separator__title">
           <h2>
-            nova drives real results <span>really fast.</span>
-          </h2>
+  Burac AI turns data into measurable growth <span>faster than ever.</span>
+</h2>
+
         </div>
         <hr />
       </div>
@@ -18,28 +19,27 @@ export default function novadrives() {
       <div className="single-hero">
         <div className="single-hero__text">
           <div className="text">
-            <h4>Integrate your data into one secure platform</h4>
-            <p>
-              Seamlessly connect your first-party and ad platform data into nova
-              Cloud, powered by the industry-leading security of Snowflake.
-            </p>
-          </div>
-          <div className="text">
-            <h4>Data analysts begin working for you</h4>
-            <p>
-              Unlock instant insights as over 700 data scientists, marketers,
-              and business consultants dive into your data, extracting powerful
-              intelligence to drive confident decision-making.
-            </p>
-          </div>
-          <div className="text">
-            <h4>Activate a predictable plan with Power</h4>
-            <p>
-              Your team will deliver key findings, highlight opportunities, and
-              provide a precise revenue forecast alongside a strategic marketing
-              plan. Next, we execute with precision.
-            </p>
-          </div>
+  <h4>Integrate your data into one secure platform</h4>
+  <p>
+    Seamlessly connect your first-party and marketing data into the Burac AI Cloud, 
+    powered by enterprise-grade security and performance.
+  </p>
+</div>
+<div className="text">
+  <h4>Data experts working for you</h4>
+  <p>
+    Instantly gain insights as our team of data scientists, strategists, and analysts 
+    uncover patterns and intelligence that fuel smarter, faster decisions.
+  </p>
+</div>
+<div className="text">
+  <h4>Activate a data-driven growth plan</h4>
+  <p>
+    We deliver clear insights, identify growth opportunities, and provide an accurate 
+    revenue forecast — then bring your strategy to life with precision and impact.
+  </p>
+</div>
+
           <a
             href="https://powerdigitalmarketing.com/work-with-us/"
             className="btn btn-secondary"

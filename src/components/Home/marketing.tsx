@@ -17,10 +17,7 @@ export default function marketing() {
       <article className="2 note  is-article-outer z-10">
         <div className="note__text">
           <p>
-            Their ability to understand our goals, customer journey, and
-            challenges was truly remarkable. They helped us navigate a complex
-            competitive landscape and achieve breakthrough results, all while
-            staying well below our competitors spend threshold.
+          Their deep understanding of our goals, workflows, and challenges was outstanding. Burac.ai guided us through a complex tech landscape and delivered results beyond expectation.
           </p>
         </div>
         <div className="testimonial-person">
@@ -33,7 +30,7 @@ export default function marketing() {
             </div>
             <div className="person-details">
               <h3 className="person-name interface-small">Kaitlyn Crawford</h3>
-              <p className="person-title">VP of Marketing @ Data.World</p>
+              <p className="person-title">VP of Product Innovation @ Data.World</p>
             </div>
           </div>
           <div className="company-logo">

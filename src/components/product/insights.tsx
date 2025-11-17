@@ -1,9 +1,4 @@
 import React from 'react'
-import image1 from "../../images/0_3-4.jpg";
-import image2 from "../../images/fashion_pdm_image-768x430.png";
-import image3 from "../../images/0_3-5-768x768.jpg";
-import image4 from "../../images/food-and-beverage_pdm_image-768x430.png";
-import image5 from "../../images/Pet-768x768.jpg";
 import Cardslider from '../../app/services/maincomonents/cardslider';
 
 const CardSliderData = [
@@ -81,8 +76,7 @@ export default function insights() {
         <div className="title">
           <span className="badge rounded-pill bg-light">Insights</span>
           <h2>
-            From our talent to our tech, this is new wave digital marketing.
-          </h2>
+From our talent to our tech, this is next-gen consumer solutions.          </h2>
         </div>
         <div className="paragraph">
           <a
@@ -104,9 +98,7 @@ export default function insights() {
               <h3>Undeniable Speed</h3>
               <p>
                 <span style={{ fontWeight: 400 }}>
-                  Navigating the ever-changing consumer market requires agility.
-                  We analyze the data, uncover opportunities, and execute with
-                  speed to keep your brand ahead of the curve.
+                  We uncover opportunities, analyze performance, and execute with agility — keeping your brand ahead in a fast-moving consumer landscape.
                 </span>
               </p>
             </div>
@@ -116,9 +108,7 @@ export default function insights() {
               <h3>Undeniable Expertise</h3>
               <p>
                 <span style={{ fontWeight: 400 }}>
-                  Our team includes some of the brightest minds in consumer
-                  marketing, with an impressive 96+% client retention rate.
-                  Expect nothing but the best.
+                  Our team includes some of the brightest minds in consumer tech and AI-driven solutions, with a 96%+ client retention rate. Expect nothing less than best-in-class.
                 </span>
               </p>
             </div>
@@ -128,9 +118,7 @@ export default function insights() {
               <h3>Undeniable Results</h3>
               <p>
                 <span style={{ fontWeight: 400 }}>
-                  Our strategies drive outcomes that matter: 2.6x faster growth
-                  than industry averages and 27+% YoY revenue increases. We make
-                  every dollar count for maximum ROI.
+                  Our strategies produce measurable impact: 2.6x faster growth than industry averages and 27+% YoY revenue increases — every effort optimized for maximum ROI.
                 </span>
               </p>
             </div>

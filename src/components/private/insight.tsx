@@ -60,31 +60,31 @@ const useIsMobile = () => {
 const blogPosts: BlogPost[] = [
     { 
         title: "Q5 is Not a Break: How to Prepare Your Marketing Strategy for Q1 Growth", 
-        author: "Power Digital | December 3, 2024", 
+        author: "Burac Ai | December 3, 2024", 
         image: image034, 
         href: "https://powerdigitalmarketing.com/blog/q1-marketing-plan/" 
     },
     {  
-        title: "Private Equity + Power Digital: The Winning Formula for Growth-Stage Home Services Companies", 
-        author: "Power Digital | December 2, 2024", 
+        title: "Private Equity + Burac Ai: The Winning Formula for Growth-Stage Home Services Companies", 
+        author: "Burac Ai | December 2, 2024", 
         image: image038, 
         href: "https://powerdigitalmarketing.com/blog/reality-of-media-mix-modeling/" 
     },
     { 
         title: "Institutional Investors & The Age of Digital Transformation: Navigating the Evolving Landscape", 
-        author: "Power Digital | December 2, 2024", 
+        author: "Burac Ai | December 2, 2024", 
         image: image036, 
         href: "https://powerdigitalmarketing.com/blog/digital-transformation-on-investing/" 
     },
     { 
         title: "Market Expansion for Consumer Services: A Strategic Playbook for CEOs and CMOs", 
-        author: "Power Digital | December 2, 2024", 
+        author: "Burac Ai | December 2, 2024", 
         image: image037, 
         href: "https://powerdigitalmarketing.com/blog/scaling-consumer-service-business/" 
     },
     { 
-        title: "Power Digital Awarded Agency Partner of the Year at the Buy with Prime Partner Summit", 
-        author: "Power Digital | December 4, 2024", 
+        title: "Burac Ai Awarded Agency Partner of the Year at the Buy with Prime Partner Summit", 
+        author: "Burac Ai | December 4, 2024", 
         image: image035, 
         href: "https://powerdigitalmarketing.com/blog/buy-with-prime-agency-partner-of-the-year/" 
     },

@@ -25,7 +25,7 @@ const TiktokWorkWith = () => {
                             </p>
                             <p>
                                 <span style={{ fontWeight: 400 }}>
-                                    Across Power Digital clients who are executing this full-funnel
+                                    Across Burac Ai clients who are executing this full-funnel
                                     TikTok marketing strategy, we see on average of 1-9x incremental
                                     return on investment.
                                 </span>

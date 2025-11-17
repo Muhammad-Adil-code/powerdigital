@@ -10,7 +10,7 @@ export default function digital() {
             <div className="intro-twos-columns__title">
               <span className="badge rounded-pill bg-light" />
               <h1>
-                Power Digital specializes in driving meaningful (and profitable)
+                Burac Ai specializes in driving meaningful (and profitable)
                 growth for our brands.
               </h1>
             </div>

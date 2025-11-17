@@ -11,13 +11,9 @@ export default function hero() {
         </div>
         <div className="text">
           <p>
-            Effective marketing doesn’t exist without data you can trust fueling
-            your strategy. That’s why Power Digital developed nova. A
-            proprietary platform that analyzes businesses through first-party
-            data, enabling marketing teams to be data-driven, garner
-            one-of-a-kind insights, eliminate ad spend waste and maximize
-            profitability.
-          </p>
+  Effective marketing starts with data you can trust. That’s why Burac AI built its proprietary analytics platform — designed to turn first-party data into actionable insights. It empowers marketing teams to make data-driven decisions, uncover new growth opportunities, reduce wasted spend, and maximize profitability.
+</p>
+
         </div>
       </div>
       <div className="single-hero__image">

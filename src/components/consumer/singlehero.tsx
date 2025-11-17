@@ -1,24 +1,23 @@
 import ConsumerService from "../../images/Consumer-Service.png"
+import React from 'react'
+import Image from "next/image"
 export default function singlehero() {
   return (
     <section className="single-hero bg-light  ">
           <div className="single-hero__text">
-            <span className="badge rounded-pill bg-dark">Growth Marketing</span>
+            <span className="badge rounded-pill bg-dark">Intelligent Growth Solutions</span>
             <div className="title">
-              <h1>Lead Generation Services</h1>
+              <h1>Pipeline & Lead Optimization Services</h1>
             </div>
             <div className="text">
               <p>
                 <span style={{ fontWeight: 400 }}>
-                  Our team of experts help businesses like yours drive more leads,
-                  nurture existing pipelines, measure marketing impact, and solve
-                  for operational challenges. We have the technology, the people,
-                  and the experience to help your business thrive.
+                  Our team of experts helps B2B companies like yours generate more qualified leads, streamline existing pipelines, measure impact, and solve operational challenges. With the right technology, AI-driven analytics, and development expertise, Burac.ai ensures your business scales efficiently and sustainably.
                 </span>
               </p>
             </div>
             <a
-              href="https://powerdigitalmarketing.com/work-with-us/"
+              href="/work-with-us/"
               className="btn btn-secondary"
             >
               <div className="icon">
@@ -29,7 +28,7 @@ export default function singlehero() {
           </div>
           <div className="single-hero__image">
             <div className="single-badge"></div>
-            <img src={ConsumerService.src} alt="" />
+            <Image src={ConsumerService} alt="" />
           </div>
         </section>
   )

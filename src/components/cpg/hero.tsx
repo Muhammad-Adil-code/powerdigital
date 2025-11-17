@@ -1,5 +1,6 @@
 import React from 'react'
 import cpg from '../../images/CPG.png';
+import Image from 'next/image'
 export default function hero() {
   return (
     <>
@@ -9,25 +10,17 @@ export default function hero() {
           Consumer Product Services
         </span>
         <div className="title">
-          <h1>Where CPG Brands Go to Grow Smarter</h1>
+          <h1>Where CPG Brands Grow Smarter with AI</h1>
         </div>
         <div className="text">
           <p>
             <span style={{ fontWeight: 400 }}>
-              For modern CPG brands, the old growth playbook doesn’t cut it.
-              Fragmented sales channels, shifting consumer behavior, and
-              mounting retail pressure mean performance marketing needs to do
-              more than drive clicks, it needs to drive total business outcomes.
+              For modern CPG brands, the old growth playbook no longer works. Fragmented sales channels, evolving consumer behavior, and rising retail pressures demand solutions that do more than drive clicks — they must deliver total business outcomes.
             </span>
           </p>
           <p>
             <span style={{ fontWeight: 400 }}>
-              That’s where we come in. Power Digital helps CPG brands unify
-              data, align retail and DTC strategies, and scale what actually
-              works. Whether you’re building retail velocity or making every
-              marketing dollar count, we plug into your business like an
-              extension of your team, with the strategy and tools to unlock your
-              next chapter of growth.
+              Burac.ai helps CPG brands unify data, integrate DTC and retail strategies, and scale what truly works. Whether you’re building retail velocity, optimizing digital spend, or improving margins, we plug into your operations as an extension of your team, providing the strategy, AI tools, and insights to unlock your next chapter of growth.
             </span>
           </p>
         </div>
@@ -43,7 +36,7 @@ export default function hero() {
       </div>
       <div className="single-hero__image">
         <div className="single-badge"></div>
-        <img src={cpg.src} alt="" />
+        <Image src={cpg} alt="" />
       </div>
     </section>{" "}
     </>

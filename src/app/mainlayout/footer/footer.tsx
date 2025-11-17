@@ -1,4 +1,5 @@
 "use client"
+import Image from "next/image";
 export default function FooterLayout() {
     return (
         <>
@@ -19,12 +20,14 @@ export default function FooterLayout() {
                                 {" "}
                                 {/* logo */}
                                 <div className="footer__content__logo">
-                                    <a href="">
-                                        <img
-                                            src="https://powerdigitalmarketing.com/wp-content/uploads/2024/10/logo-white.svg"
-                                            alt="Power Digital Marketing"
-                                        />
-                                    </a>
+									<a href="">
+										<Image
+											src="https://powerdigitalmarketing.com/wp-content/uploads/2024/10/logo-white.svg"
+											alt="Power Digital Marketing"
+											width={180}
+											height={40}
+										/>
+									</a>
                                     <p>
                                         A leading, privately held growth marketing agency helping brands
                                         ignite revenue and brand recognition.
@@ -421,9 +424,14 @@ export default function FooterLayout() {
                             <div className="col-12">
                                 <div className="footer__content__badges">
                                     <h3>Some Of Our Partners</h3>
-                                    <div className="footer__content__badges__images">
-                                        <img src="https://powerdigitalmarketing.com/wp-content/uploads/2025/10/tiktok-partner_white.svg" />
-                                    </div>
+									<div className="footer__content__badges__images">
+										<Image
+											src="https://powerdigitalmarketing.com/wp-content/uploads/2025/10/tiktok-partner_white.svg"
+											alt="TikTok Partner"
+											width={300}
+											height={60}
+										/>
+									</div>
                                 </div>
                             </div>
                         </div>

@@ -19,15 +19,11 @@ export default function StrategicConsulting() {
                             <div className="text">
                                 <p>
                                     <strong>
-                                        Are you sure you really know who your customer is and what they care
-                                        about?
+                                        Do you truly understand your customers — what drives them, what they value, and why they choose you?
                                     </strong>
                                 </p>
                                 <p>
-                                    We help brands develop a deep, data-driven understanding of who their
-                                    customer actually is. This isn’t just a subjective persona based on a
-                                    handful of surveys or focus groups. Instead, we analyze your audience
-                                    with as much data as is possible to collect on them.
+                                    At Burac AI, we help brands gain a data-driven understanding of their real customers. Using advanced analytics and AI, we go beyond assumptions and surveys to reveal who your audience truly is and what drives them.
                                 </p>
                             </div>
                             <a
@@ -62,59 +58,53 @@ export default function StrategicConsulting() {
                                         <h2>Customer + Audience Development</h2>
                                     </div>
                                     <div className="text content-post">
-                                        <p>
-                                            It’s simple: you connect your customer file to our dataset and we
-                                            breakdown a comprehensive ideal customer profile, including:
-                                        </p>
-                                        <ul>
-                                            <li>
-                                                <strong>Current Customer vs Opportunity Customer</strong>
-                                                <br />
-                                                Who are you really selling to today? What’s a cohort of
-                                                opportunity that drives a significantly higher lifetime value, but
-                                                you haven’t quite cracked into yet? Why not? How can we get there?
-                                            </li>
-                                            <li>
-                                                <strong>Cohorts, Segmentation, and Lifetime Value</strong>
-                                                <br />
-                                                There’s only two ways to make money: more customers, or more
-                                                valuable customers. We help you understand where your biggest
-                                                opportunity is on either side of the equation (acquisition or
-                                                value).
-                                            </li>
-                                            <li>
-                                                <strong>Fully Detailed Profile</strong>
-                                                <br />
-                                                We break down not only your “typical” customer’s demographics
-                                                (age, gender, location) but also their behaviors, psychographics,
-                                                interests, shopping patterns, and other traits that produce more
-                                                or less value.
-                                            </li>
-                                            <li>
-                                                <strong>Product View</strong>
-                                                <br />A look at your best selling products, what products are most
-                                                likely to yield more valuable customers, and a margin centric view
-                                                of which products are great supplements to round out a multi-unit
-                                                upsell strategy.
-                                            </li>
-                                            <li>
-                                                <strong>Brand and Social Listening</strong>
-                                                <br />
-                                                To ensure we have a full picture of the market and your customer,
-                                                we also engage in{" "}
-                                                <a href="https://fusepointinsights.com/service/customer-and-audience/">
-                                                    customer research
-                                                </a>
-                                                , surveys, social listening, review aggregation, and brand metrics
-                                                to uncover any blind spots you might’ve missed.
-                                            </li>
-                                        </ul>
-                                        <p>
-                                            The better a brand understands their customers, the better they’re
-                                            able to develop products that bring differentiated value to those
-                                            customers. In other words – it’s a lot easier to sell to your best
-                                            friend than it is to a stranger. We’ll help you get there.
-                                        </p>
+                                       <p>
+    It’s simple: connect your customer data to Burac AI’s intelligence platform, and we’ll uncover a fully
+    data-backed ideal customer profile that gives you clarity and confidence, including:
+</p>
+<ul>
+    <li>
+        <strong>Active vs. High-Potential Customers</strong>
+        <br />
+        Discover who your most engaged customers are today — and identify the untapped segments with higher
+        lifetime value potential. We’ll show you what’s missing, why you haven’t reached them yet, and how to
+        close that gap strategically.
+    </li>
+    <li>
+        <strong>Segmentation, Cohorts, and Value Insights</strong>
+        <br />
+        Growth happens two ways: expanding your audience or increasing customer value. Burac AI reveals
+        where your biggest upside exists — whether it’s scaling acquisition or deepening loyalty and retention.
+    </li>
+    <li>
+        <strong>Comprehensive Audience Profile</strong>
+        <br />
+        Go beyond surface-level demographics. We map behaviors, interests, purchasing triggers,
+        psychographics, and engagement trends to define what makes your audience unique — and valuable.
+    </li>
+    <li>
+        <strong>Product Affinity & Margin View</strong>
+        <br />
+        Understand which products attract your most profitable customers and how to bundle or position
+        offerings to drive repeat purchases and margin growth. This allows for smarter, data-led upsell and
+        cross-sell opportunities.
+    </li>
+    <li>
+        <strong>Market & Sentiment Analysis</strong>
+        <br />
+        To provide a complete understanding of your customers and competitors, we leverage 
+        <a href="https://fusepointinsights.com/service/customer-and-audience/">
+            advanced research tools
+        </a>, surveys, AI-powered social listening, and brand sentiment tracking to uncover key trends and 
+        opportunities you may have overlooked.
+    </li>
+</ul>
+<p>
+    The more precisely you understand your customers, the better you can craft products and experiences that
+    truly resonate. With Burac AI, you’ll stop guessing and start connecting — because selling to someone who
+    feels understood is always easier than selling to a stranger.
+</p>
+
                                     </div>
                                 </div>
                             </div>

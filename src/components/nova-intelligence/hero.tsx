@@ -8,48 +8,49 @@ import image5 from '../../images/Screenshot-2024-11-26-at-8.29.31 AM.png'
 import image6 from '../../images/Untitled-1080-x-750-px-4.png'
 
 export default function Hero() {
-  const tabs = [
-    {
-      id: 'creative-affinity',
-      label: 'Creative Affinity',
-      heading: 'Creative Affinity',
-      text:
-        'nova Creative Affinity revolutionizes performance marketing by linking advertising creatives to customer Lifetime Value (LTV). This application helps businesses optimize ad content and allocate budgets effectively by identifying high-performing creatives.',
-      img: image2,
-    },
-    {
-      id: 'customer-insights',
-      label: 'Customer Insights',
-      heading: 'Customer Insights',
-      text:
-        'nova Customer Insights delivers a complete understanding of your audience, leveraging data to build detailed personas and uncover trends. By identifying customer preferences, businesses can refine their marketing strategies and maximize engagement.',
-      img: image3,
-    },
-    {
-      id: 'insights-ai',
-      label: 'Insights AI',
-      heading: 'Insights AI',
-      text:
-        'Insights AI combines 20+ marketing reports, AI-driven analytics, and human expertise to deliver a comprehensive data platform. Businesses can interact with their marketing data, ask questions, and make agile decisions based on clear insights.',
-      img: image4,
-    },
-    {
-      id: 'customer-cohorts',
-      label: 'Customer Cohorts',
-      heading: 'Customer Cohorts',
-      text:
-        'With nova Customer Cohorts, businesses gain a deep understanding of customer behavior and segmentation. This application identifies high-value customer groups, such as those with high repeat purchase rate, Lifetime Value (LTV), or retention rates.',
-      img: image5,
-    },
-    {
-      id: 'forecasts',
-      label: 'Forecasts',
-      heading: 'Forecasts',
-      text:
-        'nova Forecasts empowers businesses with predictive analytics, enabling data-driven decision-making. The application models market demand, identifies growth opportunities, and supports resource allocation.',
-      img: image6,
-    },
-  ]
+ const tabs = [
+  {
+    id: 'creative-affinity',
+    label: 'Creative Affinity',
+    heading: 'Creative Affinity',
+    text:
+      'Burac AI’s Creative Affinity connects ad creative directly to customer lifetime value (LTV). Identify which concepts drive the most impact, optimize your content, and allocate spend where it truly matters.',
+    img: image2,
+  },
+  {
+    id: 'customer-insights',
+    label: 'Customer Insights',
+    heading: 'Customer Insights',
+    text:
+      'Get a 360° understanding of your audience. Burac AI turns customer data into actionable insights, helping you refine messaging, improve engagement, and strengthen loyalty.',
+    img: image3,
+  },
+  {
+    id: 'insights-ai',
+    label: 'Insights AI',
+    heading: 'Insights AI',
+    text:
+      'Insights AI blends advanced analytics with human intelligence. Explore your marketing data through interactive dashboards, ask natural-language questions, and uncover opportunities in real time.',
+    img: image4,
+  },
+  {
+    id: 'customer-cohorts',
+    label: 'Customer Cohorts',
+    heading: 'Customer Cohorts',
+    text:
+      'Segment smarter with Customer Cohorts. Discover high-value audiences based on behavior, retention, and LTV to guide more personalized and profitable marketing strategies.',
+    img: image5,
+  },
+  {
+    id: 'forecasts',
+    label: 'Forecasts',
+    heading: 'Forecasts',
+    text:
+      'Forecasts uses predictive analytics to anticipate performance and market shifts. Plan ahead with confidence, model potential outcomes, and allocate resources for maximum growth.',
+    img: image6,
+  },
+];
+
 
   const [activeIndex, setActiveIndex] = useState(0)
 

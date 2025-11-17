@@ -14,17 +14,10 @@ export default function education() {
           </div>
           <div className="intro-twos-columns__text">
             <p>
-              Unlock a wealth of cutting-edge insights on the latest trends
-              shaping digital marketing and consumer behavior. From channel
-              insights spanning search engine optimization, paid search, social
-              media management and more, to strategic planning and measurement,
-              the Power Digital Marketing Blog delivers the expertise you need
-              to stay ahead. Each resource is brimming with actionable
-              knowledge, designed to empower your marketing efforts today and
-              prepare you for the future of digital advertising.
+              Unlock a wealth of cutting-edge insights on the latest trends shaping AI, intelligent automation, and product innovation. From data strategy and engineering workflows to go-to-market acceleration and performance analytics, the Burac.ai Knowledge Hub delivers the expertise you need to stay ahead. Every resource is packed with actionable guidance to fuel today’s execution and prepare you for tomorrow’s breakthroughs.
             </p>
             <a
-              href="https://powerdigitalmarketing.com/blog/"
+              href="#"
               className="btn btn-secondary"
             >
               <div className="icon">

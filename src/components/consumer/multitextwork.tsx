@@ -4,27 +4,18 @@ export default function multitextwork() {
     <section className="multi-text-section bg-dark ">
           <div className="multi-text-section__text">
             <div className="title">
-              <span className="badge rounded-pill bg-dark">Work with Power</span>
-              <h2>What is the benefit of hiring a consumer services agency?</h2>
+              <span className="badge rounded-pill bg-dark">Work with Burac.ai</span>
+              <h2>Why partner with an AI-driven solutions agency?</h2>
             </div>
             <div className="paragraph">
               <p>
                 <span style={{ fontWeight: 400 }}>
-                  Choosing Power Digitals Consumer Services means unlocking the full
-                  potential of your business. Our team is dedicated to delivering
-                  tailored strategies that align with your growth objectives. We go
-                  beyond the surface, providing the insights, tools, and expertise
-                  needed to overcome business and industry challenges seizing new
-                  opportunities.
+                  Choosing Burac.ai means unlocking your business’s full potential. We deliver tailored, intelligent strategies that align with your growth objectives. 
                 </span>
               </p>
               <p>
                 <span style={{ fontWeight: 400 }}>
-                  With a focus on driving meaningful engagement while enhancing
-                  customer brand affinity optimizing your operations, we bring a
-                  holistic approach to your marketing efforts. Our commitment is to
-                  help you navigate complex market dynamics and achieve sustainable
-                  growth.
+                  By leveraging AI, data insights, and automation, we go beyond the surface — solving operational challenges, seizing new opportunities, and driving measurable outcomes.
                 </span>
               </p>
             </div>
@@ -34,36 +25,30 @@ export default function multitextwork() {
             <div className="multi-text-section__row">
               <div className="item">
                 <div className="text">
-                  <h3>Drive Your Business Forward</h3>
+                  <h3>Accelerate Growth</h3>
                   <p>
                     <span style={{ fontWeight: 400 }}>
-                      Partner with Power Digital to accelerate your growth with
-                      strategies that keep you ahead in an ever-changing market
-                      landscape.
+                      Partner with Burac.ai to speed up lead conversion and operational efficiency with strategies that keep your business ahead in a fast-moving digital landscape.
                     </span>
                   </p>
                 </div>
               </div>
               <div className="item">
                 <div className="text">
-                  <h3>Elevate Customer Connections</h3>
+                  <h3>Enhance Customer Engagement</h3>
                   <p>
                     <span style={{ fontWeight: 400 }}>
-                      Deepen customer relationships and boost loyalty through our
-                      innovative, experience-driven approach that resonates with
-                      your audience.
+                      Deepen relationships and improve loyalty through AI-driven experiences and smart automation that resonates with your audience.
                     </span>
                   </p>
                 </div>
               </div>
               <div className="item">
                 <div className="text">
-                  <h3>Confidently Navigate Market Challenges</h3>
+                  <h3>Navigate Market Complexity</h3>
                   <p>
                     <span style={{ fontWeight: 400 }}>
-                      Trust our expertise to guide you through market complexities,
-                      ensuring your operations are optimized for consistent and
-                      sustainable success.
+                      Trust our expertise to guide you through complex market dynamics, ensuring your operations are optimized for predictable, sustainable success.
                     </span>
                   </p>
                 </div>

@@ -8,8 +8,7 @@ export default function industries() {
         <div className="title">
           <span className="badge rounded-pill bg-light">Industries</span>
           <h2>
-            From our talent to our tech, this is new wave digital marketing.
-          </h2>
+The Intelligence Behind Modern Growth          </h2>
         </div>
         <div className="paragraph">
           <a
@@ -30,10 +29,8 @@ export default function industries() {
             <div className="text">
               <h3>Undeniable Speed</h3>
               <p>
-                Everyone has capabilities, but coupling them with agility is the
-                holy grail of growth marketing. We dive into the numbers to see
-                what tactics are creating incremental or new revenue and which
-                ones aren’t, then we swiftly adapt and execute.
+                In today’s markets, agility defines winners.
+Burac.ai rapidly interprets performance data, identifies profitable shifts, and activates campaigns at the pace of opportunity — ensuring clients always stay ahead of the curve.
               </p>
             </div>
           </div>
@@ -41,11 +38,8 @@ export default function industries() {
             <div className="text">
               <h3>Undeniable Expertise</h3>
               <p>
-                Our team boasts some of the brightest minds in the world of
-                digital and performance marketing, and everyone here is
-                lockstep-focused on business impact — evidenced by a stellar
-                96+% client retention rate. Expect nothing less than
-                best-in-class.
+                Our team blends growth engineers, data scientists, and brand strategists — all focused on business impact.
+It’s why we maintain a 96%+ retention rate and are trusted by leading brands and investment firms worldwide.
               </p>
             </div>
           </div>
@@ -53,10 +47,8 @@ export default function industries() {
             <div className="text">
               <h3>Undeniable Results</h3>
               <p>
-                We’re driven by outcomes, not ego. Perhaps that’s why we grow
-                companies 2.6x faster than the industry average, with 27+% YoY
-                revenue increases. All of our critical capabilities prioritize
-                optimizing our clients’ investments for maximum ROI.
+                We’re defined by outcomes, not opinions.
+Burac.ai clients grow 2.6x faster than the market average, achieving 27%+ YoY revenue gains through intelligence-led strategy and measurable optimization.
               </p>
             </div>
           </div>

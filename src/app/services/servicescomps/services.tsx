@@ -36,7 +36,7 @@ export default function Services() {
                             <div className="text__description">
                                 <p>
                                     <span style={{ fontWeight: 400 }}>
-                                        Power is your go-to for data-driven strategies and creative
+                                        Burac.ai  is your go-to for data-driven strategies and creative
                                         experimentation to acquire, engage, and retain the right
                                         customers. We’re experts at optimization, as well as lead testing
                                         and measurement that ultimately leads to extending customer

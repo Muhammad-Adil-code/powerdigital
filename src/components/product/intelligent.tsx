@@ -14,12 +14,7 @@ export default function intelligent() {
         <div className="paragraph">
           <p>
             <span style={{ fontWeight: 400 }}>
-              With access to over 300M+ consumer data points and partnerships
-              with the top platforms in eCommerce, social, and digital
-              advertising, we deliver data-fueled strategies that outperform the
-              market. Combine our expertise in creative, messaging, and customer
-              journey optimization to achieve scalable, repeatable growth.
-              Dominate the shelf and the scroll—we’ve got you covered.
+              Leveraging over 300M+ consumer data points and partnerships with top eCommerce, social, and digital platforms, Burac.ai delivers strategies that outperform the market. By combining AI-driven analytics, creative product experiences, and optimized customer journeys, we create scalable, repeatable growth. From shelf to scroll, from app to website, we ensure your products dominate attention and drive measurable results.
             </span>
           </p>
         </div>
@@ -32,10 +27,7 @@ export default function intelligent() {
               <h3>Customer Insight &amp; Messaging</h3>
               <p>
                 <span style={{ fontWeight: 400 }}>
-                  We tap into the hearts and minds of your consumers, ensuring
-                  every message strikes a chord. By transforming data into
-                  stories, we create campaigns that resonate and convert,
-                  turning casual shoppers into loyal advocates.
+                  We uncover the motivations, preferences, and behaviors of your consumers to ensure every message resonates. By turning data into compelling narratives, we craft campaigns that convert casual shoppers into loyal brand advocates.
                 </span>
               </p>
             </div>
@@ -45,10 +37,7 @@ export default function intelligent() {
               <h3>Full-Funnel Strategy</h3>
               <p>
                 <span style={{ fontWeight: 400 }}>
-                  From awareness to repeat purchases, we craft seamless
-                  strategies that guide consumers through their journey. Whether
-                  launching a new product or scaling an established brand, we
-                  fuel every step of your growth with precision.
+                  From discovery to repeat purchase, we create seamless, integrated strategies guiding consumers through their journey. Whether launching new products or scaling established brands, every touchpoint is optimized for precision and performance.
                 </span>
               </p>
             </div>
@@ -58,10 +47,7 @@ export default function intelligent() {
               <h3>Performance at Scale</h3>
               <p>
                 <span style={{ fontWeight: 400 }}>
-                  We optimize every dollar spent by fine-tuning your digital
-                  channels, streamlining acquisition costs, and increasing
-                  customer lifetime value. Efficiency isn’t just a goal; it’s
-                  our guarantee.
+                  Burac.ai optimizes every dollar spent — refining acquisition costs, maximizing engagement, and increasing customer lifetime value. Efficiency is not a goal; it’s our guarantee.
                 </span>
               </p>
             </div>

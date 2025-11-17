@@ -14,16 +14,12 @@ export default function built() {
         <div className="paragraph">
           <p>
             <span style={{ fontWeight: 400 }}>
-              You don’t just need more data, you need data that drives action.
-              With 300M+ data points and proprietary tech (hi, nova), we map
-              your best opportunities across DTC, in-store, and retail media.
-              Then we execute with precision from the scroll to the shelf.
+              You don’t just need more data — you need data that drives action. Leveraging 300M+ consumer data points and proprietary Burac.ai technology, we map your best opportunities across DTC, retail, and in-store media. Then we execute with precision — from scroll to shelf.
             </span>
           </p>
           <p>
             <span style={{ fontWeight: 400 }}>
-              At the end of the day, we’re not just here to drive sales. We’re
-              here to make them sustainable, measurable, and margin-positive.
+              Our mission isn’t just to drive sales — it’s to make them sustainable, measurable, and margin-positive.
             </span>
           </p>
         </div>
@@ -36,9 +32,7 @@ export default function built() {
               <h3>Customer Insight &amp; Messaging</h3>
               <p>
                 <span style={{ fontWeight: 400 }}>
-                  We help you understand your customers, and then speak to them
-                  like you actually know them. Our insights fuel messaging that
-                  clicks online and moves units in-store.
+                  We help you understand your customers — and then communicate like you really know them. Insights fuel messaging that converts online engagement into in-store and digital revenue.
                 </span>
               </p>
             </div>
@@ -48,9 +42,7 @@ export default function built() {
               <h3>Omnichannel Strategy &amp; Execution </h3>
               <p>
                 <span style={{ fontWeight: 400 }}>
-                  No more siloed DTC vs. retail vs. Amazon. We connect the dots
-                  with integrated media plans that drive total revenue and
-                  measurable lift.
+                  No more silos between DTC, retail, or Amazon. Burac.ai connects the dots with integrated campaigns that drive total revenue and measurable lift.
                 </span>
               </p>
             </div>
@@ -60,9 +52,7 @@ export default function built() {
               <h3>Measurement &amp; Incrementality</h3>
               <p>
                 <span style={{ fontWeight: 400 }}>
-                  What’s working? Where’s the impact? We bring clarity to your
-                  full funnel using incrementality testing and MMM, so you can
-                  scale the channels that truly deliver.
+                  We bring clarity to your full funnel using incrementality testing and MMM frameworks, showing exactly what channels drive impact — so you can scale strategies that work and stop wasting spend on those that don’t.
                 </span>
               </p>
             </div>

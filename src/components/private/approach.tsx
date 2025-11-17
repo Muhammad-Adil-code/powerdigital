@@ -7,13 +7,11 @@ export default function approach() {
       <div className="multi-text-section__text">
         <div className="title">
           <span className="badge rounded-pill bg-dark">Our Approach</span>
-          <h2>Speaking Your Language: Delivering Alpha</h2>
+          <h2>Speaking the Language of Value Creation</h2>
         </div>
         <div className="paragraph">
           <p>
-            We understand the language of private equity. Our expertise lies in
-            delivering Alpha through meticulous thesis validation, ongoing value
-            creation, and strategic exit readiness planning.
+            We understand the metrics and mindset of private equity. Our team focuses on delivering Alpha through AI-driven diligence, strategic value creation, and exit-ready marketing optimization.
           </p>
         </div>
       </div>
@@ -24,11 +22,7 @@ export default function approach() {
             <div className="text">
               <h3>Diligence</h3>
               <p>
-                We apply nova to all marketing channels, pinpointing and
-                exposing opportunities to increase valuation. Based on our
-                findings, we identify marketing opportunities to boost
-                valuation, expose hidden growth potential, and support your
-                investment decisions with accurate data.
+                We apply Burac Core across all marketing channels to uncover inefficiencies, benchmark competitive performance, and expose high-return opportunities that can elevate valuation and reduce acquisition risk.
               </p>
             </div>
           </div>
@@ -36,9 +30,8 @@ export default function approach() {
             <div className="text">
               <h3>Thesis Validation</h3>
               <p>
-                Ensure your investment hypothesis is accurate and achievable. We
-                validate the likelihood of achieving projected outcomes and
-                identify potential risks in marketing performance.
+                Validate your investment hypothesis before committing capital.
+Burac.ai quantifies the likelihood of achieving forecasted outcomes and pinpoints marketing-driven risks that could impact performance post-acquisition.
               </p>
             </div>
           </div>
@@ -49,9 +42,7 @@ export default function approach() {
             <div className="text">
               <h3>Value Creation</h3>
               <p>
-                Our continuous activation work ensures that marketing milestones
-                and strategic KPIs are met, driving consistent growth and
-                increasing valuation.
+                We activate continuous optimization loops — ensuring marketing milestones, revenue KPIs, and operational efficiencies are met, driving consistent valuation uplift across your portfolio.
               </p>
             </div>
           </div>
@@ -59,9 +50,7 @@ export default function approach() {
             <div className="text">
               <h3>Exit Readiness</h3>
               <p>
-                We help you map out marketing-driven growth over the investment
-                horizon, preparing your portfolio companies for a profitable
-                exit.
+                Burac.ai builds marketing and performance visibility over the full investment horizon, enabling data-backed exit narratives and proof-driven growth stories for profitable exits.
               </p>
             </div>
           </div>

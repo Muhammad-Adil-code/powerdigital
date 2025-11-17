@@ -336,7 +336,7 @@ export default function bigsection() {
                 fontStyle: "normal"
               }}
             >
-              At Power Digital, <strong>we don't guess</strong> —&nbsp;
+              At  burac ai, <strong>we don't guess</strong> —&nbsp;
             </span>
             <span
               style={{
@@ -358,8 +358,8 @@ export default function bigsection() {
                 fontStyle: "normal"
               }}
             >
-              &nbsp;Our proprietary <strong>PowerCircuit™ Framework</strong> is
-              the key to transforming uncertainty into undeniable growth.
+               Our exclusive <strong>PowerCircuit™ Framework</strong> turns ambiguity into measurable growth and predictable results.
+
             </span>
             <span style={{ fontStyle: "normal" }}>
               <span style={{ fontWeight: 500 }}>
@@ -378,9 +378,8 @@ export default function bigsection() {
               }}
             >
               <br />
-              By combining the strength of our massive data warehouse with the
-              expertise of our 800+ growth-obsessed specialists, we deliver
-              actionable insights and proven solutions that drive results.&nbsp;
+             By harnessing the power of our extensive data warehouse and the expertise of 800+ growth-focused specialists, we provide actionable insights and strategies that consistently deliver measurable results.
+
             </span>
           </p>
         </div>
@@ -636,11 +635,8 @@ export default function bigsection() {
                 fontStyle: "normal"
               }}
             >
-              Most marketing plans are built on fragmented data and
-              platform-reported metrics that don’t tell the full story.
-              Oftentimes marketing plans are built to solve the wrong problem,
-              we created PowerCircuit™ to give brands a clear, objective view of
-              where performance is breaking down, and what to do about it.
+              Many marketing plans rely on fragmented data and platform-reported metrics that only show part of the picture. Often, they’re designed to address the wrong problem. PowerCircuit™ was created to give brands a clear, objective view of where performance is falling short—and exactly how to fix it.
+
             </span>
           </p>
         </div>
@@ -678,10 +674,8 @@ export default function bigsection() {
                 fontStyle: "normal"
               }}
             >
-              With six core business pillars and 103 benchmarked KPIs,
-              PowerCircuit™ helps brands understand exactly how they stack up
-              against competitors and where the biggest growth opportunities
-              lie.
+              PowerCircuit™ leverages six core business pillars and 103 benchmarked KPIs to give brands a clear picture of how they compare to competitors and pinpoint the areas with the greatest growth potential.
+
             </span>
           </p>
         </div>
@@ -1334,8 +1328,8 @@ export default function bigsection() {
                 fontStyle: "normal"
               }}
             >
-              Every brand sits somewhere on the matrix{" "}
-              <strong>between growth and efficiency.</strong>
+              Every brand falls somewhere on the spectrum <strong>between growth and efficiency.</strong>
+
             </span>
           </p>
         </div>
@@ -1381,10 +1375,8 @@ export default function bigsection() {
               fontStyle: "normal"
             }}
           >
-            We benchmarked this brand across{" "}
-            <strong>103 performance indicators</strong> and compared it to the
-            fastest-growing peers in its category—uncovering{" "}
-            <strong>critical gaps across</strong>{" "}
+            We evaluated this brand across <strong>103 key performance indicators</strong> and measured it against the fastest-growing peers in its category—revealing <strong>essential gaps in performance</strong>.
+
           </span>
           <span
             style={{
@@ -2884,10 +2876,8 @@ export default function bigsection() {
                   fontStyle: "normal"
                 }}
               >
-                Despite holding a 17% share of the U.S. market,{" "}
-                <strong>only 9% of revenue came from paid media,</strong> and
-                spend around product drops delivered minimal incremental
-                lift.&nbsp;
+                Although the brand commands a 17% share of the U.S. market, <strong>just 9% of revenue is driven by paid media</strong>, and promotional spending around product launches generated minimal incremental impact.
+
               </span>
             </p>
           </div>
@@ -2909,11 +2899,8 @@ export default function bigsection() {
                   fontStyle: "normal"
                 }}
               >
-                <strong>
-                  Measurement gaps made it difficult to assess media impact,
-                </strong>{" "}
-                and international markets remained largely untapped, with just
-                3% TAM penetration in the EU and 0.5% in Mexico.&nbsp;
+                <strong>Measurement limitations hindered the ability to evaluate media performance,</strong> while international markets remained largely untapped, achieving only 3% TAM penetration in the EU and 0.5% in Mexico.
+
               </span>
             </p>
           </div>
@@ -2933,8 +2920,8 @@ export default function bigsection() {
                 fontStyle: "normal"
               }}
             >
-              They held 17% of the U.S. market, yet{" "}
-              <strong>paid media drove&nbsp;</strong>
+             They captured 17% of the U.S. market, yet <strong>paid media contributed only</strong>
+
             </span>
             <span
               style={{
@@ -3020,8 +3007,8 @@ export default function bigsection() {
               fontStyle: "normal"
             }}
           >
-            We prescribed and executed precise,{" "}
-            <strong>battle-tested strategies—</strong>
+            We designed and implemented targeted, <strong>proven strategies—</strong>
+
           </span>
           <span
             style={{
@@ -3069,9 +3056,8 @@ export default function bigsection() {
                   fontStyle: "normal"
                 }}
               >
-                Shifted budget away from product drops and{" "}
-                <strong>into evergreen campaigns</strong> that drive net-new
-                customers.&nbsp;
+                Reallocated budget from product launches to <strong>evergreen campaigns</strong> focused on acquiring new customers. 
+
               </span>
             </p>
           </div>
@@ -3125,8 +3111,8 @@ export default function bigsection() {
                 fontStyle: "normal"
               }}
             >
-              We reimagined their media strategy,{" "}
-              <strong>modernized measurement</strong>, and surfaced&nbsp;
+             We overhauled their media approach, <strong>updated measurement frameworks</strong>, and revealed 
+
             </span>
             <span
               style={{
@@ -3217,10 +3203,8 @@ export default function bigsection() {
                   fontStyle: "normal"
                 }}
               >
-                <strong>Reallocated spend to global markets,</strong> unlocking
-                growth in regions where the Fashion Brand had less than 3%
-                market penetration despite there being high interest in the
-                brand.
+                <strong>Redirected budget to international markets,</strong> capturing growth in regions where the Fashion Brand had under 3% market penetration, despite strong consumer interest.
+
               </span>
             </p>
           </div>
@@ -3318,10 +3302,8 @@ export default function bigsection() {
                 color: "rgb(245, 245, 245)"
               }}
             >
-              Built on $20B in transaction data and $3B in media spend, the
-              PowerCircuit™ benchmarks your business across six critical pillars
-              to reveal exactly where performance is breaking down—and what to
-              do about it.
+              Leveraging $20B in transaction data and $3B in media spend, PowerCircuit™ evaluates your business across six key pillars, pinpointing performance gaps and providing actionable steps to drive growth.
+
             </span>
           </p>
           <p   >
@@ -3334,8 +3316,8 @@ export default function bigsection() {
                 color: "rgb(245, 245, 245)"
               }}
             >
-              No guesswork. No fluff. Just the clarity and confidence to act on
-              what matters most.
+             Zero guesswork. Zero fluff. Just clear insights and the confidence to focus on what truly drives results.
+
             </span>
           </p>
         </div>
@@ -3411,9 +3393,8 @@ export default function bigsection() {
               color: "rgb(245, 245, 245)"
             }}
           >
-            For brands and enterprise companies that demand strategic support
-            and digital marketing services with measurable impact, Power is
-            ready to drive your growth with conviction.&nbsp;
+            For brands and enterprises seeking strategic guidance and digital marketing with measurable results, Power is here to accelerate your growth with confidence.
+
           </span>
         </p>
       </div>
@@ -3471,8 +3452,8 @@ export default function bigsection() {
               fontStyle: "normal"
             }}
           >
-            A leading, privately held growth marketing firm helping brands
-            ignite revenue and brand recognition.
+            A top-tier, privately owned growth marketing firm driving revenue and brand visibility for ambitious brands.
+
           </span>
         </p>
       </div>
@@ -4043,7 +4024,7 @@ export default function bigsection() {
               color: "rgb(171, 171, 171)"
             }}
           >
-            2025 Power Digital Marketing. All rights reserved. Privacy policy.
+            2025  burac ai Marketing. All rights reserved. Privacy policy.
             Terms of use.&nbsp;
           </span>
         </p>

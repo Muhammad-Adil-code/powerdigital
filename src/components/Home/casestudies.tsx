@@ -16,7 +16,7 @@ export default function casestudies() {
         </FadeUp>
         <hr />
         <div className="separator__text">
-          <span>POWER DIGITAL</span>
+          <span>BURAC.AI</span>
           <div>
             <span className="separator__number">03</span>
             <span>OUR CLIENTS</span>
@@ -38,16 +38,15 @@ export default function casestudies() {
               <span>01</span>
             </div>
             <div className="case-studies__item-content">
-              <h3 className="title">Alliant University</h3>
-              <p className="industry">Consumer Service</p>
+              <h3 className="title">Nucleus4D</h3>
+              <p className="industry">Immersive Tech / Web Platform</p>
               <p className="service">
-                From Insights to Impact: Power Digital’s Approach Amplifies
-                Higher Ed Applicant Pipeline{" "}
+                From insight to innovation: Burac.ai’s 4D platform redefined spatial experiences, connecting digital precision with real-world architecture.
               </p>
             </div>
             <div className="case-studies__item-arrow">
               <a
-                href="https://powerdigitalmarketing.com/case-studies/alliant-university/"
+                href="#"
                 className="btn btn--round btn-sm btn-outline-dark stretched-link"
               >
                 <div className="icon">
@@ -61,16 +60,37 @@ export default function casestudies() {
               <span>02</span>
             </div>
             <div className="case-studies__item-content">
-              <h3 className="title">Vix</h3>
-              <p className="industry">Consumer Product</p>
+              <h3 className="title">Flakex</h3>
+              <p className="industry">Sports / Mobile App</p>
               <p className="service">
-                Explore how our strategic approach catalyzed profitable,
-                sustainable growth for ViX Paula Hermanny.
+                See how Burac.ai’s smart UX and automation tools helped Flakex boost engagement and build loyal sports communities across Spain.
               </p>
             </div>
             <div className="case-studies__item-arrow">
               <a
-                href="https://powerdigitalmarketing.com/case-studies/vix/"
+                href="#"
+                className="btn btn--round btn-sm btn-outline-dark stretched-link"
+              >
+                <div className="icon">
+                  <i className="icon-arrow-up-right" />
+                </div>
+              </a>
+            </div>
+          </li>
+          <li className="case-studies__item position-relative">
+            <div className="case-studies__item-number">
+              <span>03</span>
+            </div>
+            <div className="case-studies__item-content">
+              <h3 className="title">Vertify Analytics</h3>
+              <p className="industry">Engineering / Web Platform</p>
+              <p className="service">
+                Discover how Burac.ai empowered Vertify to streamline remote inspections with AI analytics, improving accuracy while cutting project time.
+              </p>
+            </div>
+            <div className="case-studies__item-arrow">
+              <a
+                href="#"
                 className="btn btn--round btn-sm btn-outline-dark stretched-link"
               >
                 <div className="icon">

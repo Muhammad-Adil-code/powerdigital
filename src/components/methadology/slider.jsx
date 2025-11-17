@@ -334,7 +334,7 @@ export default function slider() {
                       fontStyle: "normal"
                     }}
                   >
-                    <strong>Step 4: Execute with Power Digital</strong>
+                    <strong>Step 4: Execute with  burac ai</strong>
                   </span>
                 </p>
               </div>

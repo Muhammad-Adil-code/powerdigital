@@ -32,8 +32,7 @@ export default function result() {
               <CountUp end={300}  duration={3} suffix="M+" />
               {/* <h3 data-value="300M+">0</h3> */}
               <p>
-                Data points leveraged by nova applications to drive business
-                insight
+                Data points leveraged by Burac.ai applications to drive insights
               </p>
             </div>
           </div>
@@ -62,13 +61,7 @@ export default function result() {
           </div>
           <div className="description">
             <p>
-              Explore how our strategic approach catalyzed profitable,
-              sustainable growth for ViX Paula Hermanny. By conducting a deep
-              analysis of primary audience cohorts, sharpening acquisition and
-              retention offers, and implementing a sophisticated marketing mix,
-              we enabled ViX to capture and retain higher-value customers while
-              decreasing both discounts &amp; advertising costs. The result? A
-              transformative impact on top-line revenue.
+              Burac.ai helped ViX Paula Hermanny scale sustainably. By analyzing primary audience cohorts, optimizing acquisition and retention offers, and implementing a sophisticated AI-driven marketing mix, we captured higher-value customers while reducing discounts and advertising costs — creating transformative top-line growth.
             </p>
           </div>
         </div>

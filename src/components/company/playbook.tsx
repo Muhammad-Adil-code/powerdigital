@@ -1,5 +1,6 @@
 import React from 'react'
 import Jeff from '../../images/Jeff-1.jpg'
+import Image from 'next/image'
 export default function playbook() {
   return (
     <>
@@ -12,7 +13,7 @@ export default function playbook() {
               <h2>Always playing to win.</h2>
               <div className="person-info">
                 <div className="person-photo">
-                  <img src={Jeff.src} alt="" srcSet="" />
+                  <Image src={Jeff} alt=""  />
                 </div>
                 <div className="person-details">
                   <h3 className="person-name">JEFF MASON</h3>

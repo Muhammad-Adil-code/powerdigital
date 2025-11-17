@@ -1,4 +1,5 @@
 import React from 'react'
+import Image from 'next/image'
 import icon6 from '../../assets/images/icon6.svg'
 import icon3 from '../../assets/images/icon3.svg'
 import icon8 from '../../assets/images/icon8.svg'
@@ -46,7 +47,7 @@ export default function carousal() {
               style={{ backgroundColor: "rgb(175,170,249)", color: "" }}
             >
               <div className="icon">
-                <img src={icon6.src} alt="" />
+                <Image src={icon6.src} alt="" width={64} height={64} />
               </div>
               <div className="text">
                 <h4>Business level data.</h4>
@@ -60,7 +61,7 @@ export default function carousal() {
               }}
             >
               <div className="icon">
-                <img src={Layer_1.src} alt="" />
+                <Image src={Layer_1.src} alt="" width={64} height={64} />
               </div>
               <div className="text">
                 <h4>True scientific incrementality experiments.</h4>
@@ -71,7 +72,7 @@ export default function carousal() {
               style={{ backgroundColor: "rgb(255,255,255)", color: "" }}
             >
               <div className="icon">
-                <img src={icon3.src} alt="" />
+                <Image src={icon3.src} alt="" width={64} height={64} />
               </div>
               <div className="text">
                 <h4>Rigorous and ML-enabled media mix modeling.</h4>
@@ -85,7 +86,7 @@ export default function carousal() {
               }}
             >
               <div className="icon">
-                <img src={icon8.src} alt="" />
+                <Image src={icon8.src} alt="" width={64} height={64} />
               </div>
               <div className="text">
                 <h4>Knowledge of when and how to use platform attribution.</h4>

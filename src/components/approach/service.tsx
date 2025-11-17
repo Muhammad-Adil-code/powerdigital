@@ -20,10 +20,8 @@ export default function service() {
             </div>
             <div className="description">
               <p>
-                We harness next-gen tech, sophisticated analytics, and deep
-                consumer insights to deliver scalable growth and a formidable
-                marketing edge for brands. Our team takes pride in helping B2C
-                clients realize ROI faster than they ever thought possible.
+                We use AI, advanced analytics, and deep behavioral modeling to help consumer brands scale smarter.
+From optimizing omnichannel campaigns to uncovering hidden audience potential, we accelerate ROI and deliver growth that compounds — not just clicks that fade.
               </p>
             </div>
           </div>
@@ -49,10 +47,8 @@ export default function service() {
             </div>
             <div className="description">
               <p>
-                From lead gen to conversion, our B2B team specializes in
-                building multi-channel digital strategies that will be optimized
-                at every stage of the buyer’s journey. Our full-funnel,
-                data-backed approach eliminates best-guesses from the equation.
+                Our B2B division builds full-funnel strategies that align brand, pipeline, and revenue.
+By integrating predictive lead scoring, content intelligence, and conversion optimization, we eliminate guesswork and help clients dominate every stage of the buyer’s journey.
               </p>
             </div>
           </div>
@@ -78,10 +74,8 @@ export default function service() {
             </div>
             <div className="description">
               <p>
-                We have unmatched expertise crafting bespoke digital marketing
-                strategies across various service sectors — from education to
-                health and wellness — and a track record of transforming leads
-                into loyal customers that drive incremental revenue.
+                From education to health, lifestyle to finance — Burac.ai designs precision-targeted strategies that convert interest into loyalty.
+We optimize every interaction through data-informed personalization, building long-term customer relationships that fuel incremental growth.
               </p>
             </div>
           </div>
@@ -107,11 +101,8 @@ export default function service() {
             </div>
             <div className="description">
               <p>
-                Power provides digital marketing due diligence for private
-                equity, venture capital, and growth investors. Utilizing our
-                nova platform, we conduct deep marketing assessments that aid in
-                identifying valuable opportunities and optimizing investment
-                decisions.
+                Burac.ai supports PE, VC, and growth investors with AI-powered marketing diligence and portfolio optimization.
+Using our Burac Core platform, we surface undervalued growth levers, validate market theses, and optimize marketing investments to drive stronger, faster valuation outcomes.
               </p>
             </div>
           </div>

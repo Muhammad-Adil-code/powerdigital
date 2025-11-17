@@ -11,52 +11,51 @@ import WhySection from '../maincomonents/whysection';
 import WorkWith from '../maincomonents/workwith';
 import BackgroundImageSection from './backgroundimagesection';
 import Results from './results';
-
 const creativeHomeHeroSectionData = {
     badge: "Creative",
     title: "Brand Design Agency",
-    description: "Not just strategists but creative experts. Built by a team of design and editor professionals dedicated to your brand, we are an extension of your team. Ensuring consistency, cohesion, and an elevated aesthetic to drive impact across all touch points.",
+    description: "At Burac AI, we’re more than strategists — we’re your creative partners. Our team of designers and editors works as an extension of your brand to ensure cohesion, consistency, and elevated aesthetics that drive impact across all touchpoints.",
     buttonText: "Request a consultation",
     buttonUrl: "#",
     image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Hero-Image-Right-3-small.png",
-    imageAlt: "Programmatic Advertising Services"
+    imageAlt: "Creative Services"
 };
 
 const creativeHomeLearnMoreData = {
     badge: "LEARN MORE",
-    title: "Learn more about Creative.",
-    description: "Your questions, answered.\n\nDive into the details of how we create designs that connect and convert.",
+    title: "Explore Our Creative Services",
+    description: "Your questions answered.\n\nDiscover how Burac AI creates designs that connect, convert, and elevate your brand.",
     faqs: [
         {
-            question: "What types of graphic design services do you offer?",
+            question: "What types of design services do you provide?",
             answer: [
-                "We offer a full range of graphic design services, including social media graphics, email designs, landing pages, banners, and Amazon marketplace graphics. Each service is tailored to meet your specific marketing needs."
+                "We offer a wide range of design services including social media graphics, email campaigns, landing pages, banners, and marketplace assets — all tailored to your brand’s goals."
             ]
         },
         {
-            question: "How do you ensure the designs align with our brand?",
+            question: "How do you ensure designs align with our brand?",
             answer: [
-                "We start every project by thoroughly understanding your brand, your audience, and your objectives. This allows us to craft creative strategies and content that are not only visually compelling but also strategically aligned with your brand's goals."
+                "We start by understanding your brand, audience, and objectives. This ensures all creative solutions are visually compelling and aligned with your brand strategy."
             ]
         },
         {
-            question: "Can you handle large-scale design projects?",
+            question: "Can you handle large-scale projects?",
             answer: [
-                "Absolutely! Our team is equipped to manage projects of any size, from comprehensive brand strategies to large-scale video productions and design projects. We ensure that every aspect of your campaign is executed flawlessly."
+                "Yes! From complete brand strategies to high-volume production, our team ensures flawless execution at any scale."
             ]
         },
         {
-            question: "Why should I choose Power Digital for my graphic design needs?",
+            question: "Why choose Burac AI for creative services?",
             answer: [
-                "At Power Digital, we combine creativity, strategy, and data to deliver results that matter. Our team of experts is dedicated to elevating your brand through innovative, effective creative solutions tailored to your specific needs."
+                "We combine creativity, strategy, and data-driven insights to deliver impactful, brand-aligned creative solutions designed to grow your business."
             ]
         }
     ]
 };
 
 const creativeHomeWhySectionData = {
-    badge: "WHY POWER",
-    title: "Intentional Creatives with Powerful Strategies",
+    badge: "WHY BURAC AI",
+    title: "Purposeful Creativity with Measurable Impact",
     buttonText: "Get a free brand audit",
     buttonUrl: "#",
     introText: "",
@@ -64,8 +63,8 @@ const creativeHomeWhySectionData = {
         {
             type: "list" as const,
             content: [
-                "<p>As the creative powerhouse of Power Digital, we have a purposeful approach to developing powerful creative. By combining research, data, and expertise, we build creative that connects to your audience and inspires impact.</p>",
-                "<p>We believe the best creatives tell a story—your story. With a purposeful approach, we build a connection that inspires your customers to be loyal advocates.</p>"
+                "<p>At Burac AI, we merge data and design to craft creative that resonates and drives results.</p>",
+                "<p>We tell your brand’s story with intentional design, fostering stronger connections and loyal customers.</p>"
             ]
         }
     ]
@@ -73,9 +72,9 @@ const creativeHomeWhySectionData = {
 
 const creativeHomeWorkWithData = {
     badge: "What We Do",
-    title: "Creative that delivers across all platforms",
+    title: "Creative That Performs Across Platforms",
     paragraphs: [
-        "We build intentional strategies that amplify your brand’s presence across all platforms. From engaging social media graphics, conversion-focused email designs, or high-impact landing pages, our creative team has the expertise and creativity to bring your vision to life."
+        "We create strategies that amplify your brand across every channel. From engaging social media graphics to conversion-focused landing pages, our team brings creativity and expertise to every asset."
     ],
     buttonText: "Get in touch",
     buttonUrl: "#",
@@ -83,29 +82,29 @@ const creativeHomeWorkWithData = {
         {
             icon: ServiceIcon1.src,
             title: "Dedicated Experts",
-            description: "Committed to ensuring your brand fully aligns with all creative we dedicate a team of creative experts to your brand. Acting as an extension to your creative team driving innovation and brand evolution.",
+            description: "A creative team fully dedicated to your brand, acting as an extension of your team to drive innovation and maintain brand consistency.",
             bgColor: "bg-secondary" as const,
             textColor: "#333333",
             iconColor: "invert(0)",
-            alt: "Premium Inventory Icon"
+            alt: "Dedicated Experts Icon"
         },
         {
             icon: Layer11.src,
             title: "Data-Backed Creative",
-            description: "Everything we create is informed by performance data. Leveraging comprehensive insights at every stage, we ensure that our creative solutions are both innovative and strategically sound.",
+            description: "All creative is informed by data and insights, ensuring every asset is innovative, strategic, and performance-focused.",
             bgColor: "bg-primary" as const,
             textColor: "#ffffff",
             iconColor: "invert(1)",
-            alt: "Hands-On Execution Icon"
+            alt: "Data-Backed Creative Icon"
         },
         {
             icon: Layer1.src,
             title: "Holistic Approach",
-            description: "Our specialty is in crafting an approach that aligns creative across all channels. Diversified in execution and mindful of platform best practices.",
+            description: "We ensure creative is aligned across channels and platforms for maximum impact and cohesive brand storytelling.",
             bgColor: "bg-dark" as const,
             textColor: "#ffffff",
             iconColor: "invert(1)",
-            alt: "Incremental Growth Icon"
+            alt: "Holistic Approach Icon"
         }
     ]
 };
@@ -114,7 +113,7 @@ const creativeHomeCardSliderData = [
     {
         id: "performance-creative",
         title: "Performance Creative",
-        description: "Crafting visually compelling content for all channels. Our creative is strategically designed to be performance drive, brand aligned, and visually impactful.",
+        description: "Visually compelling content designed for brand impact and measurable performance across all platforms.",
         image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Rectangle-46-4.png",
         imageAlt: "Performance Creative",
         bgColor: "bg-secondary" as const
@@ -122,7 +121,7 @@ const creativeHomeCardSliderData = [
     {
         id: "email-landing-pages",
         title: "Email & Landing Pages",
-        description: "Thoughtfully curated on-brand email and landing pages templates that capture attention and are optimized for user experience and conversion rates.",
+        description: "On-brand emails and landing pages that capture attention, improve engagement, and drive conversions.",
         image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Image-4096x3072-1-1-768x576.png",
         imageAlt: "Email & Landing Pages",
         bgColor: "bg-grey" as const
@@ -130,7 +129,7 @@ const creativeHomeCardSliderData = [
     {
         id: "brand-development",
         title: "Brand Development",
-        description: "Purposefully developing brand identities that tell a story. We approach every brand through the lens of data and insights. Allowing data to be our guiding light our brands are built on a foundation of truth.",
+        description: "Building authentic brand identities based on data-driven insights, storytelling, and strategic design principles.",
         image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Figma-Image-1828x841-1-768x353.png",
         imageAlt: "Brand Development",
         bgColor: "bg-primary" as const
@@ -138,12 +137,13 @@ const creativeHomeCardSliderData = [
     {
         id: "design-motion-graphics",
         title: "Design & Motion Graphics",
-        description: "Our team of experts are skilled in their craft and innovative in their approach. Utilizing AI to elevate creative visions and streamline processes our experts have the ability to work across all video asset types.",
+        description: "Innovative design and motion graphics crafted across video and digital assets, enhanced with AI tools for efficiency and impact.",
         image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Rectangle-46-9.png",
         imageAlt: "Design & Motion Graphics",
         bgColor: "bg-white" as const
     }
 ];
+
 
 const CreativeHomePage = () => {
     return (

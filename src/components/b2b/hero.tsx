@@ -4,26 +4,19 @@ export default function hero() {
   return (
     <section className="single-hero bg-light  ">
       <div className="single-hero__text">
-        <span className="badge rounded-pill bg-dark">Grow Bigger, Faster</span>
+        <span className="badge rounded-pill bg-dark">Grow Smarter, Faster</span>
         <div className="title">
-          <h1>B2B Digital Marketing Agency</h1>
+          <h1>B2B Technology &amp; AI Solutions Partner</h1>
         </div>
         <div className="text">
           <p>
             <span style={{ fontWeight: 400 }}>
-              Experience what happens when you combine growth marketing with
-              strategic consulting &amp; data excellence: the absolute right
-              message, to the right people in the buying committee, at all the
-              right times. Take advantage of the democratization of best
-              practices and technology in B2B marketing, coupled with our deep
-              expertise across multiple data and{" "}
+              Experience what happens when advanced AI, intelligent automation, and strategic consulting work together — delivering the right digital products, to the right users, at the right time. Burac.ai empowers enterprises to turn complex challenges into measurable growth through precision engineering and data excellence.
             </span>
-            <span style={{ fontWeight: 400 }}>digital </span>
-            <span style={{ fontWeight: 400 }}>marketing platforms.&nbsp; </span>
           </p>
         </div>
         <a
-          href="https://powerdigitalmarketing.com/work-with-us/"
+          href="#"
           className="btn btn-secondary"
         >
           <div className="icon">

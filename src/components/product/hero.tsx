@@ -1,4 +1,5 @@
 import React from 'react'
+import Image from 'next/image'
 import cosumerproduct from "../../images/Consumer-Product.png";
 export default function hero() {
   return (
@@ -9,17 +10,12 @@ export default function hero() {
           Consumer Product Services
         </span>
         <div className="title">
-          <h1>B2C Digital Marketing Agency for leading consumer brands.</h1>
+          <h1>B2C Technology & AI Solutions for Leading Brands</h1>
         </div>
         <div className="text">
           <p>
             <span style={{ fontWeight: 400 }}>
-              Discover how our growth marketing expertise and consumer-focused
-              data intelligence deliver the absolute right message to the right
-              audience at the perfect moment. With unmatched insights into
-              consumer behavior, we help you scale smarter, launch faster, and
-              win customer loyalty. Let’s turn your big ideas into even bigger
-              market share.
+              Discover how Burac.ai AI-driven development, intelligent automation, and data-focused insights deliver the right product, message, or digital experience to the right audience at the perfect moment. With unmatched understanding of consumer behavior and digital touchpoints, we help you scale smarter, launch faster, and deepen customer loyalty. Let’s turn your innovative ideas into market-leading impact.
             </span>
           </p>
         </div>
@@ -35,7 +31,7 @@ export default function hero() {
       </div>
       <div className="single-hero__image">
         <div className="single-badge"></div>
-        <img src={cosumerproduct.src} alt="" />
+        <Image src={cosumerproduct} alt="" />
       </div>
     </section>
     </>

@@ -10,10 +10,7 @@ export default function services() {
         </div>
         <div className="services-overview__text">
           <p>
-            Our comprehensive suite of digital and growth marketing services
-            ignite every phase of the customer journey. From strategic
-            consulting to creative, our driving force is delivering business
-            impact that can’t be ignored.
+            Our comprehensive suite of AI and digital development services powers every stage of business growth. From strategy to execution, our focus is delivering measurable impact that drives performance, scalability, and long-term success.
           </p>
         </div>
       </div>

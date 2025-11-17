@@ -973,7 +973,7 @@ export default function Header() {
                                         </li>
                                         <li className="mega-menu-item">
                                             <a
-                                                href="/casestudies/"
+                                                href="/case-studies/"
                                                 aria-label="Go to Case Studies page"
                                             >
                                                 <div className="text">

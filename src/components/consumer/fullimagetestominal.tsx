@@ -1,10 +1,12 @@
 import RenewalByAndersen from '../../images/Renewal-By-Andersen.avif';
+import React from 'react'
+import Image from 'next/image'
 export default function fullimagetestominal() {
   return (
      <section className="full-image-testimonial bg-dark  section-inner">
-          <img
+          <Image
             className="full-image-testimonial__image"
-            src={RenewalByAndersen.src}
+            src={RenewalByAndersen}
             alt=""
             style={{ maxHeight: "px" }}
           />
@@ -12,22 +14,14 @@ export default function fullimagetestominal() {
             <div className="note__text">
               <p>
                 <em>
-                  “Since making the decision to partner with Power Digital,
-                  performance has been on a high performance trajectory and seen now
-                  as the new standard. The entire Power team truly understands our
-                  business and the consumer decision and lifecycle for our Renewal
-                  by Andersen prospects. It is this business knowledge that has
-                  elevated our leads, appointments and close rates to the highest
-                  levels we have ever seen. Power genuinely cares about our business
-                  and objectives, they are always looking for new ways together to
-                  continue to expand and accelerate performance even further.”
+                  “Since partnering with Burac.ai, our pipeline performance has skyrocketed. Their deep understanding of our workflows and customer journey elevated leads, conversion, and operational efficiency to new heights. Burac.ai truly invests in our success.”
                 </em>
               </p>
             </div>
             <div className="testimonial-person">
               <div className="person-info">
                 <div className="person-photo">
-                  <img src="img" alt="" srcSet="" />
+                  <img src="image" alt="hh" />
                 </div>
                 <div className="person-details">
                   <h3 className="person-name interface-small">Jason Troupin </h3>

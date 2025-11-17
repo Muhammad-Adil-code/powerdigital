@@ -261,7 +261,7 @@ const GenerativeEngineOptimizationServicesPage = () => {
                     <div className="multi-text-section__text">
                         <div className="title">
                             <span className="badge rounded-pill bg-light">Our Approach</span>
-                            <h2>Power Digital’s Approach to GEO</h2>
+                            <h2>Burac Ai’s Approach to GEO</h2>
                         </div>
                         <div className="paragraph">
                             <p>

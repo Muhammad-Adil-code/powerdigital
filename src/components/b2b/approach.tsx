@@ -6,26 +6,13 @@ export default function approach() {
         <div className="title">
           <span className="badge rounded-pill bg-light">Our Approach</span>
           <h2>
-            Here’s How We Help B2B Companies Thrive in a Complex, Fast-Paced
-            Market.
+            How Burac.ai Helps B2B Enterprises Thrive in a Rapidly Evolving Market
           </h2>
         </div>
         <div className="paragraph">
           <p>
-            A
             <span style={{ fontWeight: 400 }}>
-              t Power Digital, we know that winning in B2B isn’t just about
-              great products—it’s about reaching the right people with the right
-              message at the right time. Long sales cycles, complex buying
-              committees, and siloed teams can make that tough. That’s where we
-              come in.
-            </span>
-          </p>
-          <p>
-            <span style={{ fontWeight: 400 }}>
-              Our approach combines data-fueled insights with human-first
-              creativity to simplify the complex and drive smart, scalable
-              growth. Here’s how we do it:
+              At Burac.ai, we know that success in B2B isn't just about technology — it's about timing, intelligence, and alignment. Complex sales cycles, multiple stakeholders, and legacy systems can slow growth. We simplify that complexity with AI-driven insight and human-centered innovation.
             </span>
           </p>
         </div>
@@ -35,33 +22,23 @@ export default function approach() {
         <div className="multi-text-section__row">
           <div className="item">
             <div className="text">
-              <h3>DATA-DRIVEN HOLISTIC MARKETING STRATEGIES</h3>
+              <h3>DATA-DRIVEN STRATEGIES</h3>
               <p>
-                We turn complex data into actionable insights that unlock new
-                opportunities for growth across all channels of marketing. By
-                analyzing real-world behavior and market trends, we build
-                strategies that speak directly to the people making buying
-                decisions—from C-level executives to end users.
+                We transform raw data into actionable intelligence that drives clarity, speed, and precision across your digital ecosystem. By analyzing user behavior and market trends, we deliver solutions that align every stakeholder — from C-level leaders to daily operators.
               </p>
               <p>
-                The result? Your messaging is clear, compelling, and aligned to
-                drive action at every stage of the buyer’s journey.
+                The result: measurable impact at every stage of the buyer and product journey.
               </p>
             </div>
           </div>
           <div className="item">
             <div className="text">
-              <h3>ALIGNING GROWTH TEAMS FOR PIPELINE GENERATION</h3>
+              <h3>ALIGNING TEAMS FOR SMARTER EXECUTION</h3>
               <p>
-                Growth happens faster when your teams work together. We break
-                down silos and align your sales, marketing, and tech departments
-                around a shared strategy.
+                Growth accelerates when teams move in sync. We align your product, data, and operations teams under one strategy — optimizing resources and technology for unified performance.
               </p>
               <p>
-                By creating synergy across teams, we ensure you’re fully
-                leveraging your technology, budget, and resources to move the
-                needle. When everyone is pulling in the same direction,
-                efficiency improves, and growth accelerates.
+                When your teams, tech, and insights move together, efficiency becomes inevitable.
               </p>
             </div>
           </div>
@@ -70,47 +47,34 @@ export default function approach() {
         <div className="multi-text-section__row">
           <div className="item">
             <div className="text">
-              <h3>UNLOCKING ROI WITH FASTER DECISION MAKING</h3>
+              <h3>ACCELERATED ROI THROUGH REAL-TIME DECISIONING</h3>
               <p>
-                In a fast-evolving market, speed is a competitive advantage. We
-                help you cut through the noise by integrating real-time data
-                into your decision-making process, ensuring that your teams move
-                quickly with confidence and precision.
+                In a fast-changing market, data-driven speed wins. Our AI dashboards and analytics pipelines provide real-time clarity, helping you decide faster and act smarter.
               </p>
               <p>
-                Our data-driven solutions provide clear answers to questions
-                like:
+                We help answer critical questions instantly:
               </p>
               <ul>
                 <li style={{ fontWeight: 400 }} aria-level={1}>
-                  How much should we spend?
+                  Where to focus spend?
                 </li>
                 <li style={{ fontWeight: 400 }} aria-level={1}>
-                  Which channels deliver the best ROI?
+                  Which channels or features drive the best ROI?
                 </li>
                 <li style={{ fontWeight: 400 }} aria-level={1}>
-                  What messaging resonates with each buyer persona?
+                  What user behavior signals opportunity?
                 </li>
               </ul>
               <p>
-                The faster you can answer these questions, the faster you’ll
-                grow.
+                Faster answers mean faster growth.
               </p>
             </div>
           </div>
           <div className="item">
             <div className="text">
-              <h3>CREATING TARGETED CUSTOMER RELATIONSHIPS</h3>
+              <h3>BUILDING TARGETED RELATIONSHIPS</h3>
               <p>
-                B2B isn’t just about closing deals—it’s about building trust and
-                creating lasting relationships. We help you craft strategies
-                that go beyond lead generation to deliver hyper-targeted value
-                at every stage of the customer journey.
-              </p>
-              <p>
-                From awareness to post-purchase, we create targeted touchpoints
-                that keep your brand top-of-mind and foster loyalty, driving
-                sustained, and lifelong fans of your brand
+                We go beyond transactions to create lasting digital relationships. From initial interaction to post-deployment support, we engineer meaningful experiences that retain users, strengthen loyalty, and turn customers into advocates.
               </p>
             </div>
           </div>

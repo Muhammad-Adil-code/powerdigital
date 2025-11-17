@@ -8,15 +8,12 @@ export default function technology() {
           <span className="badge rounded-pill bg-light">
             Proprietary Technology
           </span>
-          <h2>The Technology Behind Our Success – nova</h2>
+          <h2>The Intelligence Behind the Edge – Burac Core</h2>
         </div>
         <div className="paragraph">
           <p>
-            nova, our proprietary technology, is at the heart of our services.
-            This innovative and effective platform has garnered private equity
-            funding due to its unparalleled capabilities. With nova, we de-risk
-            investments, providing higher confidence levels and better
-            investment outcomes.
+            Burac Core, our proprietary AI engine, sits at the heart of every engagement.
+Built for private equity precision, it fuses marketing data, business performance, and predictive analytics to enhance valuation confidence and investment certainty.
           </p>
         </div>
       </div>
@@ -27,10 +24,7 @@ export default function technology() {
             <div className="text">
               <h3>Precise Marketing Performance Analysis:</h3>
               <p>
-                nova leverages advanced data analytics to offer detailed
-                insights into marketing effectiveness, identifying which
-                strategies yield the best results and where improvements can be
-                made.
+                Burac Core delivers granular performance insights across digital, paid, organic, and CRM ecosystems — revealing which levers move the needle and where efficiency gains can multiply EBITDA.
               </p>
             </div>
           </div>
@@ -38,10 +32,7 @@ export default function technology() {
             <div className="text">
               <h3>Data-Driven Valuation Increases:</h3>
               <p>
-                By meticulously analyzing market trends and company performance,
-                nova pinpoints opportunities to boost company valuation,
-                ensuring that our clients can capitalize on growth prospects and
-                achieve maximum returns.
+                Through advanced benchmarking and predictive modeling, Burac Core identifies and quantifies the marketing factors most likely to increase enterprise value, ensuring partners capture measurable growth upside.
               </p>
             </div>
           </div>
@@ -49,10 +40,7 @@ export default function technology() {
             <div className="text">
               <h3>Significant Risk Reduction</h3>
               <p>
-                nova integrates both first-party and third-party data to make
-                informed decisions with greater confidence. This comprehensive
-                approach mitigates potential risks, allowing our clients to
-                invest with peace of mind and achieve their strategic goals.
+                By integrating first-party and third-party datasets, our AI enables decisions grounded in evidence — not assumptions — reducing execution risk and improving confidence in both acquisition and value creation phases.
               </p>
             </div>
           </div>

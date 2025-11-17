@@ -32,8 +32,7 @@ export default function Results() {
               {/* FIX APPLIED HERE: Remove outer h3, pass data-value */}
               <CountUp end={300} suffix="M+" duration={2} data-value="300M+" />
               <p>
-                Data points leveraged by nova applications to drive business
-                insight
+                Data points leveraged by Burac.ai applications for business insights
               </p>
             </div>
           </div>
@@ -62,11 +61,7 @@ export default function Results() {
           </div>
           <div className="description">
             <p>
-              Explore how our strategic approach revolutionized the lead pipeline for Alliant University’s Masters of Social Work program.
-              Through comprehensive audience research, we uncovered critical insights into platform preferences and high-potential
-              demographics, enabling us to expand our targeting across diverse age groups and geographic regions. By optimizing our
-              top-performing creative assets, we not only drove significant pipeline growth but also achieved a notable reduction in overall
-              acquisition costs, positioning the program for long-term scalability and success.
+              Burac.ai transformed Alliant University’s Masters of Social Work program. Through AI-driven audience insights and platform optimization, we expanded targeting, improved creative performance, and reduced acquisition costs — building a scalable, efficient, and measurable lead generation pipeline.
             </p>
           </div>
           <a

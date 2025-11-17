@@ -5,7 +5,7 @@ export default function multitextsolutions() {
           <div className="multi-text-section__text">
             <div className="title">
               <span className="badge rounded-pill bg-light">Solutions</span>
-              <h2>Tailored Strategies That Drive Results</h2>
+              <h2>Tailored Strategies That Deliver Results</h2>
             </div>
             <div className="paragraph">
               <p>
@@ -25,11 +25,7 @@ export default function multitextsolutions() {
                   <h3>Education</h3>
                   <p>
                     <span style={{ fontWeight: 400 }}>
-                      Aligning the right marketing mix for unique program calendars,
-                      and enrollment cycles is something we’re well-versed in here
-                      at Power. We design custom roadmaps that drive contactable
-                      prospective students to achieve enrollment goals all while
-                      addressing and preventing enrollment MELT.
+                      We optimize outreach for program calendars and enrollment cycles. AI-driven audience targeting ensures prospective students are reached effectively, driving enrollment and reducing MELT.
                     </span>
                   </p>
                 </div>
@@ -39,11 +35,7 @@ export default function multitextsolutions() {
                   <h3>Health + Wellness</h3>
                   <p>
                     <span style={{ fontWeight: 400 }}>
-                      Whether you’re operating a physical location, chain of
-                      locations, or a wellness app – we’ve got you covered. Our team
-                      of experts simplify omnichannel campaign execution,
-                      measurement and optimization – so you can focus on improving
-                      the quality of service and wellbeing of your customers.
+                      Whether managing locations, apps, or services, we simplify campaign execution and measurement, so you can focus on improving customer outcomes.
                     </span>
                   </p>
                 </div>
@@ -56,13 +48,7 @@ export default function multitextsolutions() {
                   <h3>Home Services</h3>
                   <p>
                     <span style={{ fontWeight: 400 }}>
-                      Windows, plumbing, HVAC, roofing etc. You name it, we’ve done
-                      it. We’re experienced at designing effective campaigns that
-                      improve the customer journey, drives warmer leads ready for
-                      appointments/quotes, speeds up the quote to sales cycle, and
-                      improves operational efficiency – aka revenue. We understand
-                      the urgency behind this high demand category and consumer
-                      behaviors.
+                      From HVAC to roofing, our strategies generate high-quality leads, accelerate sales cycles, and improve operational efficiency.
                     </span>
                   </p>
                 </div>
@@ -72,12 +58,7 @@ export default function multitextsolutions() {
                   <h3>Senior Living</h3>
                   <p>
                     <span style={{ fontWeight: 400 }}>
-                      Families in search of appropriate accommodations for their
-                      loved ones undergo immense research before commitment. A
-                      partner that understands the customer journey, caters
-                      messaging to address their needs, and gets their attention
-                      will simplify your costs and this significant decision. Win,
-                      Win.
+                      We create personalized, data-driven campaigns that simplify families’ decision-making, improving conversion while reducing operational costs.
                     </span>
                   </p>
                 </div>

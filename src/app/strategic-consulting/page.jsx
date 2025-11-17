@@ -25,15 +25,13 @@ export default function StrategicConsulting() {
                                 <p>
                                     <span style={{ fontWeight: 400 }}>
                                         <strong>
-                                            We consult hundreds of brands on their business fundamentals:
-                                            product, customer, and market.
+                                            At Burac AI, we guide hundreds of brands through the core pillars of growth product, customer, and market.
                                         </strong>
                                     </span>
                                 </p>
                                 <p>
                                     <span style={{ fontWeight: 400 }}>
-                                        The best executed marketing program doesn’t amount to much if it’s
-                                        disconnected from a larger business strategy.&nbsp;{" "}
+                                        Even the most creative marketing campaigns fall flat if they aren’t aligned with a solid business strategy. That’s why we connect every marketing decision directly to measurable business outcomes.&nbsp;{" "}
                                     </span>
                                 </p>
                             </div>
@@ -64,15 +62,13 @@ export default function StrategicConsulting() {
                                     </div>
                                     <div className="text content-post">
                                         <p>
-                                            After thousands of business appraisals (for operators and
-                                            private equity firms) we’ve determined a framework that is most
-                                            likely to achieve the results you want for your business.
+                                            After conducting thousands of business appraisals for both brand operators and investment firms, we’ve refined a proven framework to help businesses achieve predictable and scalable results.
                                         </p>
                                         <ul>
                                             <li>Deeply understand your customer</li>
                                             <li>Develop an actually valuable product</li>
-                                            <li>Clearly communicate that value</li>
-                                            <li>In a way that connects with your customer</li>
+                                            <li>Clearly communicate that value proposition</li>
+                                            <li>Engage customers with precision and relevance</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -83,21 +79,17 @@ export default function StrategicConsulting() {
                                 </div>
                                 <div className="content-text">
                                     <div className="title">
-                                        <h2>We help clients grow an average of 24% year over year. </h2>
+                                        <h2>We help ambitious brands grow an average of 24% year over year. </h2>
                                     </div>
                                     <div className="text content-post">
                                         <p>
-                                            We help growing brands follow this framework by constructing
-                                            their go to market strategy, creating a media plan, and building
-                                            a data-driven understanding of their customer. This method has
-                                            helped our clients grow an average of 24% year over year.
+                                            Our team builds comprehensive go-to-market strategies, creates optimized media plans, and designs data-driven customer understanding using advanced AI analytics.
                                         </p>
-                                        <p>�</p>
+                                        <p><br/></p>
                                         <p>
-                                            Strategy is the way that a company produces differentiated
-                                            value.
+                                            “Strategy is how a company creates and captures differentiated value.”
                                             <br />
-                                            <strong> Alex MH Smith</strong>
+                                            <strong>Alex MH Smith</strong>
                                         </p>
                                     </div>
                                 </div>
@@ -113,9 +105,7 @@ export default function StrategicConsulting() {
                                 <div className="intro-twos-columns__text">
                                     <p>
                                         <span style={{ fontWeight: 400 }}>
-                                            Transform your business with consulting that delivers. Powered
-                                            by nova Intelligence, we don’t just analyze your metrics — we
-                                            turn them into growth.
+                                            Transform your business with AI-powered consulting that drives real impact. we go beyond traditional metrics — turning your data into actionable growth systems.
                                         </span>
                                     </p>
                                 </div>
@@ -130,14 +120,11 @@ export default function StrategicConsulting() {
                                     </div>
                                     <div className="text__description">
                                         <p>
-                                            Supercharge your business with{" "}
-                                            <a href="https://fusepointinsights.com/service/measurement/">
+                                            Supercharge your <a href="https://fusepointinsights.com/service/measurement/">
                                                 marketing performance consulting
-                                            </a>{" "}
-                                            that doesn’t just analyze — it transforms. Leveraging our nova
-                                            Intelligence technology, we’ll dive deep into the metrics to
-                                            craft bespoke strategies that ensure your growth isn’t just a
-                                            goal, it’s a given.
+                                            </a>{" "} that doesn’t just measure results — it creates them. Leveraging Burac AI’s technology, we design tailored strategies that make your growth not just possible, but inevitable.
+                                            Supercharge your business with{" "}
+                                            
                                         </p>
                                     </div>
                                     <div className="content-tab" style={{ display: 'block', minHeight: '50px' }}>
@@ -164,8 +151,7 @@ export default function StrategicConsulting() {
                                             {activeTab === 2 && (
                                                 <p>
                                                     <span style={{ fontWeight: 400 }}>
-                                                        Develop a data-driven ideal customer profile to enhance
-                                                        product and marketing strategies.
+                                                        We’ve helped clients achieve measurable, AI-backed growth — consistently turning insights into scalable success.
                                                     </span>
                                                 </p>
                                             )}

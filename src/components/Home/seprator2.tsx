@@ -5,7 +5,7 @@ export default function seprator2() {
     <div className="separator">
       <hr />
       <div className="separator__text">
-        <span>Power Digital</span>
+        <span>BURAC.AI</span>
         <div>
           <span className="separator__number">04</span>
           <span>OUR SERVICES</span>

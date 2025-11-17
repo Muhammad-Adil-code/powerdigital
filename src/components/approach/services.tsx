@@ -10,10 +10,8 @@ export default function services() {
         </div>
         <div className="services-overview__text">
           <p>
-            Our comprehensive suite of digital and growth marketing services
-            ignites every phase of the customer journey. From strategic
-            consulting to creative, everything we offer is aimed at delivering
-            business impact that can’t be ignored.
+            Our integrated suite of marketing, data, and creative services fuels every phase of the customer journey — from insight to impact.
+Whether you’re building demand, refining analytics, or scaling brand performance, Burac.ai delivers business results that can’t be ignored.
           </p>
         </div>
       </div>

@@ -28,15 +28,13 @@ const MarketingMixModelingDataSciencePage = () => {
                             </span>
                             <div className="title">
                                 <h1>
-                                    Marketing Mix Modeling (MMM) is having a{" "}
-                                    <span className="highlighted">resurgence in popularity</span>{" "}
+                                    Marketing Mix Modeling (MMM) is {" "}
+                                    <span className="highlighted">Making a Comeback</span>{" "}
                                 </h1>
                             </div>
                             <div className="text">
                                 <p>
-                                    Due to the challenges in the attribution space, the creation of
-                                    machine learning models, and the release of open source models (such
-                                    as Robyn and Meridian).
+                                    With attribution challenges on the rise, machine learning advancements, and open-source tools like Robyn and Meridian now widely available, Marketing Mix Modeling has regained the spotlight as a reliable approach for measuring marketing effectiveness.
                                 </p>
                             </div>
                             <a
@@ -63,15 +61,11 @@ const MarketingMixModelingDataSciencePage = () => {
                                 </div>
                                 <div className="intro-twos-columns__text">
                                     <p>
-                                        Novice MMM practitioners might accidentally assign a significant
-                                        amount of contribution from a channel or tactic that in reality is{" "}
-                                        <strong>very unlikely to drive incrementality.</strong>
+                                        Inexperienced practitioners often misattribute performance, assigning too much credit to channels or tactics that have{" "}
+                                        <strong>little real incremental impact.</strong>
                                     </p>
                                     <p>
-                                        Similarly, the tendency for open source or software based models
-                                        is to <strong>over-emphasize error rates</strong> and model fits
-                                        rather than their ability to accurately predict and forecast
-                                        revenue impacts.
+                                        Many open-source or automated software models tend to prioritize low error rates and<strong> perfect model fit</strong>  rather than the true goal: accurately predicting and forecasting revenue outcomes.
                                     </p>
                                 </div>
                             </div>
@@ -145,17 +139,10 @@ const MarketingMixModelingDataSciencePage = () => {
                                     </div>
                                 </div>
                                 <div className="col-lg-6">
-                                    <h2 className="pe-3 mb-2">Transform uncertain into undeniable.</h2>
+                                    <h2 className="pe-3 mb-2">Turning Uncertainty into Clarity.</h2>
                                     <div className="mb-2">
                                         <p>
-                                            Coupled with business acumen built only{" "}
-                                            <strong>
-                                                through exposure and experience to thousands of models
-                                            </strong>{" "}
-                                            across hundreds of brands. Our Data Intelligence team has
-                                            overseen the creation, deployment, and calibration of literally
-                                            thousands of models across billions of dollars of ad spend and{" "}
-                                            <strong>tens of billions in revenue</strong>.
+                                            At Burac AI, our Data Intelligence team combines advanced analytics with deep strategic experience — refined through thousands of model builds across billions in ad spend and tens of billions in revenue.
                                         </p>
                                     </div>
                                     <a
@@ -175,27 +162,13 @@ const MarketingMixModelingDataSciencePage = () => {
                         <div className="container">
                             <div className="row justify-content-center align-items-center mb-0">
                                 <div className="col-lg-6">
-                                    <h2 className="pe-3 mb-2">We deploy Modern Models</h2>
+                                    <h2 className="pe-3 mb-2">We Deploy Modern, Outcome-Driven Models</h2>
                                 </div>
                                 <div className="col-lg-6">
                                     <div className="mb-3">
                                         <p>
-                                            Power Digital’s Data Intelligence team focuses on{" "}
-                                            <strong>these five principles</strong>, working closely with our
-                                            technology team to tailor build nova Intelligence. The
-                                            combination of nova and our deep bench of practitioners{" "}
-                                            <strong>
-                                                makes us the only firm in our category to deliver with speed,
-                                                scale
-                                            </strong>
-                                            , and <strong>impact</strong>.<br />
-                                            Having a dedicated data scientist service your business can
-                                            literally save you millions of dollars in wasted ad spend. Our
-                                            flexible tech-enabled service{" "}
-                                            <strong>
-                                                affords the speed and agility of a software platform
-                                            </strong>{" "}
-                                            with the white glove tailoring of a big-fee consultancy.
+                                            Burac AI’s Data Intelligence team operates under five core principles, in collaboration with our technology division to deliver our proprietary Nova Intelligence Platform.<br />
+                                            This blend of cutting-edge software and expert human oversight allows us to deliver speed, scale, and precision unmatched in the analytics space.
                                         </p>
                                     </div>
                                 </div>

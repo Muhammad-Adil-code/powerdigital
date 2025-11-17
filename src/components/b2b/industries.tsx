@@ -80,19 +80,8 @@ export default function industries() {
         <div className="title">
           <span className="badge rounded-pill bg-dark">Industries</span>
           <h2>
-            From our talent to our tech, this is new wave digital marketing.
+            From code to cloud, we deliver next-gen digital transformation.
           </h2>
-        </div>
-        <div className="paragraph">
-          <a
-            href="https://powerdigitalmarketing.com/company/"
-            className="btn btn-secondary"
-          >
-            <div className="icon">
-              <span>Learn more about our company</span>
-              <i className="icon-arrow-up-right" />
-            </div>
-          </a>
         </div>
       </div>
       {/* Si hay menos de 5 items, se muestran todos en una sola fila */}
@@ -102,10 +91,7 @@ export default function industries() {
             <div className="text">
               <h3>Undeniable Speed</h3>
               <p>
-                Everyone has capabilities, but coupling them with agility is the
-                holy grail of growth marketing. We dive into the numbers to see
-                what tactics are creating incremental or new revenue and which
-                ones aren’t, then we swiftly adapt and execute.
+                We analyze data, identify what drives growth, and execute rapidly — ensuring every product launch and optimization cycle drives measurable revenue.
               </p>
             </div>
           </div>
@@ -113,11 +99,7 @@ export default function industries() {
             <div className="text">
               <h3>Undeniable Expertise</h3>
               <p>
-                Our team boasts some of the brightest minds in the world of
-                digital and performance marketing, and everyone here is
-                lockstep-focused on business impact — evidenced by a stellar
-                96+% client retention rate. Expect nothing less than
-                best-in-class.
+                Our teams are among the best in AI, cloud, and full-stack development, with over 10 years of combined experience and a 96%+ client retention rate.
               </p>
             </div>
           </div>
@@ -125,10 +107,7 @@ export default function industries() {
             <div className="text">
               <h3>Undeniable Results</h3>
               <p>
-                We’re driven by outcomes, not ego. Perhaps that’s why we grow
-                companies 2.6x faster than the industry average, with 27+% YoY
-                revenue increases. All of our critical capabilities prioritize
-                optimizing our clients’ investments for maximum ROI.
+                We scale businesses 2.6x faster than the industry average — delivering higher ROI through AI automation, precision data, and product excellence.
               </p>
             </div>
           </div>

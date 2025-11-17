@@ -13,94 +13,88 @@ import WorkWith from '../maincomonents/workwith';
 import Services from '../maincomonents/Services';
 
 const programmaticAdvertisingAgencyHeroSectionData = {
-    badge: "GROWTH MARKETING",
-    title: "Drive brand awareness and revenue with an award winning programmatic advertising agency.",
-    description: "Our omni-channel programmatic services scale your business with precision-targeted strategies that optimize ad spend and drive measurable results.",
+    badge: "AI-POWERED GROWTH",
+    title: "Scale awareness and revenue with intelligent programmatic automation.",
+    description: "Burac.ai blends automation, data science, and predictive targeting to deliver precise, adaptive, and performance-driven advertising that maximizes ROI.",
     buttonText: "Get a Proposal",
     buttonUrl: "#",
     image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Programmatic.png",
-    imageAlt: "Programmatic Advertising Services"
+    imageAlt: "AI-Driven Programmatic Advertising"
 };
 
 const programmaticAdvertisingAgencyLearnMoreData = {
     badge: "Learn more",
-    title: "Learn more about Programmatic Advertising.",
-    description: "Discover how our programmatic advertising agency connects your brand with the right audience to drive incremental results.",
+    title: "Learn more about AI Programmatic Advertising.",
+    description: "Discover how Burac.ai’s intelligent automation and predictive analytics connect your brand with the right audience in real time.",
     faqs: [
         {
-            question: "What is programmatic advertising?",
+            question: "What is AI programmatic advertising?",
             answer: [
-                "Programmatic is a media tactic that uses technology and audience data to automatically buy digital media in real time, reaching the right user with the right message to ensure efficiency and precision."
+                "AI programmatic advertising automates ad buying and placement using machine learning, ensuring every impression reaches the right user, at the right time, with the right message."
             ]
         },
         {
-            question: "Why choose Power Digital over alternatives?",
+            question: "Why choose Burac.ai over traditional agencies?",
             answer: [
-                "Our hands-on approach, proprietary technology, and focus on measurable outcomes set us apart. As a top-tier digital marketing agency, We don't just advertise—we drive growth."
+                "Burac.ai integrates real-time learning models, predictive targeting, and automation to drive measurable growth. We don’t just advertise — we engineer intelligent performance."
             ]
         },
         {
-            question: "Can I measure results in real time and adjust as needed?",
+            question: "Can I track and optimize campaigns in real time?",
             answer: [
-                "Unlike traditional advertising, such as billboards or print advertising, you don't need to wait until the ad campaign is over to view results. Programmatic advertising enables you to view results in real time and adjust your ad campaign as needed."
+                "Yes. Burac.ai provides full transparency with live analytics dashboards, enabling instant adjustments and data-backed decision-making — no waiting for post-campaign reports."
             ]
         },
         {
-            question: "What media channels can Power Digital activate on?",
+            question: "Which channels does Burac.ai activate programmatically?",
             answer: [
-                "From CTV and DOOH to display and direct mail, our expertise spans every channel, ensuring a cohesive strategy across platforms.",
+                "From CTV and DOOH to native, audio, and display, our AI models optimize across all channels with unified intelligence for cohesive performance.",
                 "<ul><li>CTV</li><li>Streaming Audio/Podcast</li><li>Digital OOH</li><li>Linear TV</li><li>OLV</li><li>YouTube</li><li>Display</li><li>Native</li><li>Direct Mail</li></ul>"
             ]
         },
         {
-            question: "How does programmatic advertising improve targeting?",
+            question: "How does AI improve targeting accuracy?",
             answer: [
-                "Through advanced planning tools and partnerships with premium publishers, we create tailored strategies that match your ideal customer's behavior, location, and interests. Programmatic targeting solutions include:",
-                "<ul><li>Behavioral</li><li>Demographic</li><li>Contextual</li><li>Geography</li><li>Lookalike</li><li>Competitor Conquesting</li><li>First Party Data</li><li>Cross-Channel Remarketing</li><li>Site Retargeting</li></ul>"
+                "Burac.ai combines behavioral, contextual, and predictive modeling for unmatched targeting precision, ensuring relevance and higher ROI.",
+                "<ul><li>Behavioral</li><li>Demographic</li><li>Contextual</li><li>Geographic</li><li>Lookalike</li><li>Competitor Intelligence</li><li>First-Party Data</li><li>Cross-Channel Optimization</li><li>Retargeting</li></ul>"
             ]
         },
         {
-            question: "How do you ensure brand safety in programmatic advertising?",
+            question: "How does Burac.ai ensure brand safety?",
             answer: [
-                "Our programmatic team stays on top of industry trends, constantly adjusting programmatic ad campaigns to leverage the latest tools, tactics, and platforms. We monitor shifts in consumer behavior, media consumption, and technology to keep your programmatic ad campaigns fresh and impactful."
+                "Our AI continuously scans and evaluates inventory for quality and safety using smart filters, brand suitability scores, and adaptive exclusion lists that evolve with real-time data."
             ]
         },
         {
-            question: "What type of reporting and analytics do you provide?",
+            question: "What kind of analytics do you provide?",
             answer: [
-                "We offer comprehensive, real-time reporting, giving you full visibility into campaign performance. Our detailed analytics allow you to track key metrics, from impressions to conversions, so you can make informed decisions about optimizing your campaigns."
+                "Burac.ai provides end-to-end, real-time analytics with transparency at every level — impressions, engagement, conversions, and cross-channel attribution — for data-driven growth."
             ]
         },
         {
-            question: "What is the difference between programmatic advertising and traditional advertising?",
+            question: "How is AI programmatic different from traditional advertising?",
             answer: [
-                "Programmatic advertising leverages data and automation to target specific audiences with precision in real-time, while traditional advertising relies on broad targeting methods like TV, radio, and print. Programmatic offers more efficiency, accuracy, and flexibility for measurable results."
+                "AI programmatic uses automation and predictive algorithms to dynamically target audiences, while traditional ads rely on static placements. The result: efficiency, accuracy, and adaptability at scale."
             ]
         },
         {
-            question: "What kind of targeting options are available in programmatic advertising?",
+            question: "Does AI programmatic work for both B2B and B2C brands?",
             answer: [
-                "We offer a wide range of advanced targeting options, including behavioral, demographic, contextual, geographic, and lookalike targeting, among others. This ensures your ads reach the right audience based on their interests, actions, and online behaviors."
+                "Absolutely. Whether B2C or <a href=\"#\" target=\"_blank\" rel=\"noopener\">B2B digital marketing</a>, Burac.ai customizes AI models to match audience intent, stage, and business goals for measurable outcomes."
             ]
         },
         {
-            question: "Can programmatic advertising be used for both B2B and B2C campaigns?",
+            question: "Do you tailor strategies by industry?",
             answer: [
-                "Absolutely! Whether your focus is on B2C or <a href=\"#\" target=\"_blank\" rel=\"noopener\">B2B digital marketing services</a>, programmatic digital advertising can be tailored to meet the specific needs of your target audience. We develop strategies that align with your business goals, whether you're driving brand awareness, lead generation, or sales conversions."
-            ]
-        },
-        {
-            question: "Do you offer custom programmatic strategies for different industries?",
-            answer: [
-                "Yes! Our programmatic strategies are tailored to fit the unique needs of each industry, whether it's e-commerce, healthcare, technology, or any other sector. We take the time to understand your industry challenges and opportunities to create a strategy that aligns with your objectives."
+                "Yes. Burac.ai builds AI models specific to your vertical — e-commerce, healthcare, tech, or finance — aligning automation and data strategy with your industry’s dynamics."
             ]
         }
     ]
 };
 
 const programmaticAdvertisingAgencyWhySectionData = {
-    badge: "WHY POWER?",
-    title: "Partnering with Power Digital means",
+    badge: "WHY BURAC.AI?",
+    title: "Partnering with Burac.ai means smarter, faster, and more adaptive marketing intelligence.",
     buttonText: "Get a free marketing audit",
     buttonUrl: "#",
     introText: "",
@@ -108,82 +102,82 @@ const programmaticAdvertisingAgencyWhySectionData = {
         {
             type: "bullet_points" as const,
             content: [
-                "<b>Data-Driven Decision Making:</b> Nova's insights build informed campaigns that maximize ROI.",
-                "<b>Tech-Agnostic Solutions:</b> We select the best platforms, inventory, and targeting to suit your unique needs.",
-                "<b>Transparent Results:</b> Comprehensive reporting ensures you have the most accurate pulse on your investment.",
-                "<b>Relentless Innovation:</b> Our team constantly tests and optimizes strategies to stay ahead of the curve."
+                "<b>AI-Driven Insights:</b> Predictive analytics identify the highest-value opportunities for optimal spend efficiency.",
+                "<b>Platform Intelligence:</b> We deploy technology that dynamically adjusts to performance patterns in real time.",
+                "<b>Transparent Results:</b> Every metric is traceable through live dashboards and full-funnel analytics.",
+                "<b>Continuous Optimization:</b> Machine learning models evolve with every campaign to maximize ROI."
             ]
         }
     ]
 };
 
 const programmaticAdvertisingAgencyWorkWithData = {
-    badge: "WORK WITH POWER",
-    title: "Transformative Growth with Programmatic Advertising",
+    badge: "WORK WITH BURAC.AI",
+    title: "Transformative Growth Through AI-Driven Programmatic Intelligence",
     paragraphs: [
-        "Managing multi-channel ad spend across various publishers is complex and time-consuming.",
-        "Let Power Digital take the reins. As a trusted leader in programmatic advertising, we leverage data-driven strategies and advanced technology to deliver unmatched efficiency, transparent delivery, and quality results. Our team of experts ensures your campaigns outperform the competition while keeping your goals at the forefront.",
-        "Our inventory first and audience-aligned approach ensures your brand reaches the right people across the most premium publishers. By continuously analyzing performance in real time, we refine strategies to maximize ROI and drive sustainable growth across all channels.",
-        "At Power Digital, we combine cutting-edge technology with hands-on expertise to deliver programmatic solutions that go beyond expectations. We not only ensure precision campaign execution but also offer comprehensive creative support. If you lack assets, our in-house creative team is equipped to develop impactful, performance-driven content tailored to your brand's voice.",
-        "From strategic planning to execution, we provide a seamless end-to-end experience that drives efficiency and transparency. This ensures your campaigns not only meet but exceed your growth objectives, all while maintaining a cohesive and professional creative edge."
+        "Managing cross-platform media can be complex. Burac.ai simplifies it through intelligent automation and adaptive data modeling.",
+        "We combine AI technology with marketing expertise to create precision-driven programmatic solutions that deliver measurable results with complete transparency.",
+        "Our data-first approach ensures every dollar spent drives incremental growth. By unifying analytics and optimization, we refine your campaigns continuously to maintain performance leadership.",
+        "Whether you have existing assets or need AI-enhanced creative, our system optimizes every visual, headline, and placement to engage and convert with precision.",
+        "From forecasting to execution, Burac.ai ensures every campaign is smarter, faster, and always improving — so your brand stays ahead of change."
     ],
     buttonText: "Get in touch",
     buttonUrl: "#",
     cards: [
         {
             icon: ServiceIcon1.src,
-            title: "Premium Inventory First",
-            description: "Bespoke deals with top-tier publishers, customized to customer insights and deterministically refined",
+            title: "AI Inventory Prioritization",
+            description: "Burac.ai identifies and prioritizes premium inventory using predictive algorithms that match audience intent in real time.",
             bgColor: "bg-primary" as const,
             textColor: "#ffffff",
             iconColor: "invert(1)",
-            alt: "Premium Inventory Icon"
+            alt: "AI Inventory Icon"
         },
         {
             icon: Layer11.src,
-            title: "Hands-On Execution",
-            description: "Every campaign is managed and optimized by programmatic experts dedicated to maximizing ROI",
+            title: "Adaptive Execution",
+            description: "Every campaign is monitored and optimized by AI and human experts working together for the best outcomes.",
             bgColor: "bg-secondary" as const,
             textColor: "#333333",
             iconColor: "invert(0)",
-            alt: "Hands-On Execution Icon"
+            alt: "Adaptive Execution Icon"
         },
         {
             icon: Layer1.src,
-            title: "Incremental Growth",
-            description: "From enhanced engagement to revenue-driven results, every dollar is optimized to drive an incremental impact directly tied to business objectives",
+            title: "Predictive Growth",
+            description: "AI models continuously learn from audience data to maximize engagement, retention, and revenue outcomes.",
             bgColor: "bg-white" as const,
             textColor: "#333333",
             iconColor: "invert(0)",
-            alt: "Incremental Growth Icon"
+            alt: "Predictive Growth Icon"
         }
     ]
 };
 
 const programmaticAdvertisingAgencyServicesData = {
-    badge: "OUR PROGRAMMATIC SERVICES",
-    title: "The Future of Programmatic Advertising: Transparent, scalable, and ROI-driven",
-    description: "Power Digital ensures seamless cross-channel and cross-device targeting for household-level precision. Pinpointing exposure and behaviors across a household's devices compounds full-funnel impact across omni-channel campaigns. This approach enables synchronized engagement that amplifies awareness and reinforces brand messaging across devices, ensuring no opportunity is missed.",
+    badge: "OUR AI PROGRAMMATIC SERVICES",
+    title: "The Future of Advertising: Automated, intelligent, and performance-focused.",
+    description: "Burac.ai enables cross-channel precision and adaptive targeting powered by AI learning models — delivering synchronized experiences that amplify your brand’s message everywhere it matters.",
     showButton: false,
     buttonText: "",
     buttonUrl: "#",
     layout: "2-per-row" as const,
     items: [
         {
-            title: "01 Detailed Analysis",
-            description: "As your programmatic advertising agency, we provide a comprehensive evaluation of your existing strategies to isolate successful tactics and uncover tailored opportunities."
+            title: "01 Data Audit & Forecasting",
+            description: "We assess your existing campaigns and apply predictive analytics to uncover high-performance opportunities."
         },
         {
-            title: "02 Custom Strategy",
-            description: "Crafting a bespoke programmatic roadmap aligned with your brand, ICP, and business goals. Our approach is backed by years of experience and comprehensive research to ensure the best return on investment."
+            title: "02 Intelligent Strategy Design",
+            description: "We craft AI-driven roadmaps aligned with your brand’s goals, blending automation with human expertise for lasting growth."
         },
         {
-            title: "03 Seamless Execution",
-            description: "Launch, manage, and optimize personalized campaigns seamlessly across planned high-impact channels, remaining agile at every turn."
+            title: "03 Automated Execution",
+            description: "Burac.ai manages real-time optimization across all channels, adapting strategies instantly for the best possible results."
         },
         {
-            title: "04 Coverage & Results",
-            description: "Monitor campaigns, making consistent adjustments, providing insightful recommendations, and measuring incremental impact to ensure sustained growth."
+            title: "04 Real-Time Measurement",
+            description: "With integrated analytics, we monitor performance continuously and refine models for compounding growth."
         }
     ]
 };
@@ -192,7 +186,7 @@ const programmaticAdvertisingAgencyCardSliderData = [
     {
         id: "connected-tv",
         title: "Connected TV (CTV)",
-        description: "TV-quality ads delivered to streaming platforms for high-engagement viewing",
+        description: "AI-optimized TV ads that merge storytelling with precise audience targeting on streaming platforms.",
         image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/CTV-768x768.jpg",
         imageAlt: "Connected TV (CTV)",
         bgColor: "bg-grey" as const
@@ -200,7 +194,7 @@ const programmaticAdvertisingAgencyCardSliderData = [
     {
         id: "streaming-audio",
         title: "Streaming Audio / Podcasts",
-        description: "Precision-targeted audio ads for listeners on the go",
+        description: "Smart audio ads personalized by listener behavior and intent data for meaningful engagement.",
         image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Streaming-Audio-768x768.jpg",
         imageAlt: "Streaming Audio / Podcasts",
         bgColor: "bg-primary" as const
@@ -208,7 +202,7 @@ const programmaticAdvertisingAgencyCardSliderData = [
     {
         id: "digital-out-of-home",
         title: "Digital Out Of Home (DOOH)",
-        description: "Dominate key locations with data-driven outdoor placements",
+        description: "AI-driven outdoor placements that optimize visibility based on foot traffic and contextual relevance.",
         image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/DOOH-768x768.jpg",
         imageAlt: "Digital Out Of Home (DOOH)",
         bgColor: "bg-secondary" as const
@@ -216,15 +210,15 @@ const programmaticAdvertisingAgencyCardSliderData = [
     {
         id: "display-native",
         title: "Display & Native",
-        description: "Capture attention and drive action with strategic placements across sites and apps",
+        description: "Adaptive placements powered by AI learning to maximize impressions, CTRs, and conversions.",
         image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Display-and-Native-768x768.jpg",
         imageAlt: "Display & Native",
         bgColor: "bg-white" as const
     },
     {
         id: "direct-mail",
-        title: "Direct Mail",
-        description: "Break through the noise with hyper-personalized mail that drives measurable responses",
+        title: "Smart Direct Mail",
+        description: "AI-personalized print campaigns integrated with digital insights for cross-channel engagement.",
         image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Direct-Mail-768x768.jpg",
         imageAlt: "Direct Mail",
         bgColor: "bg-grey" as const
@@ -232,7 +226,7 @@ const programmaticAdvertisingAgencyCardSliderData = [
     {
         id: "instream-outstream-video",
         title: "Instream & Outstream Video",
-        description: "Command attention with engaging video ads across sites and apps, including YouTube",
+        description: "Dynamic video ads tailored by AI to engage audiences across YouTube and digital networks.",
         image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Instream_Outstream-768x768.jpg",
         imageAlt: "Instream & Outstream Video",
         bgColor: "bg-primary" as const
@@ -240,20 +234,21 @@ const programmaticAdvertisingAgencyCardSliderData = [
     {
         id: "linear-tv",
         title: "Linear TV",
-        description: "Reach mass audiences with broadcast television's broad exposure",
+        description: "AI-enhanced TV targeting that blends traditional reach with predictive audience analytics.",
         image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/10/Omnichannel-Excellence-768x768.jpg",
         imageAlt: "Linear TV",
         bgColor: "bg-white" as const
     },
     {
         id: "cross-channel-media-planning",
-        title: "Cross-Channel Media Planning & Strategy",
-        description: "Create synchronized campaigns that amplify impact across every channel and device.",
+        title: "Cross-Channel Strategy & Orchestration",
+        description: "AI harmonizes your media mix across every touchpoint, ensuring unified messaging and higher returns.",
         image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Cross-Channel-Media-Planning-Strategy-768x768.jpg",
         imageAlt: "Cross-Channel Media Planning & Strategy",
         bgColor: "bg-secondary" as const
     }
 ];
+
 
 const ProgrammaticAdvertisingAgencyPage = () => {
     return (

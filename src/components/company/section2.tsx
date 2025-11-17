@@ -8,6 +8,7 @@ import Swiper from "swiper";
 import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
+import Image from "next/image";
 // import { Navigation, Pagination } from "swiper/modules";
 
 export default function Section2() {
@@ -40,7 +41,7 @@ export default function Section2() {
         <div className="carousel-company__desktop">
           <div className="carousel-company__title">
             <span className="badge rounded-pill bg-light">why us</span>
-            <h2>How is working with Power different?</h2>
+            <h2>How is working with burac different?</h2>
           </div>
 
           {/* 👇 Your original structure — unchanged */}
@@ -55,11 +56,12 @@ export default function Section2() {
                 }}
               >
                 <div className="icon">
-                  <img src={image1.src} alt="" />
+                  <Image src={image1 } alt="" />
                 </div>
                 <div className="text">
-                  <h4>A Tailored Approach</h4>
-                  <p>We never use a one-size-fits-all plan.</p>
+                  <h4>A Customized Strategy</h4>
+<p>Every business is unique — our approach is built to match yours.</p>
+
                 </div>
               </div>
 
@@ -72,11 +74,12 @@ export default function Section2() {
                 }}
               >
                 <div className="icon">
-                  <img src={image2.src} alt="" />
+                  <Image src={image2 } alt="" />
                 </div>
                 <div className="text">
-                  <h3>Business Outcomes vs. Vanity Metrics</h3>
-                  <p>Clicks and engagements don’t mean shit.</p>
+                 <h3>Business Outcomes Over Vanity Metrics</h3>
+<p>Clicks and likes are meaningless without measurable impact on your revenue and growth.</p>
+
                 </div>
               </div>
 
@@ -89,7 +92,7 @@ export default function Section2() {
                 }}
               >
                 <div className="icon">
-                  <img src={image3.src} alt="" />
+                  <Image src={image3 } alt="" />
                 </div>
                 <div className="text">
                   <h3>Radical Transparency</h3>
@@ -109,19 +112,15 @@ export default function Section2() {
                 }}
               >
                 <div className="icon">
-                  <img src={image4.src} alt="" />
+                  <Image src={image4 } alt="" />
                 </div>
                 <div className="text">
-                  <h3>We Seriously Outperform</h3>
-                  <p>And we’ve got the numbers to prove it.</p>
+                  <h3>Proven to Outperform</h3>
+<p>Our results speak for themselves — backed by real data and measurable impact.</p>
+
                 </div>
               </div>
             </div>
-
-            {/* 👇 Add Swiper UI controls */}
-            {/* <div className="swiper-button-prev"></div>
-            <div className="swiper-button-next"></div>
-            <div className="swiper-pagination"></div> */}
           </div>
         </div>
       </section>
