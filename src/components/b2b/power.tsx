@@ -40,7 +40,7 @@ export default function power() {
             <div className="text">
               <h3>Custom Solutions for Complex Journeys</h3>
               <p>
-                Whether you're managing multi-touch enterprise pipelines or scaling startup operations, we design adaptive systems that accelerate conversion and adoption.
+                Whether you&apos;re managing multi-touch enterprise pipelines or scaling startup operations, we design adaptive systems that accelerate conversion and adoption.
               </p>
             </div>
           </div>

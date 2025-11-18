@@ -12,7 +12,7 @@ export default function approach() {
         <div className="paragraph">
           <p>
             <span style={{ fontWeight: 400 }}>
-              At Burac.ai, we know that success in B2B isn't just about technology — it's about timing, intelligence, and alignment. Complex sales cycles, multiple stakeholders, and legacy systems can slow growth. We simplify that complexity with AI-driven insight and human-centered innovation.
+              At Burac.ai, we know that success in B2B isn&apos;t just about technology — it&apos;s about timing, intelligence, and alignment. Complex sales cycles, multiple stakeholders, and legacy systems can slow growth. We simplify that complexity with AI-driven insight and human-centered innovation.
             </span>
           </p>
         </div>
