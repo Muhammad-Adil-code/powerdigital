@@ -11,7 +11,7 @@ export default function hero() {
         <div className="text">
           <p>
             <span style={{ fontWeight: 400 }}>
-              Experience what happens when advanced AI, intelligent automation, and strategic consulting work together — delivering the right digital products, to the right users, at the right time. Burac.ai empowers enterprises to turn complex challenges into measurable growth through precision engineering and data excellence.
+              Experience what happens when powerful AI, intelligent automation, and strategic consultancy work together – delivering the right digital products, to the right users, at the right time.  Burac.ai allows organizations to turn complicated obstacles into measurable growth through precision engineering and data excellence.
             </span>
           </p>
         </div>

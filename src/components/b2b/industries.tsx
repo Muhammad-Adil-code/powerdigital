@@ -7,69 +7,69 @@ import B2BPEImage from '../../images/0_2-9-768x768.jpg';
 import Cardslider from '../../app/services/maincomonents/cardslider';
 
 const CardSliderData = [
-    {
-        id: "media-relations",
-        title: "Media Relations",
-        description: "We know how to tell your story to maximize impact and build lasting buzz.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Event-Opportunities-768x768.jpg",
-        imageAlt: "Media Relations",
-        bgColor: "bg-white" as const,
-        actionUrl: "#"
-    },
-    {
-        id: "campaigns-activations",
-        title: "Campaigns + Activations",
-        description: "Showstopping stunts, memorable IRL activations , and other viral moments that will get people talking about your brand.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Possible-Story-Angles-768x768.jpg",
-        imageAlt: "Campaigns + Activations",
-        bgColor: "bg-secondary" as const,
-        actionUrl: "#"
-    },
-    {
-        id: "thought-leadership",
-        title: "Thought Leadership",
-        description: "Elevate your brand's reputation and executive visibility with impactful interviews, speaking opportunities, op-eds, and more.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Best-Media-Matches1-768x768.jpg",
-        imageAlt: "Thought Leadership",
-        bgColor: "bg-primary" as const,
-        actionUrl: "#"
-    },
-    {
-        id: "partnerships",
-        title: "Partnerships",
-        description: "Facilitate creative, strategic partnership campaigns that cross categories, increase brand awareness, reach new audiences, expand marketing resources, and so much more.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2025/01/0_1-2-768x768.jpg",
-        imageAlt: "Partnerships",
-        bgColor: "bg-white" as const,
-        actionUrl: "#"
-    },
-    {
-        id: "award-submissions",
-        title: "Award Submissions",
-        description: "Our team is always keeping a pulse on the best awards for our clients to submit for in order to build recognition and credibility",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Display-and-Native-768x768.jpg",
-        imageAlt: "Award Submissions",
-        bgColor: "bg-secondary" as const,
-        actionUrl: "#"
-    },
-    {
-        id: "affiliate-marketing",
-        title: "Affiliate Marketing",
-        description: "A combined effort between PR and Affiliate on a strategic top-of-funnel performance PR approach allows our clients to be considered for all consumer media opportunities.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2025/01/0_3-5-768x768.jpg",
-        imageAlt: "Affiliate Marketing",
-        bgColor: "bg-primary" as const,
-        actionUrl: "#"
-    },
-    {
-        id: "corporate-crisis-communications",
-        title: "Corporate + Crisis Communications",
-        description: "Strategic counsel and messaging support to guide your company through its biggest (and toughest) moments.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/12/0_2-1-768x768.jpg",
-        imageAlt: "Corporate + Crisis Communications",
-        bgColor: "bg-white" as const,
-        actionUrl: "#"
-    }
+  {
+    id: "media-relations",
+    title: "Media Relations",
+    description: "We know how to tell your story to maximize impact and build lasting buzz.",
+    image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Event-Opportunities-768x768.jpg",
+    imageAlt: "Media Relations",
+    bgColor: "bg-white" as const,
+    actionUrl: "#"
+  },
+  {
+    id: "campaigns-activations",
+    title: "Campaigns + Activations",
+    description: "Showstopping stunts, memorable IRL activations , and other viral moments that will get people talking about your brand.",
+    image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Possible-Story-Angles-768x768.jpg",
+    imageAlt: "Campaigns + Activations",
+    bgColor: "bg-secondary" as const,
+    actionUrl: "#"
+  },
+  {
+    id: "thought-leadership",
+    title: "Thought Leadership",
+    description: "Elevate your brand's reputation and executive visibility with impactful interviews, speaking opportunities, op-eds, and more.",
+    image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Best-Media-Matches1-768x768.jpg",
+    imageAlt: "Thought Leadership",
+    bgColor: "bg-primary" as const,
+    actionUrl: "#"
+  },
+  {
+    id: "partnerships",
+    title: "Partnerships",
+    description: "Facilitate creative, strategic partnership campaigns that cross categories, increase brand awareness, reach new audiences, expand marketing resources, and so much more.",
+    image: "https://powerdigitalmarketing.com/wp-content/uploads/2025/01/0_1-2-768x768.jpg",
+    imageAlt: "Partnerships",
+    bgColor: "bg-white" as const,
+    actionUrl: "#"
+  },
+  {
+    id: "award-submissions",
+    title: "Award Submissions",
+    description: "Our team is always keeping a pulse on the best awards for our clients to submit for in order to build recognition and credibility",
+    image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Display-and-Native-768x768.jpg",
+    imageAlt: "Award Submissions",
+    bgColor: "bg-secondary" as const,
+    actionUrl: "#"
+  },
+  {
+    id: "affiliate-marketing",
+    title: "Affiliate Marketing",
+    description: "A combined effort between PR and Affiliate on a strategic top-of-funnel performance PR approach allows our clients to be considered for all consumer media opportunities.",
+    image: "https://powerdigitalmarketing.com/wp-content/uploads/2025/01/0_3-5-768x768.jpg",
+    imageAlt: "Affiliate Marketing",
+    bgColor: "bg-primary" as const,
+    actionUrl: "#"
+  },
+  {
+    id: "corporate-crisis-communications",
+    title: "Corporate + Crisis Communications",
+    description: "Strategic counsel and messaging support to guide your company through its biggest (and toughest) moments.",
+    image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/12/0_2-1-768x768.jpg",
+    imageAlt: "Corporate + Crisis Communications",
+    bgColor: "bg-white" as const,
+    actionUrl: "#"
+  }
 ];
 
 
@@ -80,7 +80,7 @@ export default function industries() {
         <div className="title">
           <span className="badge rounded-pill bg-dark">Industries</span>
           <h2>
-            From code to cloud, we deliver next-gen digital transformation.
+            From coding to cloud, we deliver next-gen digital transformation.
           </h2>
         </div>
       </div>
@@ -91,7 +91,7 @@ export default function industries() {
             <div className="text">
               <h3>Undeniable Speed</h3>
               <p>
-                We analyze data, identify what drives growth, and execute rapidly — ensuring every product launch and optimization cycle drives measurable revenue.
+                We evaluate data, discover what drives growth, and execute swiftly – guaranteeing every product launch and optimization cycle delivers measurable revenue.
               </p>
             </div>
           </div>
@@ -99,7 +99,7 @@ export default function industries() {
             <div className="text">
               <h3>Undeniable Expertise</h3>
               <p>
-                Our teams are among the best in AI, cloud, and full-stack development, with over 10 years of combined experience and a 96%+ client retention rate.
+                Our teams are among the finest in AI, cloud, and full-stack development, with over 10 years of combined expertise and a 96%+ client retention record.
               </p>
             </div>
           </div>
@@ -107,7 +107,8 @@ export default function industries() {
             <div className="text">
               <h3>Undeniable Results</h3>
               <p>
-                We scale businesses 2.6x faster than the industry average — delivering higher ROI through AI automation, precision data, and product excellence.
+                We scale businesses 2.6x quicker than the industry average – providing higher ROI through AI automation, precision data, and product excellence.
+
               </p>
             </div>
           </div>

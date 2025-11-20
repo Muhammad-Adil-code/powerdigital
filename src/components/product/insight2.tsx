@@ -6,7 +6,7 @@ import Image, { StaticImageData } from "next/image";
 // Import Swiper components and styles
 import { Swiper, SwiperSlide } from 'swiper/react';
 // Swiper types
-import { SwiperOptions, SwiperModule } from 'swiper/types'; 
+import { SwiperOptions, SwiperModule } from 'swiper/types';
 import 'swiper/css';
 
 // =================================================================
@@ -27,7 +27,7 @@ interface BlogPost {
     title: string;
     author: string;
     // Type is now satisfied by the StaticImageData returned from the imports above
-    image: StaticImageData; 
+    image: StaticImageData;
     alt: string;
     href: string;
 }
@@ -37,38 +37,38 @@ interface BlogPost {
  */
 export const blogData: BlogPost[] = [
     {
-        title: "Q5 is Not a Break: How to Prepare Your Marketing Strategy for Q1 Growth",
+        title: "Q5 is Not a Break: How to Get Ready Your Marketing Strategy for Q1 Growth",
         author: "Burac Ai | December 3, 2024",
         image: Q5GrowthImage,
-        alt: "Q5 is Not a Break: How to Prepare Your Marketing Strategy for Q1 Growth",
+        alt: "Q5 is Not a Break: How to Get Ready Your Marketing Strategy for Q1 Growth",
         href: "https://powerdigitalmarketing.com/blog/q1-marketing-plan/",
     },
     {
-        title: "Institutional Investors & The Age of Digital Transformation: Navigating the Evolving Landscape",
+        title: "Institutional Investors & The Age of Digital Transformation: Navigating the Changing Landscape",
         author: "Burac Ai | December 2, 2024",
         image: DigitalTransformationImage,
-        alt: "Institutional Investors & The Age of Digital Transformation: Navigating the Evolving Landscape",
+        alt: "Institutional Investors & The Age of Digital Transformation: Navigating the Changing Landscape",
         href: "https://powerdigitalmarketing.com/blog/digital-transformation-on-investing/",
     },
     {
-        title: "Cutting Wasted Ad Spend and Increasing PortCo Margins: A New Era of Data-Driven Profitability",
+        title: "Reducing Wasted Ad Spend and Boosting PortCo Margins: A New Age of Data-Driven Profitability",
         author: "Burac Ai | December 2, 2024",
         image: AdSpendImage,
-        alt: "Cutting Wasted Ad Spend and Increasing PortCo Margins: A New Era of Data-Driven Profitability",
+        alt: "Reducing Wasted Ad Spend and Boosting PortCo Margins: A New Age of Data-Driven Profitability",
         href: "https://powerdigitalmarketing.com/blog/reduce-wasted-ad-spend-and-increase-profit-margins/",
     },
     {
-        title: "Top Strategies for Scaling Your Consumer Service Business in 2025",
+        title: "Best Strategies for Growing Your Consumer Service Business in 2025",
         author: "Burac Ai | December 2, 2024",
         image: ScalingStrategyImage,
-        alt: "Top Strategies for Scaling Your Consumer Service Business in 2025",
+        alt: "Best Strategies for Growing Your Consumer Service Business in 2025",
         href: "https://powerdigitalmarketing.com/blog/scaling-consumer-service-business/",
     },
     {
-        title: "Burac Ai Awarded Agency Partner of the Year at the Buy with Prime Partner Summit",
+        title: "Burac Ai Named Agency Partner of the Year at the Buy with Prime Partner Summit",
         author: "Burac Ai | December 4, 2024",
         image: BuyWithPrimeImage,
-        alt: "Burac Ai Awarded Agency Partner of the Year at the Buy with Prime Partner Summit",
+        alt: "Burac Ai Named Agency Partner of the Year at the Buy with Prime Partner Summit",
         href: "https://powerdigitalmarketing.com/blog/buy-with-prime-agency-partner-of-the-year/",
     },
 ];
@@ -83,7 +83,7 @@ const useIsMobile = () => {
 
     useEffect(() => {
         if (typeof window === 'undefined') return;
-        
+
         // Initial check using the required 990px breakpoint
         setIsMobile(window.innerWidth <= MOBILE_BREAKPOINT);
 
@@ -114,7 +114,7 @@ const renderCard = (post: BlogPost) => (
             <Image
                 src={post.image}
                 alt={post.alt}
-                width={300} 
+                width={300}
                 height={200}
             />
         </div>
@@ -136,7 +136,7 @@ const renderCard = (post: BlogPost) => (
 // 5. MAIN COMPONENT
 // =================================================================
 export default function Insight2() { // Renamed to PascalCase for best practice
-    const isMobile = useIsMobile(); 
+    const isMobile = useIsMobile();
 
     // Swiper settings for mobile view
     const swiperParams: SwiperOptions = {
@@ -158,11 +158,11 @@ export default function Insight2() { // Renamed to PascalCase for best practice
 
     return (
         <section className="bg-light overflow-hidden">
-            
+
             {/* Introductory Content - Now includes mobile-only bottom margin (20px) */}
-            <div 
+            <div
                 className="intro-twos-columns"
-                style={isMobile ? { marginBottom: '20px' } : {}} 
+                style={isMobile ? { marginBottom: '20px' } : {}}
             >
                 <div className="intro-twos-columns__col">
                     <div className="intro-twos-columns__title">
@@ -182,7 +182,7 @@ export default function Insight2() { // Renamed to PascalCase for best practice
                     </div>
                 </div>
             </div>
-            
+
             {/* Card Layout Container */}
             <div className="blog-card-grid">
                 {isMobile ? (
@@ -196,7 +196,7 @@ export default function Insight2() { // Renamed to PascalCase for best practice
                     </Swiper>
                 ) : (
                     // DESKTOP VIEW (> 990px): Static Grid Layout
-                    <> 
+                    <>
                         {blogData.map((post, index) => (
                             <div key={index} className="blog-card-grid__item">
                                 {renderCard(post)}

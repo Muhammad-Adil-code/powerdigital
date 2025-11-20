@@ -6,13 +6,13 @@ export default function power() {
         <div className="title">
           <span className="badge rounded-pill bg-dark">Why Burac.ai?</span>
           <h2>
-            Accelerate your B2B growth with AI-driven solutions designed for speed, scale, and measurable ROI.
+            Accelerate your B2B growth with AI-driven solutions intended for speed, scale, and measurable ROI.
           </h2>
         </div>
         <div className="paragraph">
           <p>
             <span style={{ fontWeight: 400 }}>
-              In a world where decisions must be made faster and smarter, Burac.ai builds technology that connects strategy, automation, and intelligence — helping enterprises reduce friction, improve efficiency, and grow stronger every quarter.
+              In a world where decisions must be made faster and smarter, Burac.ai produces technology that combines strategy, automation, and intelligence – helping organizations decrease friction, enhance efficiency, and grow stronger every quarter.
             </span>
           </p>
         </div>
@@ -24,7 +24,7 @@ export default function power() {
             <div className="text">
               <h3>Data-Driven Precision</h3>
               <p>
-                We use advanced data models to identify and engage the right users at the right time — amplifying performance across all digital channels.
+                We employ powerful data models to discover and engage the right users at the right time — increasing performance across all digital channels.
               </p>
             </div>
           </div>
@@ -32,7 +32,7 @@ export default function power() {
             <div className="text">
               <h3>Unified Strategies Aligned to Your Goals</h3>
               <p>
-                Every solution we build supports long-term success — from user acquisition to product scalability and retention.
+                Every solution we design promotes long-term success – from user acquisition to product scalability and retention.
               </p>
             </div>
           </div>
@@ -40,7 +40,7 @@ export default function power() {
             <div className="text">
               <h3>Custom Solutions for Complex Journeys</h3>
               <p>
-                Whether you&apos;re managing multi-touch enterprise pipelines or scaling startup operations, we design adaptive systems that accelerate conversion and adoption.
+                Whether you&apos;re managing multi-touch enterprise pipelines or scaling startup operations, we design adaptable technologies that expedite conversion and acceptance.
               </p>
             </div>
           </div>
@@ -51,7 +51,7 @@ export default function power() {
             <div className="text">
               <h3>Cross-Team Alignment</h3>
               <p>
-                We unite your development, marketing, and operations teams to ensure consistent delivery and messaging across every touchpoint.
+                We integrate your development, marketing, and operations teams to ensure consistent delivery and messaging across every touchpoint.
               </p>
             </div>
           </div>
@@ -59,7 +59,7 @@ export default function power() {
             <div className="text">
               <h3>ROI You Can Measure</h3>
               <p>
-                Every initiative is tracked, optimized, and reported transparently — ensuring your investment produces visible, repeatable outcomes.
+                Every endeavor is tracked, optimized, and reported transparently – guaranteeing your investment creates visible, repeatable outcomes.
               </p>
             </div>
           </div>

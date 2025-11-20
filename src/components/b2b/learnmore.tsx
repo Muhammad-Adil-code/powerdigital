@@ -1,7 +1,7 @@
 
 export default function learnmore() {
   return (
-     <section className="section-list-accordion bg-light">
+    <section className="section-list-accordion bg-light">
       <div className="intro-twos-columns">
         <div className="intro-twos-columns__col">
           <div className="intro-twos-columns__title">
@@ -31,13 +31,7 @@ export default function learnmore() {
                   <div itemProp="text">
                     <p>
                       <span style={{ fontWeight: 400 }}>
-                        As a premier B2B marketing agency, Burac Ai uses a
-                        unique combination of growth marketing, strategic
-                        consulting, and data excellence to deliver the perfect
-                        message across all relevant digital platforms. Our deep
-                        integration with tech and analytics allows us to serve
-                        clients with precision, enhancing every aspect of B2B
-                        marketing from lead generation to brand development.
+                        As a renowned B2B marketing agency, Burac Ai uses a unique combination of growth marketing, strategic advising, and data expertise to deliver the optimal message across all relevant digital channels.   Our deep integration with tech and analytics allows us to serve customers with precision, increasing all area of B2B marketing from lead generation to brand development
                       </span>
                     </p>
                   </div>
@@ -60,17 +54,11 @@ export default function learnmore() {
                   <div itemProp="text">
                     <p>
                       <span style={{ fontWeight: 400 }}>
-                        We specialize in comprehensive digital marketing
-                        services tailored for the B2B sector, including content
-                        marketing,{" "}
+                        We specialize in comprehensive digital marketing services specialized for the B2B sector, including content marketing,
                         <a href="https://powerdigitalmarketing.com/services/organic-social-media/">
                           organic social media services
                         </a>
-                        , social media strategies, PPC campaigns, and influencer
-                        management. Our approach ensures that marketing efforts
-                        are not only creative but also aligned with our clients’
-                        business goals, driving both immediate results and
-                        sustainable growth.
+                        social media strategy, PPC advertising, and influencer management.  Our methodology guarantees that marketing activities are not just creative but also linked with our clients’ business goals, producing both quick results and sustainable growth.
                       </span>
                     </p>
                     <p>
@@ -99,13 +87,7 @@ export default function learnmore() {
                   <div itemProp="text">
                     <p>
                       <span style={{ fontWeight: 400 }}>
-                        Burac Ai stands out by constantly leveraging the
-                        latest in digital marketing techniques and technologies.
-                        We partner with major platforms like Google, LinkedIn,
-                        and Meta to keep our services cutting-edge. Our focus on
-                        data-backed strategies and measurable results makes us a
-                        preferred agency for companies looking to enhance their
-                        digital presence effectively.
+                        Burac Ai differentiates out by consistently embracing the latest in digital marketing strategies and technologies.   We partner with big platforms like Google, LinkedIn, and Meta to maintain our services cutting-edge.   Our focus on data-backed strategies and measurable results makes us a favored agency for companies trying to increase their digital presence successfully.
                       </span>
                     </p>
                   </div>
@@ -129,14 +111,7 @@ export default function learnmore() {
                   <div itemProp="text">
                     <p>
                       <span style={{ fontWeight: 400 }}>
-                        Our marketing strategies are co-created with our clients
-                        to ensure they reflect the brand’s voice and business
-                        objectives. Through a collaborative approach, we align
-                        our marketing services with our clients’ needs, from
-                        initial concept through to campaign development and
-                        execution. This integrated process helps us maintain
-                        clear, consistent messaging across all marketing
-                        channels.
+                        Our marketing strategies are co-created with our clients to ensure they reflect the brand’s voice and business objectives. Through a collaborative approach, we align our marketing services with our clients’ needs, from initial concept through to campaign development and execution. This integrated process helps us maintain clear, consistent messaging across all marketing channels.
                       </span>
                     </p>
                   </div>
@@ -189,13 +164,7 @@ export default function learnmore() {
                   <div itemProp="text">
                     <p>
                       <span style={{ fontWeight: 400 }}>
-                        We stay at the forefront of B2B digital marketing by
-                        incorporating new technologies and platforms that
-                        enhance data analysis and campaign management. Our
-                        tech-driven approach includes the use of advanced
-                        analytics to refine audience targeting and optimize
-                        advertising spend, ensuring our marketing strategies are
-                        as effective and efficient as possible.
+                        We keep at the forefront of B2B digital marketing by embracing new technologies and platforms that increase data analysis and campaign management.   Our tech-driven approach includes the use of advanced analytics to refine audience targeting and optimize advertising expenditure, ensuring our marketing campaigns are as successful and efficient as possible.
                       </span>
                     </p>
                   </div>
@@ -218,14 +187,7 @@ export default function learnmore() {
                   <div itemProp="text">
                     <p>
                       <span style={{ fontWeight: 400 }}>
-                        Choosing Burac Ai means partnering with a marketing
-                        agency that is deeply committed to your businesss
-                        success. Our blend of creative design, strategic
-                        planning, and data excellence ensures that your B2B
-                        marketing goals are met with precision and innovation.
-                        We believe in building lasting relationships with our
-                        clients, making us a reliable part of your extended
-                        team.
+                        Choosing Burac Ai means partnering with a marketing agency that is completely committed to your business's success.   Our blend of creative design, strategic planning, and data expertise guarantees that your B2B marketing goals are met with precision and originality.   We believe in developing enduring connections with our clients, making us a reliable part of your extended team.
                       </span>
                     </p>
                   </div>

@@ -2,7 +2,7 @@ import Enterprise from '../../images/Enterprise-Software-Company-2-768x768.png';
 import CountUp from '../Home/CountUp';
 export default function result() {
   return (
-   <section className="section-three-data-number bg-dark">
+    <section className="section-three-data-number bg-dark">
       <div className="section-three-data-number__text">
         <div className="title">
           <h2>Proven Results</h2>
@@ -69,7 +69,7 @@ export default function result() {
           <div className="description">
             <p>
               <span style={{ fontWeight: 400 }}>
-                A global SaaS company partnered with Burac.ai to expand from SMB to enterprise clients. By combining AI-powered analytics, refined GTM strategy, and automation-driven lead intelligence, the company achieved a 122% YoY increase in qualified leads and a 34% drop in cost per opportunity — transforming efficiency and market share.
+                A multinational SaaS company teamed with Burac.ai to expand from SMB to enterprise clients.   By integrating AI-powered analytics, revised GTM strategy, and automation-driven lead intelligence, the organization experienced a 122% YoY increase in qualified leads and a 34% drop in cost per opportunity — transforming efficiency and market share.
               </span>
             </p>
           </div>

@@ -11,7 +11,7 @@ export default function intelligent() {
         </div>
         <div className="paragraph">
           <p>
-            Burac.ai leverages intelligent analytics and partnerships across major technology ecosystems — from Microsoft and AWS to Google Cloud and OpenAI — integrating AI, automation, and strategic development to help you achieve both the urgent and the long-term. Smart, scalable growth — with no wasted motion.
+            Burac.ai leverages intelligent analytics and collaborations across major technological ecosystems — from Microsoft and AWS to Google Cloud and OpenAI — merging AI, automation, and strategic development to help you achieve both the urgent and the long-term.   Smart, scalable expansion – with no wasted motion.
           </p>
         </div>
       </div>
@@ -30,7 +30,7 @@ export default function intelligent() {
             <div className="text">
               <h3>PIPELINE AUTOMATION</h3>
               <p>
-                We build intelligent systems that identify key opportunities and optimize engagement throughout the customer journey. Whether through AI-driven prospect scoring, workflow automation, or integrated CRM systems, every touchpoint contributes to sustainable growth.
+                We design intelligent solutions that detect significant opportunities and optimize interaction across the client journey.   Whether through AI-driven prospect scoring, workflow automation, or linked CRM systems, every touchpoint adds to sustained growth.
               </p>
             </div>
           </div>
@@ -38,7 +38,7 @@ export default function intelligent() {
             <div className="text">
               <h3>EFFICIENCY AT SCALE</h3>
               <p>
-                From product launch to enterprise deployment, our agile frameworks ensure speed, precision, and data-backed decision-making. We optimize your digital infrastructure to reduce costs, boost retention, and deliver long-term success.
+                From product launch to corporate deployment, our agile frameworks enable speed, precision, and data-backed decision-making.   We optimize your digital infrastructure to decrease expenses, boost retention, and deliver long-term success.
               </p>
             </div>
           </div>

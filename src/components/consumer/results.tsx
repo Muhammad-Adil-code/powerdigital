@@ -9,7 +9,7 @@ export default function Results() {
           <h2>Proven Results</h2>
         </div>
         <div className="description">
-          <p>Anyone can talk the talk, we provide the receipts.</p>
+          <p>Anyone can talk the talk, we offer the receipts.</p>
         </div>
         <div className="section-three-data-number__insight insight-section">
           <div>
@@ -24,7 +24,7 @@ export default function Results() {
             <div className="item">
               {/* FIX APPLIED HERE: Remove outer h3, pass data-value */}
               <CountUp end={27} suffix="%" duration={2} data-value="27%" />
-              <p>Average YoY increase in client revenue</p>
+              <p>Average YoY increase in client income </p>
             </div>
           </div>
           <div>
@@ -32,7 +32,7 @@ export default function Results() {
               {/* FIX APPLIED HERE: Remove outer h3, pass data-value */}
               <CountUp end={300} suffix="M+" duration={2} data-value="300M+" />
               <p>
-                Data points leveraged by Burac.ai applications for business insights
+                Data points utilized by Burac.ai applications for business insights
               </p>
             </div>
           </div>
@@ -61,7 +61,7 @@ export default function Results() {
           </div>
           <div className="description">
             <p>
-              Burac.ai transformed Alliant University’s Masters of Social Work program. Through AI-driven audience insights and platform optimization, we expanded targeting, improved creative performance, and reduced acquisition costs — building a scalable, efficient, and measurable lead generation pipeline.
+              Burac.ai altered Alliant University’s Masters of Social Work program.  Through AI-driven audience analytics and platform optimization, we increased targeting, improved creative performance, and lowered acquisition costs – producing a scalable, efficient, and measurable lead generation pipeline.
             </p>
           </div>
           <a

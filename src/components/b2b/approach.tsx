@@ -12,7 +12,7 @@ export default function approach() {
         <div className="paragraph">
           <p>
             <span style={{ fontWeight: 400 }}>
-              At Burac.ai, we know that success in B2B isn&apos;t just about technology — it&apos;s about timing, intelligence, and alignment. Complex sales cycles, multiple stakeholders, and legacy systems can slow growth. We simplify that complexity with AI-driven insight and human-centered innovation.
+              At Burac.ai, we recognize that success in B2B isn&apos;t just about technology - it&apos;s about timing, intelligence, and alignment.   Complex sales cycles, various stakeholders, and legacy systems can hamper growth.   We simplify that complexity using AI-driven insight and human-centered innovation.
             </span>
           </p>
         </div>
@@ -49,24 +49,24 @@ export default function approach() {
             <div className="text">
               <h3>ACCELERATED ROI THROUGH REAL-TIME DECISIONING</h3>
               <p>
-                In a fast-changing market, data-driven speed wins. Our AI dashboards and analytics pipelines provide real-time clarity, helping you decide faster and act smarter.
+                In a fast-changing market, data-driven speed wins.  Our AI dashboards and analytics pipelines deliver real-time clarity, helping you decide faster and act better.
               </p>
               <p>
-                We help answer critical questions instantly:
+                We assist answer key queries instantly:
               </p>
               <ul>
                 <li style={{ fontWeight: 400 }} aria-level={1}>
                   Where to focus spend?
                 </li>
                 <li style={{ fontWeight: 400 }} aria-level={1}>
-                  Which channels or features drive the best ROI?
+                  Which channels or features provide the best ROI?
                 </li>
                 <li style={{ fontWeight: 400 }} aria-level={1}>
                   What user behavior signals opportunity?
                 </li>
               </ul>
               <p>
-                Faster answers mean faster growth.
+                Faster replies equal faster growth.
               </p>
             </div>
           </div>
@@ -74,7 +74,7 @@ export default function approach() {
             <div className="text">
               <h3>BUILDING TARGETED RELATIONSHIPS</h3>
               <p>
-                We go beyond transactions to create lasting digital relationships. From initial interaction to post-deployment support, we engineer meaningful experiences that retain users, strengthen loyalty, and turn customers into advocates.
+                We go beyond commerce to develop lasting digital relationships.  From initial encounter to post-deployment assistance, we build meaningful experiences that retain users, strengthen loyalty, and turn customers into champions.
               </p>
             </div>
           </div>
