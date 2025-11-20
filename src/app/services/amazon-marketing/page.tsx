@@ -5,6 +5,13 @@ import ServiceIcon1 from "./images/service-icon-1.svg"
 import Layer11 from "./images/Layer_1-1.svg"
 import Layer1 from "./images/Layer-1.svg"
 import Amazon1 from "./images/Amazon-1.png"
+import image1 from "./images/Strategic-Roadmap-768x768.jpg";
+import image2 from './images/Amazon-Ads-1-768x768.jpg';
+import image3 from './images/Conversion-Rates-768x768.jpg';
+import image4 from './images/Optimization-Opportunities-768x768.jpg';
+import image5 from './images/Executive-Strategy-768x768.jpg';
+import image6 from './images/pr_pdm_image-768x430.png';
+import image7 from './images/0_0-1-768x768.jpg';
 import Header from '../../../components/consumer/header';
 import Cardslider from '../maincomonents/cardslider';
 import HeroSection from '../maincomonents/herosection';
@@ -16,7 +23,7 @@ import Services from '../maincomonents/Services';
 const amazonHeroSectionData = {
   badge: "GROWTH MARKETING",
   title: "Marketing Services for Amazon",
-  description: "In today’s fast-moving, algorithm-driven retail world, brands that view Amazon in isolation are falling behind. At Burac.ai, we understand that Amazon isn’t a silo — it’s a pivotal part of a much larger growth ecosystem. Our team of retail and Amazon intelligence experts use AI-powered analytics and full-funnel strategy to connect the dots between DTC, Amazon, and omnichannel retail, ensuring every touchpoint contributes to measurable brand growth.",
+  description: "In today’s fast-moving, algorithm-driven retail landscape, firms that see Amazon in isolation are lagging behind.  At Burac.ai, we recognize that Amazon isn’t a silo – it’s a vital part of a much wider growth ecosystem.  Our team of retail and Amazon intelligence professionals leverage AI-powered analytics and full-funnel strategy to draw the links between DTC, Amazon, and omnichannel retail, ensuring every touchpoint contributes to measurable brand success.",
   buttonText: "Talk to an Amazon Expert.",
   buttonUrl: "/workwithus/",
   image: Amazon1.src,
@@ -179,7 +186,7 @@ const amazonCardSliderData = [
     id: "catalog-management",
     title: "Catalog Optimization & Organic Intelligence",
     description: "AI-backed systems monitor catalog health, boost organic visibility, and ensure sustainable ranking improvements through predictive optimization.",
-    image: "https://burac.ai/assets/catalog-optimization.jpg",
+    image: image1.src,
     imageAlt: "Catalog Optimization & Organic Intelligence",
     bgColor: "bg-white" as const
   },
@@ -187,7 +194,7 @@ const amazonCardSliderData = [
     id: "product-page-creative",
     title: "Dynamic Product Experience",
     description: "Burac.ai’s creative engine designs Amazon-optimized visuals and messaging that convert intent into purchase — powered by adaptive testing.",
-    image: "https://burac.ai/assets/product-page-creative.jpg",
+    image: image2.src,
     imageAlt: "Dynamic Product Experience",
     bgColor: "bg-secondary" as const
   },
@@ -195,7 +202,7 @@ const amazonCardSliderData = [
     id: "seo-algorithm",
     title: "AI-Powered Amazon SEO",
     description: "Machine learning models identify high-value keywords and content optimizations that maximize product discoverability and conversion.",
-    image: "https://burac.ai/assets/ai-seo.jpg",
+    image: image3.src,
     imageAlt: "AI-Powered Amazon SEO",
     bgColor: "bg-primary" as const
   },
@@ -203,7 +210,7 @@ const amazonCardSliderData = [
     id: "ppc-advertising",
     title: "Intelligent Amazon PPC",
     description: "Adaptive AI bidding automates spend allocation and keyword selection, driving efficiency and incremental sales growth on Amazon.",
-    image: "https://burac.ai/assets/amazon-ppc.jpg",
+    image: image4.src,
     imageAlt: "Intelligent Amazon PPC",
     bgColor: "bg-white" as const
   },
@@ -211,7 +218,7 @@ const amazonCardSliderData = [
     id: "dsp-advertising",
     title: "Amazon DSP + AI Precision",
     description: "Combining Amazon’s first-party data with Burac.ai’s algorithms, we target high-intent audiences across the funnel for measurable growth.",
-    image: "https://burac.ai/assets/dsp-advertising.jpg",
+    image: image5.src,
     imageAlt: "Amazon DSP + AI Precision",
     bgColor: "bg-secondary" as const
   },
@@ -219,7 +226,7 @@ const amazonCardSliderData = [
     id: "omnichannel-strategies",
     title: "Omnichannel Growth Intelligence",
     description: "Cross-channel campaigns powered by AI ensure your brand message and spend are optimized across retail, Amazon, and paid media.",
-    image: "https://burac.ai/assets/omnichannel-growth.jpg",
+    image: image6.src,
     imageAlt: "Omnichannel Growth Intelligence",
     bgColor: "bg-primary" as const,
     links: [
@@ -237,7 +244,7 @@ const amazonCardSliderData = [
     id: "measurement-solutions",
     title: "AI Measurement & Attribution",
     description: "Real-time analytics powered by AI measure impact, test incrementality, and continuously refine campaigns for compounding performance gains.",
-    image: "https://burac.ai/assets/measurement-ai.jpg",
+    image: image7.src,
     imageAlt: "AI Measurement & Attribution",
     bgColor: "bg-white" as const
   }
@@ -246,7 +253,7 @@ const amazonCardSliderData = [
 const AmazonMarketingPage = () => {
   return (
     <>
-      <Header  />
+      <Header />
       <main>
         <HeroSection data={amazonHeroSectionData} />
 
