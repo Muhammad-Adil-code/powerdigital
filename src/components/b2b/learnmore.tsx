@@ -137,7 +137,7 @@ export default function learnmore() {
                         B2B businesses can expect a comprehensive enhancement of
                         their marketing efforts, leading to increased leads,
                         better brand recognition, and higher revenue. Our
-                        agency’s focus on data-driven strategies and ROI ensures
+                        agency&lsquo;s focus on data-driven strategies and ROI ensures
                         that every campaign maximizes both organic and paid
                         media effectiveness. Clients often notice improved
                         engagement and conversion rates, thanks to our targeted
@@ -187,7 +187,7 @@ export default function learnmore() {
                   <div itemProp="text">
                     <p>
                       <span style={{ fontWeight: 400 }}>
-                        Choosing Burac Ai means partnering with a marketing agency that is completely committed to your business's success.   Our blend of creative design, strategic planning, and data expertise guarantees that your B2B marketing goals are met with precision and originality.   We believe in developing enduring connections with our clients, making us a reliable part of your extended team.
+                        Choosing Burac Ai means partnering with a marketing agency that is completely committed to your business&apos;s success.   Our blend of creative design, strategic planning, and data expertise guarantees that your B2B marketing goals are met with precision and originality.   We believe in developing enduring connections with our clients, making us a reliable part of your extended team.
                       </span>
                     </p>
                   </div>
