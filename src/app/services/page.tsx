@@ -11,6 +11,13 @@ import ServicesComponent from './servicescomps/services';
 import FadeAnimation from './servicescomps/fadeanimaion';
 import Clientlogo from "../strategic-consulting/clientlogo";
 import Difference from './servicescomps/difference';
+import image1 from "../amazon-marketing/images/Strategic-Roadmap-768x768.jpg";
+import image2 from '../amazon-marketing/images/Amazon-Ads-1-768x768.jpg';
+import image3 from '../amazon-marketing/images/Conversion-Rates-768x768.jpg';
+import image4 from '../amazon-marketing/images/Optimization-Opportunities-768x768.jpg';
+import image5 from '../amazon-marketing/images/Executive-Strategy-768x768.jpg';
+import image6 from '../amazon-marketing/images/pr_pdm_image-768x430.png';
+import image7 from '../amazon-marketing/images/0_0-1-768x768.jpg';
 
 const servicesHeroSectionData = {
     badge: "GROWTH MARKETING",
@@ -101,7 +108,7 @@ const servicesWorkWithData = {
             alt: "Custom Digital Marketing Strategy Icon"
         },
         {
-            icon: "https://powerdigitalmarketing.com/wp-content/uploads/2024/10/service_icon2.svg",
+            icon: ServiceIcon1.src,
             title: "Specialized Teams",
             description:
                 "Each Burac AI client gets a dedicated team of marketing experts, strategists, and project leads. We act as your in-house growth partners — aligning every effort with your goals and ensuring speed, precision, and creativity.",
