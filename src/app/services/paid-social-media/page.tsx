@@ -12,6 +12,11 @@ import LearnMore from '../maincomonents/learnmore';
 import WhySection from '../maincomonents/whysection';
 import WorkWith from '../maincomonents/workwith';
 import Services from '../maincomonents/Services';
+import image1 from './images/Paid-Social-Ad-Copy-768x768.jpg'
+import image2 from './images/Paid-Social-Lead-Journey-768x768.jpg'
+import image3 from './images/Paid-Social-Technical-Setup-768x430.jpg'
+import image4 from './images/Paid_Social.webp'
+
 
 
 const HeroSectionData = {
@@ -20,7 +25,7 @@ const HeroSectionData = {
     description: "Activate data-driven precision across paid social and retail platforms. Burac.ai’s adaptive algorithms optimize your ad spend, engagement, and ROI through real-time learning and automated optimization.",
     buttonText: "Get a Proposal",
     buttonUrl: "#",
-    image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Paid_Social.png",
+    image: image4.src,
     imageAlt: "AI Retail Marketing Services"
 };
 
@@ -33,7 +38,7 @@ const WorkWithData = {
         "<b>Our AI marketing engine aligns retail and DTC performance under one adaptive framework — accelerating awareness, conversion, and sustained growth.</b>"
     ],
     buttonText: "Get in touch",
-    buttonUrl: "https://powerdigitalmarketing.com/work-with-us/",
+    buttonUrl: " /work-with-us/",
     cards: [
         {
             icon: ServiceIcon1.src,
@@ -71,7 +76,7 @@ const ServicesData = {
     description: "Burac.ai unites retail, Amazon, and DTC ecosystems using predictive analytics to capture share, acquire customers, and drive long-term profitability.",
     showButton: true,
     buttonText: "Get a free marketing audit",
-    buttonUrl: "https://powerdigitalmarketing.com/work-with-us/",
+    buttonUrl: " /workwithus/",
     layout: "3-per-row" as const,
     items: [
         {
@@ -94,7 +99,7 @@ const CardSliderData = [
         id: "catalog-management",
         title: "AI Catalog Intelligence",
         description: "Our system maintains listing health, optimizes organic visibility, and applies algorithmic adjustments for long-term growth stability.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Strategic-Roadmap-768x768.jpg",
+        image: image1.src,
         imageAlt: "Catalog Management & Organic Strategy",
         bgColor: "bg-white" as const
     },
@@ -102,7 +107,7 @@ const CardSliderData = [
         id: "product-page-creative",
         title: "Smart Storefront Design",
         description: "AI-optimized visuals and messaging that transform browsers into buyers — from product pages to your full retail storefront.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Amazon-Ads-1-768x768.jpg",
+        image: image2.src,
         imageAlt: "Product Page & Storefront Creative",
         bgColor: "bg-secondary" as const
     },
@@ -110,7 +115,7 @@ const CardSliderData = [
         id: "seo-algorithm",
         title: "Algorithmic SEO Optimization",
         description: "Intelligent keyword and metadata tuning designed to maximize marketplace discoverability and organic ranking performance.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Conversion-Rates-768x768.jpg",
+        image: image3.src,
         imageAlt: "SEO - Tuned to the Amazon Algorithm",
         bgColor: "bg-primary" as const
     }
@@ -120,7 +125,7 @@ const WhySectionData = {
     badge: "Why Burac.ai?",
     title: "Our AI-powered retail experts integrate automation, data, and creativity to amplify marketplace growth and brand visibility.",
     buttonText: "Get a free marketing audit",
-    buttonUrl: "https://powerdigitalmarketing.com/work-with-us/",
+    buttonUrl: " /work-with-us/",
     introText: "Partnering with Burac.ai gives you:",
     contentItems: [
         {
@@ -220,7 +225,7 @@ const PaidSocialMediaPage = () => {
                 }
             `}
             </style>
-            <Fullheader  />
+            <Fullheader />
             <main>
                 <HeroSection data={HeroSectionData} />
 

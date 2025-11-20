@@ -11,13 +11,14 @@ import ServicesComponent from './servicescomps/services';
 import FadeAnimation from './servicescomps/fadeanimaion';
 import Clientlogo from "../strategic-consulting/clientlogo";
 import Difference from './servicescomps/difference';
-import image1 from "../amazon-marketing/images/Strategic-Roadmap-768x768.jpg";
-import image2 from '../amazon-marketing/images/Amazon-Ads-1-768x768.jpg';
-import image3 from '../amazon-marketing/images/Conversion-Rates-768x768.jpg';
-import image4 from '../amazon-marketing/images/Optimization-Opportunities-768x768.jpg';
-import image5 from '../amazon-marketing/images/Executive-Strategy-768x768.jpg';
-import image6 from '../amazon-marketing/images/pr_pdm_image-768x430.png';
-import image7 from '../amazon-marketing/images/0_0-1-768x768.jpg';
+import image1 from "./images/CTV-768x768.jpg"
+import image2 from "./images/Cross-Channel-Media-Planning-Strategy-768x768.jpg"
+import image3 from "./images/Display-and-Native-768x768.jpg"
+import image4 from "./images/DOOH-768x768.jpg"
+import image5 from "./images/Direct-Mail-768x768.jpg"
+import image6 from "./images/Instream_Outstream-768x768.jpg"
+import image7 from "./images/Omnichannel-Excellence-768x768.jpg"
+
 
 const servicesHeroSectionData = {
     badge: "GROWTH MARKETING",
@@ -167,67 +168,59 @@ const servicesCardSliderData = [
     {
         id: "connected-tv",
         title: "Connected TV (CTV)",
-        description: "Deliver high-impact video ads to engaged audiences on streaming platforms.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/CTV-768x768.jpg",
+        description: "AI-optimized TV ads that merge storytelling with precise audience targeting on streaming platforms.",
+        image: image1.src,
         imageAlt: "Connected TV (CTV)",
         bgColor: "bg-grey" as const
     },
     {
         id: "streaming-audio",
         title: "Streaming Audio / Podcasts",
-        description: "Engage listeners with targeted, on-the-go audio experiences.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Streaming-Audio-768x768.jpg",
+        description: "Smart audio ads personalized by listener behavior and intent data for meaningful engagement.",
+        image: image2.src,
         imageAlt: "Streaming Audio / Podcasts",
         bgColor: "bg-primary" as const
     },
     {
         id: "digital-out-of-home",
         title: "Digital Out Of Home (DOOH)",
-        description: "Amplify brand awareness with location-based, data-powered outdoor media.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/DOOH-768x768.jpg",
+        description: "AI-driven outdoor placements that optimize visibility based on foot traffic and contextual relevance.",
+        image: image4.src,
         imageAlt: "Digital Out Of Home (DOOH)",
         bgColor: "bg-secondary" as const
     },
     {
         id: "display-native",
         title: "Display & Native",
-        description: "Drive clicks and conversions through compelling, context-driven ad placements.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Display-and-Native-768x768.jpg",
+        description: "Adaptive placements powered by AI learning to maximize impressions, CTRs, and conversions.",
+        image: image3.src,
         imageAlt: "Display & Native",
         bgColor: "bg-white" as const
     },
     {
         id: "direct-mail",
-        title: "Direct Mail",
-        description: "Reach customers offline with personalized, measurable direct mail campaigns.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Direct-Mail-768x768.jpg",
+        title: "Smart Direct Mail",
+        description: "AI-personalized print campaigns integrated with digital insights for cross-channel engagement.",
+        image: image5.src,
         imageAlt: "Direct Mail",
         bgColor: "bg-grey" as const
     },
     {
         id: "instream-outstream-video",
         title: "Instream & Outstream Video",
-        description: "Capture attention through dynamic, data-optimized video storytelling.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Instream_Outstream-768x768.jpg",
+        description: "Dynamic video ads tailored by AI to engage audiences across YouTube and digital networks.",
+        image: image6.src,
         imageAlt: "Instream & Outstream Video",
         bgColor: "bg-primary" as const
     },
     {
         id: "linear-tv",
         title: "Linear TV",
-        description: "Expand your reach through traditional broadcast TV powered by smart data.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/10/Omnichannel-Excellence-768x768.jpg",
+        description: "AI-enhanced TV targeting that blends traditional reach with predictive audience analytics.",
+        image: image7.src,
         imageAlt: "Linear TV",
         bgColor: "bg-white" as const
     },
-    {
-        id: "cross-channel-media-planning",
-        title: "Cross-Channel Media Planning & Strategy",
-        description: "Unify campaigns across every touchpoint for consistent brand storytelling and performance.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Cross-Channel-Media-Planning-Strategy-768x768.jpg",
-        imageAlt: "Cross-Channel Media Planning & Strategy",
-        bgColor: "bg-secondary" as const
-    }
 ];
 
 const ServicesPage = () => {

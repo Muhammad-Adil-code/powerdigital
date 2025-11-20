@@ -12,13 +12,23 @@ import WhySection from '../maincomonents/whysection';
 import WorkWith from '../maincomonents/workwith';
 import Services from '../maincomonents/Services';
 
+import image1 from "./images/CTV-768x768.jpg"
+import image2 from "./images/Cross-Channel-Media-Planning-Strategy-768x768.jpg"
+import image3 from "./images/Display-and-Native-768x768.jpg"
+import image4 from "./images/DOOH-768x768.jpg"
+import image5 from "./images/Direct-Mail-768x768.jpg"
+import image6 from "./images/Instream_Outstream-768x768.jpg"
+import image7 from "./images/Omnichannel-Excellence-768x768.jpg"
+import image8 from "./images/Programmatic.webp"
+import image9 from "./images/Streaming-Audio-768x768.jpg"
+
 const programmaticAdvertisingAgencyHeroSectionData = {
     badge: "AI-POWERED GROWTH",
     title: "Scale awareness and revenue with intelligent programmatic automation.",
-    description: "Burac.ai blends automation, data science, and predictive targeting to deliver precise, adaptive, and performance-driven advertising that maximizes ROI.",
+    description: "Burac.ai integrates automation, data science, and predictive targeting to create precise, adaptive, and performance-driven advertising that maximizes ROI.",
     buttonText: "Get a Proposal",
     buttonUrl: "#",
-    image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Programmatic.png",
+    image: image8.src,
     imageAlt: "AI-Driven Programmatic Advertising"
 };
 
@@ -187,7 +197,7 @@ const programmaticAdvertisingAgencyCardSliderData = [
         id: "connected-tv",
         title: "Connected TV (CTV)",
         description: "AI-optimized TV ads that merge storytelling with precise audience targeting on streaming platforms.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/CTV-768x768.jpg",
+        image: image1.src,
         imageAlt: "Connected TV (CTV)",
         bgColor: "bg-grey" as const
     },
@@ -195,7 +205,7 @@ const programmaticAdvertisingAgencyCardSliderData = [
         id: "streaming-audio",
         title: "Streaming Audio / Podcasts",
         description: "Smart audio ads personalized by listener behavior and intent data for meaningful engagement.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Streaming-Audio-768x768.jpg",
+        image: image2.src,
         imageAlt: "Streaming Audio / Podcasts",
         bgColor: "bg-primary" as const
     },
@@ -203,7 +213,7 @@ const programmaticAdvertisingAgencyCardSliderData = [
         id: "digital-out-of-home",
         title: "Digital Out Of Home (DOOH)",
         description: "AI-driven outdoor placements that optimize visibility based on foot traffic and contextual relevance.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/DOOH-768x768.jpg",
+        image: image4.src,
         imageAlt: "Digital Out Of Home (DOOH)",
         bgColor: "bg-secondary" as const
     },
@@ -211,7 +221,7 @@ const programmaticAdvertisingAgencyCardSliderData = [
         id: "display-native",
         title: "Display & Native",
         description: "Adaptive placements powered by AI learning to maximize impressions, CTRs, and conversions.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Display-and-Native-768x768.jpg",
+        image: image3.src,
         imageAlt: "Display & Native",
         bgColor: "bg-white" as const
     },
@@ -219,7 +229,7 @@ const programmaticAdvertisingAgencyCardSliderData = [
         id: "direct-mail",
         title: "Smart Direct Mail",
         description: "AI-personalized print campaigns integrated with digital insights for cross-channel engagement.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Direct-Mail-768x768.jpg",
+        image: image5.src,
         imageAlt: "Direct Mail",
         bgColor: "bg-grey" as const
     },
@@ -227,7 +237,7 @@ const programmaticAdvertisingAgencyCardSliderData = [
         id: "instream-outstream-video",
         title: "Instream & Outstream Video",
         description: "Dynamic video ads tailored by AI to engage audiences across YouTube and digital networks.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Instream_Outstream-768x768.jpg",
+        image: image6.src,
         imageAlt: "Instream & Outstream Video",
         bgColor: "bg-primary" as const
     },
@@ -235,7 +245,7 @@ const programmaticAdvertisingAgencyCardSliderData = [
         id: "linear-tv",
         title: "Linear TV",
         description: "AI-enhanced TV targeting that blends traditional reach with predictive audience analytics.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/10/Omnichannel-Excellence-768x768.jpg",
+        image: image7.src,
         imageAlt: "Linear TV",
         bgColor: "bg-white" as const
     },
@@ -243,7 +253,7 @@ const programmaticAdvertisingAgencyCardSliderData = [
         id: "cross-channel-media-planning",
         title: "Cross-Channel Strategy & Orchestration",
         description: "AI harmonizes your media mix across every touchpoint, ensuring unified messaging and higher returns.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Cross-Channel-Media-Planning-Strategy-768x768.jpg",
+        image: image9.src,
         imageAlt: "Cross-Channel Media Planning & Strategy",
         bgColor: "bg-secondary" as const
     }
