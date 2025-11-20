@@ -29,88 +29,165 @@ const amazonHeroSectionData = {
   image: Amazon1.src,
   imageAlt: "Amazon Marketing Services"
 };
+// const amazonLearnMoreData = {
+//   badge: "Learn more",
+//   title: "Learn more about Amazon.",
+//   description: "Your Amazon Questions Answered: Optimize, Strategize, and Grow with Burac.ai",
+//   faqs: [
+//     {
+//       question: "What are the advantages of having one partner manage my DTC and Amazon marketing?",
+//       answer: [
+//         "Burac.ai creates unified, AI-driven strategies across DTC and Amazon to eliminate data silos, improve agility, and ensure consistent brand messaging. With one centralized system, we optimize performance, budget, and insights for scalable growth."
+//       ]
+//     },
+//     {
+//       question: "Will growing Amazon sales reduce conversions on my website?",
+//       answer: [
+//         "Not with the right approach. Amazon is where your customers already shop — the goal is to capture their intent efficiently. Our AI-powered models align both Amazon and DTC channels, ensuring growth complements your ecosystem rather than competes with it.",
+//         "Burac.ai strategies unify channel data to maintain healthy margins while driving share growth, visibility, and sustained profitability."
+//       ]
+//     },
+//     {
+//       question: "If Amazon margins are lower, why invest in Amazon growth?",
+//       answer: [
+//         "Amazon offers unmatched scale and audience intent. Burac.ai’s systems analyze SKU-level data to find the profitability sweet spot — balancing visibility, velocity, and margin. The result: predictable ROI and optimized spend efficiency across all channels."
+//       ]
+//     },
+//     {
+//       question: "Is paid Amazon advertising essential?",
+//       answer: [
+//         "Yes. With thousands of new listings daily, visibility requires smart bidding and data modeling. Burac.ai’s adaptive AI bidding engine and predictive signals identify the best opportunities for ROI and growth, keeping you visible and profitable."
+//       ]
+//     },
+//     {
+//       question: "What drives organic ranking on Amazon?",
+//       answer: [
+//         "Burac.ai’s intelligence platform evaluates ranking signals such as CTR, conversion, fulfillment health, and off-Amazon engagement. Our AI maps relationships between external traffic, reviews, and algorithm shifts to continuously optimize your rank and reach."
+//       ]
+//     },
+//     {
+//       question: "How does Amazon DSP compare to other display platforms?",
+//       answer: [
+//         "Burac.ai leverages Amazon’s proprietary first-party data within our programmatic ecosystem, combining DSP’s deep audience intent with our machine learning attribution models. This enables precision targeting, full-funnel measurement, and seamless omnichannel execution."
+//       ]
+//     },
+//     {
+//       question: "What is Amazon Marketing Cloud, and how does Burac.ai use it?",
+//       answer: [
+//         "Amazon Marketing Cloud (AMC) allows privacy-safe, event-level data analysis. Burac.ai integrates AMC with our AI analytics layer to uncover deep insights — understanding customer overlap, lifetime value, and true channel incrementality across Amazon and DTC."
+//       ]
+//     },
+//     {
+//       question: "Can I use customer reviews to enhance my marketing strategy?",
+//       answer: [
+//         "Absolutely. Burac.ai’s natural language processing models analyze sentiment and keywords from customer reviews to improve listings, refine messaging, and guide product development — turning feedback into actionable data for growth."
+//       ]
+//     },
+//     {
+//       question: "How can I improve my product’s visibility on Amazon?",
+//       answer: [
+//         "By combining AI-driven SEO, optimized listings, and predictive ad spend allocation. Burac.ai’s algorithms adapt dynamically to keyword trends, pricing shifts, and competitor performance to maximize organic and paid visibility."
+//       ]
+//     },
+//     {
+//       question: "How do I track Amazon marketing performance with Burac.ai?",
+//       answer: [
+//         "We centralize all Amazon KPIs — from traffic to profitability — in real time. Burac.ai’s dashboards provide actionable insights, predictive forecasts, and automated optimizations so you’re always improving with each iteration."
+//       ]
+//     }
+//   ]
+// };
+
 const amazonLearnMoreData = {
   badge: "Learn more",
   title: "Learn more about Amazon.",
-  description: "Your Amazon Questions Answered: Optimize, Strategize, and Grow with Burac.ai",
+  description:
+    "Your Amazon Questions Answered: Optimize, Strategize, and Grow with Burac.ai",
   faqs: [
     {
-      question: "What are the advantages of having one partner manage my DTC and Amazon marketing?",
+      question:
+        "What are the advantages of having one partner manage my DTC and Amazon marketing?",
       answer: [
-        "Burac.ai creates unified, AI-driven strategies across DTC and Amazon to eliminate data silos, improve agility, and ensure consistent brand messaging. With one centralized system, we optimize performance, budget, and insights for scalable growth."
-      ]
+        "Burac.ai provides unified, AI-driven strategies across DTC and Amazon to eliminate data silos, boost agility, and assure consistent brand message.   With one centralized system, we optimize performance, budget, and analytics for scalable growth.",
+      ],
     },
     {
-      question: "Will growing Amazon sales reduce conversions on my website?",
+      question:
+        "Will increased Amazon sales impact conversions on my website?",
       answer: [
-        "Not with the right approach. Amazon is where your customers already shop — the goal is to capture their intent efficiently. Our AI-powered models align both Amazon and DTC channels, ensuring growth complements your ecosystem rather than competes with it.",
-        "Burac.ai strategies unify channel data to maintain healthy margins while driving share growth, visibility, and sustained profitability."
-      ]
+        "Not with the correct approach.   Amazon is where your customers currently shop – the challenge is to capture their intent efficiently.   Our AI-powered models align both Amazon and DTC channels, ensuring growth complements your ecosystem rather than competes with it.",
+        "Burac.ai strategies unify channel data to maintain healthy margins while driving share growth, visibility, and sustained profitability.",
+      ],
     },
     {
-      question: "If Amazon margins are lower, why invest in Amazon growth?",
+      question:
+        "If Amazon margins are lower, why invest in Amazon growth?",
       answer: [
-        "Amazon offers unmatched scale and audience intent. Burac.ai’s systems analyze SKU-level data to find the profitability sweet spot — balancing visibility, velocity, and margin. The result: predictable ROI and optimized spend efficiency across all channels."
-      ]
+        "Amazon offers unmatched scale and audience intent.   Burac.ai’s tools evaluate SKU-level data to locate the profitability sweet spot – balancing visibility, velocity, and margin.   The result: predictable ROI and optimal expenditure efficiency across all channels.",
+      ],
     },
     {
       question: "Is paid Amazon advertising essential?",
       answer: [
-        "Yes. With thousands of new listings daily, visibility requires smart bidding and data modeling. Burac.ai’s adaptive AI bidding engine and predictive signals identify the best opportunities for ROI and growth, keeping you visible and profitable."
-      ]
+        "Yes.   With thousands of new items daily, visibility requires smart bidding and data modeling.   Burac.ai’s adaptive AI bidding engine and predictive signals identify the best opportunities for ROI and growth, keeping you visible and profitable.",
+      ],
     },
     {
       question: "What drives organic ranking on Amazon?",
       answer: [
-        "Burac.ai’s intelligence platform evaluates ranking signals such as CTR, conversion, fulfillment health, and off-Amazon engagement. Our AI maps relationships between external traffic, reviews, and algorithm shifts to continuously optimize your rank and reach."
-      ]
+        "Burac.ai’s intelligence platform evaluates ranking signals such as CTR, conversion, fulfillment health, and off-Amazon engagement.   Our AI maps relationships between external traffic, reviews, and algorithm shifts to continuously optimize your rank and reach.",
+      ],
     },
     {
       question: "How does Amazon DSP compare to other display platforms?",
       answer: [
-        "Burac.ai leverages Amazon’s proprietary first-party data within our programmatic ecosystem, combining DSP’s deep audience intent with our machine learning attribution models. This enables precision targeting, full-funnel measurement, and seamless omnichannel execution."
-      ]
+        "Burac.ai leverages Amazon’s proprietary first-party data within our programmatic ecosystem, combining DSP’s deep audience intent with our machine learning attribution models.   This enables precision targeting, full-funnel measurement, and seamless omnichannel execution.",
+      ],
     },
     {
-      question: "What is Amazon Marketing Cloud, and how does Burac.ai use it?",
+      question:
+        "What is Amazon Marketing Cloud, and how does Burac.ai use it?",
       answer: [
-        "Amazon Marketing Cloud (AMC) allows privacy-safe, event-level data analysis. Burac.ai integrates AMC with our AI analytics layer to uncover deep insights — understanding customer overlap, lifetime value, and true channel incrementality across Amazon and DTC."
-      ]
+        "Amazon Marketing Cloud (AMC) allows privacy-safe, event-level data analysis.   Burac.ai integrates AMC with our AI analytics layer to uncover deep insights — understanding customer overlap, lifetime value, and true channel incrementality across Amazon and DTC.",
+      ],
     },
     {
-      question: "Can I use customer reviews to enhance my marketing strategy?",
+      question:
+        "Can I use customer reviews to enhance my marketing strategy?",
       answer: [
-        "Absolutely. Burac.ai’s natural language processing models analyze sentiment and keywords from customer reviews to improve listings, refine messaging, and guide product development — turning feedback into actionable data for growth."
-      ]
+        "Absolutely.   Burac.ai’s natural language processing models analyze sentiment and keywords from customer reviews to improve listings, refine messaging, and guide product development — turning feedback into actionable data for growth.",
+      ],
     },
     {
       question: "How can I improve my product’s visibility on Amazon?",
       answer: [
-        "By combining AI-driven SEO, optimized listings, and predictive ad spend allocation. Burac.ai’s algorithms adapt dynamically to keyword trends, pricing shifts, and competitor performance to maximize organic and paid visibility."
-      ]
+        "By combining AI-driven SEO, optimized listings, and predictive ad spend allocation.   Burac.ai’s algorithms adjust constantly to keyword trends, pricing shifts, and competitor performance to maximize organic and paid visibility.",
+      ],
     },
     {
-      question: "How do I track Amazon marketing performance with Burac.ai?",
+      question:
+        "How do I track Amazon marketing performance with Burac.ai?",
       answer: [
-        "We centralize all Amazon KPIs — from traffic to profitability — in real time. Burac.ai’s dashboards provide actionable insights, predictive forecasts, and automated optimizations so you’re always improving with each iteration."
-      ]
-    }
-  ]
+        "We consolidate all Amazon KPIs — from traffic to profitability — in real time.   Burac.ai’s dashboards deliver actionable insights, predictive forecasts, and automated optimizations so you’re always improving with each iteration.",
+      ],
+    },
+  ],
 };
+
 
 const amazonWhySectionData = {
   badge: "Why Burac.ai?",
-  title: "Our cross-channel experts and AI platform deliver continuous optimization for Amazon and total brand growth.",
+  title: "Our cross-channel specialists and AI platform enable continual optimization for Amazon and entire brand growth. ",
   buttonText: "Get a free performance audit",
   buttonUrl: "/workwithus/",
-  introText: "By partnering with Burac.ai, you gain:",
+  introText: "By working with Burac.ai, you gain:",
   contentItems: [
     {
       type: "list" as const,
       content: [
-        "<b>Full-service management:</b> From Amazon storefronts to DSP strategy, Burac.ai automates performance tracking, catalog health, and optimization in one seamless workflow.",
-        "<b>Specialized AI-driven teams:</b> Industry experts supported by machine intelligence that continuously learns and adapts to your brand’s growth signals.",
-        "<b>Adaptive marketplace intelligence:</b> Real-time insights that evolve with your category, competition, and customer trends."
+        "<b>Full-service management:</b> From Amazon shops to DSP strategy, Burac.ai automates performance tracking, catalog health, and optimization in one fluid workflow.",
+        "<b>Specialized AI-driven teams:</b> Industry experts assisted by machine intelligence that continuously learns and adapts to your brand’s growth signals.",
+        "<b>Adaptive marketplace intelligence:</b> Real-time analytics that evolve with your category, competitors, and customer trends."
       ]
     }
   ]
@@ -118,11 +195,11 @@ const amazonWhySectionData = {
 
 const amazonWorkWithData = {
   badge: "Work with Burac.ai",
-  title: "Don’t just grow on Amazon. Grow through intelligent Amazon performance.",
+  title: "Don’t simply grow on Amazon.  Grow through intelligent Amazon performance.",
   paragraphs: [
-    "Today’s customers don’t separate where they shop — they expect a unified, frictionless experience. Burac.ai connects Amazon, DTC, and retail into one adaptive growth engine.&nbsp;",
-    "Traditional agencies treat Amazon as a sales channel; Burac.ai treats it as a data source for predictive growth. Our connected ecosystem drives awareness, acquisition, and retention with measurable ROI.",
-    "<b>Burac.ai’s Amazon intelligence unifies data and activation — driving total brand growth through omnichannel precision.</b>"
+    "Today’s customers don’t differentiate where they shop — they expect a seamless, frictionless experience.  Burac.ai integrates Amazon, DTC, and retail into one adaptive growth engine.&nbsp;",
+    "Traditional agencies treat Amazon as a sales channel; Burac.ai treats it as a data source for predicting growth.  Our integrated environment increases awareness, acquisition, and retention with measurable ROI.",
+    "<b>Burac.ai’s Amazon intelligence unites data and activation — creating overall brand growth through omnichannel accuracy.</b>"
   ],
   buttonText: "Get in touch",
   buttonUrl: "/workwithus/",
@@ -130,7 +207,7 @@ const amazonWorkWithData = {
     {
       icon: ServiceIcon1.src,
       title: "AI-Aligned Brand Experience",
-      description: "From Amazon SEO to dynamic creative optimization, Burac.ai ensures every listing reflects your brand identity and converts in competitive marketplaces.",
+      description: "From Amazon SEO to dynamic creative optimization, Burac.ai guarantees every listing reflects your brand identity and converts in competitive marketplaces. ",
       bgColor: "bg-secondary" as const,
       textColor: "#333333",
       iconColor: "invert(0)",
@@ -139,7 +216,7 @@ const amazonWorkWithData = {
     {
       icon: Layer11.src,
       title: "Full-Funnel Intelligence Strategy",
-      description: "We activate every layer of Amazon’s ad tech — from search to DSP — powered by AI learning models that refine targeting, spend, and performance in real time.",
+      description: "We activate every layer of Amazon’s ad tech — from search to DSP — backed by AI learning models that refine targeting, spend, and performance in real time. ",
       bgColor: "bg-primary" as const,
       textColor: "#ffffff",
       iconColor: "invert(1)",
@@ -148,7 +225,7 @@ const amazonWorkWithData = {
     {
       icon: Layer1.src,
       title: "Unified DTC + Amazon Growth",
-      description: "Burac.ai integrates data from DTC, Amazon, and retail to reveal true impact across every channel — driving clarity, growth, and efficiency at scale.",
+      description: "Burac.ai unifies data from DTC, Amazon, and retail to demonstrate genuine effect across every channel – providing clarity, growth, and efficiency at scale.",
       bgColor: "bg-dark" as const,
       textColor: "#ffffff",
       iconColor: "invert(1)",
@@ -159,8 +236,8 @@ const amazonWorkWithData = {
 
 const amazonServicesData = {
   badge: "Our Amazon Services",
-  title: "Intelligent growth strategies for every storefront.",
-  description: "Burac.ai’s AI platform ensures your brand captures new customers, increases market share, and grows profitably across every channel.",
+  title: " Intelligent growth methods for every retailer.",
+  description: "Burac.ai’s AI platform ensures your brand grabs new customers, increases market share, and expands financially across every channel. ",
   showButton: true,
   buttonText: "Request your free audit",
   buttonUrl: "/workwithus/",
@@ -168,15 +245,15 @@ const amazonServicesData = {
   items: [
     {
       title: "01 Analyze & Prioritize",
-      description: "AI-powered audits uncover high-impact growth opportunities across Amazon and retail. We map strategies using real-time KPIs, timelines, and trend models to accelerate profitable outcomes."
+      description: "AI-powered audits reveal high-impact development opportunities across Amazon and retail.  We map strategies utilizing real-time KPIs, timetables, and trend models to accelerate lucrative outcomes. "
     },
     {
       title: "02 Align & Activate",
-      description: "We synchronize your Amazon strategy with full-funnel ecommerce goals — aligning data, creative, and media execution for cohesive, omnichannel growth."
+      description: "We coordinate your Amazon approach with full-funnel ecommerce goals – harmonizing data, creative, and media execution for seamless, multichannel development. "
     },
     {
       title: "03 Measure, Learn, Evolve",
-      description: "Our AI continuously analyzes performance signals, adjusts spend, and evolves tactics — ensuring each campaign performs better than the last."
+      description: "Our AI continuously monitors performance signals, adjusts spend, and improves tactics — guaranteeing each campaign succeeds better than the last."
     }
   ]
 };
