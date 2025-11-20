@@ -11,13 +11,13 @@ import ServicesComponent from './servicescomps/services';
 import FadeAnimation from './servicescomps/fadeanimaion';
 import Clientlogo from "../strategic-consulting/clientlogo";
 import Difference from './servicescomps/difference';
-import image1 from "../programmatic-advertising-agency/images/CTV-768x768.jpg"
-import image2 from "../programmatic-advertising-agency/images/Cross-Channel-Media-Planning-Strategy-768x768.jpg"
-import image3 from "../programmatic-advertising-agency/images/Display-and-Native-768x768.jpg"
-import image4 from "../programmatic-advertising-agency/images/DOOH-768x768.jpg"
-import image5 from "../programmatic-advertising-agency/images/Direct-Mail-768x768.jpg"
-import image6 from "../programmatic-advertising-agency/images/Instream_Outstream-768x768.jpg"
-import image7 from "../programmatic-advertising-agency/images/Omnichannel-Excellence-768x768.jpg"
+import image1 from "./programmatic-advertising-agency/images/CTV-768x768.jpg"
+import image2 from "./programmatic-advertising-agency/images/Cross-Channel-Media-Planning-Strategy-768x768.jpg"
+import image3 from "./programmatic-advertising-agency/images/Display-and-Native-768x768.jpg"
+import image4 from "./programmatic-advertising-agency/images/DOOH-768x768.jpg"
+import image5 from "./programmatic-advertising-agency/images/Direct-Mail-768x768.jpg"
+import image6 from "./programmatic-advertising-agency/images/Instream_Outstream-768x768.jpg"
+import image7 from "./programmatic-advertising-agency/images/Omnichannel-Excellence-768x768.jpg"
 
 
 const servicesHeroSectionData = {
