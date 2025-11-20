@@ -12,8 +12,7 @@ export default function mainprivate() {
           </div>
           <div className="text">
             <p>
-              At Burac.ai, we’re more than a digital partner — we’re your AI-powered growth and diligence ally.
-              Our dedicated Private Equity practice has one mission: to accelerate portfolio performance and de-risk investments through intelligent, data-driven marketing analysis.With Burac Core, our proprietary AI platform, we empower private equity groups and capital partners to expose untapped opportunity, validate thesis assumptions, and identify hidden growth levers that directly influence valuation and investment outcomes.
+              We're not just a digital partner at Burac.ai; we're also your AI-powered growth and diligence partner. The goal of our specialist Private Equity business is to speed up portfolio performance and lower the risk of investments through smart, data-driven marketing analysis.With Burac Core, our own AI platform, we help private equity groups and capital partners find hidden growth levers that directly affect valuation and investment outcomes, as well as find untapped opportunities and test thesis assumptions.
             </p>
           </div>
           <a

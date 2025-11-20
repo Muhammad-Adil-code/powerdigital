@@ -12,8 +12,7 @@ export default function technology() {
         </div>
         <div className="paragraph">
           <p>
-            Burac Core, our proprietary AI engine, sits at the heart of every engagement.
-Built for private equity precision, it fuses marketing data, business performance, and predictive analytics to enhance valuation confidence and investment certainty.
+            Burac Core, our proprietary AI engine, sits at the center of every engagement.  Built for private equity precision, it blends marketing data, business performance, and predictive analytics to boost valuation confidence and investment certainty.
           </p>
         </div>
       </div>
@@ -24,7 +23,7 @@ Built for private equity precision, it fuses marketing data, business performanc
             <div className="text">
               <h3>Precise Marketing Performance Analysis:</h3>
               <p>
-                Burac Core delivers granular performance insights across digital, paid, organic, and CRM ecosystems — revealing which levers move the needle and where efficiency gains can multiply EBITDA.
+                Burac Core gives detailed performance insights across digital, paid, organic, and CRM ecosystems – exposing which levers move the needle and where efficiency gains can quadruple EBITDA.
               </p>
             </div>
           </div>
@@ -32,7 +31,7 @@ Built for private equity precision, it fuses marketing data, business performanc
             <div className="text">
               <h3>Data-Driven Valuation Increases:</h3>
               <p>
-                Through advanced benchmarking and predictive modeling, Burac Core identifies and quantifies the marketing factors most likely to increase enterprise value, ensuring partners capture measurable growth upside.
+                Through advanced benchmarking and predictive modeling, Burac Core identifies and quantifies the marketing elements most likely to boost business value, guaranteeing partners realize measurable growth upside.
               </p>
             </div>
           </div>
@@ -40,7 +39,7 @@ Built for private equity precision, it fuses marketing data, business performanc
             <div className="text">
               <h3>Significant Risk Reduction</h3>
               <p>
-                By integrating first-party and third-party datasets, our AI enables decisions grounded in evidence — not assumptions — reducing execution risk and improving confidence in both acquisition and value creation phases.
+                By integrating first-party and third-party datasets, our AI enables decisions anchored in evidence — not assumptions — lowering execution risk and enhancing confidence in both acquisition and value creation stages.
               </p>
             </div>
           </div>

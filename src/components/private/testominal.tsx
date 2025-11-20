@@ -16,7 +16,7 @@ export default function testominal() {
           <div className="note__text">
             <p>
               <em>
-                “Burac.ai is redefining how private equity evaluates marketing performance. Their insights gave us clarity on true growth levers across our portfolio and validated our investment theses with measurable proof.”
+                “Burac.ai is redefining how private equity evaluates marketing performance.  Their insights gave us clarity on actual growth levers throughout our portfolio and supported our investment theses with measurable proof.”
               </em>
             </p>
           </div>
