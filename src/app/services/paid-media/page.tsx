@@ -11,6 +11,16 @@ import LearnMore from '../maincomonents/learnmore';
 import WhySection from '../maincomonents/whysection';
 import WorkWith from '../maincomonents/workwith';
 import Services from '../maincomonents/Services';
+import image1 from "./images/Paid-Search.webp"
+import image2 from "./images/Bing-Ads-768x768.jpg"
+import image3 from "./images/Local-Services-768x768.jpg"
+import image4 from "./images/Local-Services-768x768.jpg"
+import image5 from './images/Amazon-Ads-768x430.jpg'
+import image6 from './images/Performance-Max-768x768.jpg'
+import image7 from './images/Standard-Shopping-768x768.jpg'
+import image8 from './images/Programmatic-Advertising-768x768.jpg'
+import image9 from './images/Remarketing-Strategy-768x768 (1).jpg'
+import image10 from './images/Remarketing-Strategy-768x768.jpg'
 
 const HeroSectionData = {
     badge: "GROWTH MARKETING",
@@ -18,7 +28,7 @@ const HeroSectionData = {
     description: "We design and manage PPC campaigns engineered for measurable, sustainable growth.",
     buttonText: "Get a Proposal",
     buttonUrl: "#",
-    image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Paid-Search.png",
+    image: image1.src,
     imageAlt: "Amazon Marketing Services"
 };
 
@@ -29,7 +39,7 @@ const WorkWithData = {
         "With over a decade of PPC experience serving 300+ clients across diverse industries, our data-driven strategies deliver results at every stage of the customer journey, from awareness to conversion."
     ],
     buttonText: "Get in touch",
-    buttonUrl: "https://powerdigitalmarketing.com/work-with-us/",
+    buttonUrl: " /workwithus/",
     cards: [
         {
             icon: ServiceIcon1.src,
@@ -67,7 +77,7 @@ const ServicesData = {
     description: "Comprehensive PPC strategies under one roof, from planning to performance optimization.",
     showButton: false,
     buttonText: "Get a free marketing audit",
-    buttonUrl: "https://powerdigitalmarketing.com/work-with-us/",
+    buttonUrl: " /workwithus/",
     layout: "2-per-row" as const,
     items: [
         {
@@ -94,7 +104,7 @@ const CardSliderData = [
         id: "paid-search",
         title: "Paid Search (Google Ads)",
         description: "Capture high-intent search traffic, maximize visibility for top keywords, and drive visitors to your most important pages.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Paid-Search-768x768.jpg",
+        image: image10.src,
         imageAlt: "Paid Search (Google Ads)",
         bgColor: "bg-white" as const
     },
@@ -102,7 +112,7 @@ const CardSliderData = [
         id: "google-shopping",
         title: "Google Shopping",
         description: "Showcase the right products to the right customers, boosting visibility and purchase intent through targeted ad placements.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Standard-Shopping-768x768.jpg",
+        image: image7.src,
         imageAlt: "Standard shopping (Google Shopping)",
         bgColor: "bg-secondary" as const
     },
@@ -110,7 +120,7 @@ const CardSliderData = [
         id: "performance-max",
         title: "Performance Max Ads",
         description: "Guide users across the full journey, reaching them across multiple Google networks to increase conversions and revenue.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Performance-Max-768x768.jpg",
+        image: image6.src,
         imageAlt: "Performance Max Ads",
         bgColor: "bg-primary" as const
     },
@@ -118,7 +128,7 @@ const CardSliderData = [
         id: "local-service-ads",
         title: "Local Service Ads",
         description: "Get in front of local customers searching for your services, build trust through verified reviews, and drive instant bookings.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Local-service-ads-768x768.jpg",
+        image: image4.src,
         imageAlt: "Local Service Ads",
         bgColor: "bg-white" as const
     },
@@ -126,7 +136,7 @@ const CardSliderData = [
         id: "bing-ads",
         title: "Bing Ads",
         description: "Reach additional audiences with less competition and lower CPC, diversifying your paid media strategy for incremental results.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Bing-Ads-768x768.jpg",
+        image: image2.src,
         imageAlt: "Bing Ads",
         bgColor: "bg-secondary" as const
     },
@@ -134,13 +144,13 @@ const CardSliderData = [
         id: "youtube-advertising",
         title: "YouTube Advertising",
         description: "Leverage video content to engage viewers, capturing attention and driving conversions with precise audience targeting.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Youtube-Advertising-768x768.jpg",
+        image: image8.src,
         imageAlt: "YouTube advertising",
         bgColor: "bg-primary" as const,
         links: [
             {
                 text: "Learn more about YouTube advertising",
-                url: "https://powerdigitalmarketing.com/services/paid-media-youtube-advertising/"
+                url: " /services/paid-media-youtube-advertising/"
             }
         ]
     },
@@ -148,7 +158,7 @@ const CardSliderData = [
         id: "display-ads",
         title: "Display Ads",
         description: "Increase brand awareness using visually compelling creatives that reach relevant audiences across websites and apps.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Local-Services-768x768.jpg",
+        image: image3.src,
         imageAlt: "Display ads",
         bgColor: "bg-white" as const
     },
@@ -156,7 +166,7 @@ const CardSliderData = [
         id: "remarketing-strategy",
         title: "Remarketing Strategy",
         description: "Reengage potential customers with personalized messaging that addresses their needs, boosting conversion and recall.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Remarketing-Strategy-768x768.jpg",
+        image: image9.src,
         imageAlt: "Remarketing strategy",
         bgColor: "bg-secondary" as const
     },
@@ -164,7 +174,7 @@ const CardSliderData = [
         id: "programmatic-advertising",
         title: "Programmatic Advertising",
         description: "Gain precise, real-time control over ad placements using algorithmic optimization to maximize ROI and audience engagement.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Programmatic-Advertising-768x768.jpg",
+        image: image5.src,
         imageAlt: "Programmatic advertising",
         bgColor: "bg-primary" as const
     },
@@ -172,13 +182,13 @@ const CardSliderData = [
         id: "amazon-advertising",
         title: "Amazon Advertising",
         description: "Increase visibility and purchase intent on Amazon through targeted campaigns that reach shoppers at the right time.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Amazon-Ads-768x430.jpg",
+        image: image10.src,
         imageAlt: "Amazon advertising",
         bgColor: "bg-white" as const,
         links: [
             {
                 text: "Amazon marketing services",
-                url: "https://powerdigitalmarketing.com/services/amazon-marketing/"
+                url: " /services/amazon-marketing/"
             }
         ]
     }
@@ -188,7 +198,7 @@ const WhySectionData = {
     badge: "Why Power?",
     title: "By partnering with us, you get:",
     buttonText: "Get a free marketing audit",
-    buttonUrl: "https://powerdigitalmarketing.com/work-with-us/",
+    buttonUrl: " /workwithus/",
     introText: "",
     contentItems: [
         {
@@ -196,8 +206,8 @@ const WhySectionData = {
             content: [
                 "Paid media powered by our proprietary Nova platform, enabling data-driven PPC strategies, precise targeting, and smarter budget allocation to maximize ROI.",
                 "Focus on growth and revenue rather than the complexity of PPC, providing clear strategies that directly impact your bottom line.",
-                "Expertise in emerging channels like <a href=\"https://powerdigitalmarketing.com/services/programmatic-advertising-agency/\" target=\"_blank\" rel=\"noopener\">programmatic advertising</a> and connected TV to stay ahead of competitors.",
-                "Strategic optimization using <a href=\"https://powerdigitalmarketing.com/services/cro-conversion-rate-optimization/\" target=\"_blank\" rel=\"noopener\">conversion rate optimization</a> from experienced digital leaders.",
+                "Expertise in emerging channels like <a href=\" /services/programmatic-advertising-agency/\" target=\"_blank\" rel=\"noopener\">programmatic advertising</a> and connected TV to stay ahead of competitors.",
+                "Strategic optimization using <a href=\" /services/cro-conversion-rate-optimization/\" target=\"_blank\" rel=\"noopener\">conversion rate optimization</a> from experienced digital leaders.",
                 "Agility to pivot as audience behavior changes, ensuring campaigns stay effective and your business remains competitive."
             ]
         }
@@ -242,8 +252,8 @@ const LearnMoreData = {
         {
             question: "How does paid media amplify brand presence?",
             answer: [
-                "Paid media boosts visibility and engagement across digital channels. Through strategic targeting, creatives, and platforms like <a href=\"https://powerdigitalmarketing.com/services/paid-social-media/\">paid social media</a>, we drive brand awareness, engagement, and measurable growth.",
-                "Unlock Your Most Profitable Customer Segments. <a href=\"https://powerdigitalmarketing.com/resources/who-are-your-most-profitable-customers/?utm_campaign__c=2025_Content_PC_HS&content_download_tag=PC_HS_2025\">Get the guide</a>"
+                "Paid media boosts visibility and engagement across digital channels. Through strategic targeting, creatives, and platforms like <a href=\" /services/paid-social-media/\">paid social media</a>, we drive brand awareness, engagement, and measurable growth.",
+                "Unlock Your Most Profitable Customer Segments. <a href=\" /resources/who-are-your-most-profitable-customers/?utm_campaign__c=2025_Content_PC_HS&content_download_tag=PC_HS_2025\">Get the guide</a>"
             ]
         },
         {
@@ -283,7 +293,7 @@ const LearnMoreData = {
 const PaidMediaPage = () => {
     return (
         <>
-                <Fullheader  />
+            <Fullheader />
             <main>
                 <HeroSection data={HeroSectionData} />
 
