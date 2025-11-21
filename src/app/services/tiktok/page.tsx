@@ -91,23 +91,23 @@ const WhySectionData = {
 };
 const LearnMoreData = {
     badge: "Learn more",
-    title: "Learn more about Burac.ai",
-    description: "Your AI Marketing Questions Answered: Automate, Analyze, and Accelerate.",
+    title: "Curious how TikTok marketing can boost your brand? ",
+    description: "Explore our strategy and discover how we generate compelling content and utilize the power of TikTok trends to amplify your message, enhance your brand’s visibility, and drive measurable growth. Connect with us today to start your road toward transformative digital marketing success, backed by unique techniques and a deep understanding of TikTok’s dynamic platform. Let us help you transform imagination into conversions.",
     faqs: [{
-        question: "Why use Burac.ai over traditional agencies?",
-        answer: ["Burac.ai integrates automation, predictive modeling, and AI learning — allowing your brand to move faster, spend smarter, and scale sustainably."]
+        question: "What is a TikTok agency? ",
+        answer: ["A TikTok Ads agency is an organization that helps businesses attain their goals by exploiting the possibilities of this expanding social platform.  Through establishing specialized ads and tactics, TikTok agencies try to offer optimal ROI and engagement with customers.  By researching consumer patterns and preferences, the finest TikTok firms can build ads that resonate with the target demographic while keeping on-brand.  In addition to building campaigns and developing content creation strategies, several firms offer services such as influencer management and analytics as part of their influencer marketing agency function."]
     }, {
-        question: "Can AI replace human creativity?",
-        answer: ["Not replace — enhance.   Our AI technologies magnify creative approach, identifying what works and expanding it smartly for optimal performance."]
+        question: "Why should I advertise on TikTok? ",
+        answer: ["TikTok is a famous social media network with over 1 billion users globally, making it a perfect platform for firms to advertise on.  The program offers numerous types of content formats, including short-form films, audio samples, photographs, text, polls, and hashtag challenges, allowing firms to produce enticing adverts that will engage their target audience.  With the appropriate strategy in place, businesses can swiftly raise their visibility, attract customers, and boost brand awareness."]
     }, {
-        question: "How does AI improve ad performance?",
-        answer: ["Our platform analyzes millions of data points in real time to optimize bids, audiences, and creatives — ensuring your ROI improves continuously."]
+        question: "How do TikTok Ads work? ",
+        answer: ["TikTok Ads is a pay-per-view platform that allows advertisers to tailor their message to specific individuals based on age, geography, and interests.  Advertisers can pick between six alternative ad formats—branded hashtag challenges, branded effects, sponsored lens campaigns, in-feed native video advertisements, top view ads, and branded effects carousel—which enable them to engage with their audience in different ways."]
     }, {
-        question: "Can Burac.ai connect to my existing tools?",
-        answer: ["Yes.   Burac.ai integrates seamlessly with major platforms — from Google Ads to Meta and Amazon — to unify your marketing performance data."]
+        question: "How do I know TikTok is good for my company? ",
+        answer: ["The first thing you should evaluate before spending time and money on a TikTok marketing campaign is the demographics of the platform and whether they correspond with your target audience.  It is also vital to evaluate whether your target demographic is already engaged on TikTok and connecting with businesses.  If your competitors are having success on the platform, it may be beneficial for you to join them and take advantage of the same prospects.  If they are not enjoying success, it may be an indicator that a TikTok campaign isn’t suited for your brand at this time, or it could be an opportunity to be the first in your industry on the site."]
     }, {
-        question: "What kind of reporting do I get?",
-        answer: ["You’ll get live dashboards powered by Burac.ai’s analytics layer, delivering transparent, real-time insight into performance, spend, and growth metrics."]
+        question: "Who uses TikTok?",
+        answer: ["According to Statista, most TikTok users are between 18 and 24 years old, with 42% of all users falling into this age range.  In addition, 31% of TikTok users are 25-34 years old, 13% are 35-44 years old, 7% are 45-54 years old, and 4% are 55+ years old.  Therefore, it’s apparent that younger generations make up the bulk of users on TikTok.  This data shows TikTok’s popularity among younger audiences, who are essential in influencing trends and engaging with digital content."]
     }]
 };
 

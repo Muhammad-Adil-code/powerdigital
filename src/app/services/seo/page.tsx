@@ -12,13 +12,15 @@ import WhySection from '../maincomonents/whysection';
 import WorkWith from '../maincomonents/workwith';
 import Services from '../maincomonents/Services';
 
+import image1 from './images/GROWTH-MARKETING-_-Right.webp'
+
 const HeroSectionData = {
     badge: "GROWTH MARKETING",
     title: "Award-Winning SEO Marketing Agency",
-    description: "We’ve helped leading and emerging brands scale their traffic and revenue organically for over a decade with our experience in SEO consulting.",
+    description: "We’ve helped top and developing brands scale their traffic and revenue organically for over a decade with our knowledge in seo consultancy.",
     buttonText: "Talk to an SEO Expert",
-    buttonUrl: "#",
-    image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/10/GROWTH-MARKETING-_-Right.png",
+    buttonUrl: "/workwithus/",
+    image: image1.src,
     imageAlt: "SEO Marketing Services"
 };
 
@@ -26,17 +28,17 @@ const WorkWithData = {
     badge: "Work with Burac AI",
     title: "Strategic PPC & SEO Management Services",
     paragraphs: [
-        "Today's customer doesn't distinguish between buying online, on Amazon, or at a physical store. What matters is a frictionless, convenient and accessible shopping experience, regardless of time and place.",
-        "For many brands, orchestrating a true customer-centric experience from digital awareness through conversion is challenging. DTC and retail divisions often operate in silos, and most retail marketing partners only cover a slice of the journey.",
-        "<b>Burac AI unifies retail, DTC, and Amazon digital marketing under one roof, driving brand awareness and profitable sales growth across channels and tactics.</b>"
+        "Today's customer doesn't distinguish between shopping online, on Amazon, or at a real store.  What matters is a frictionless, convenient and accessible buying experience, regardless of time and place.",
+        "For many organizations, creating a real customer-centric experience from digital awareness to conversion is challenging.  DTC and retail divisions generally work in silos, and most retail marketing partners only cover a portion of the trip. ",
+        "<b>Burac AI unites retail, DTC, and Amazon digital marketing under one roof, boosting brand awareness and lucrative sales growth across channels and methods. </b>"
     ],
     buttonText: "Get in touch",
-    buttonUrl: "https://powerdigitalmarketing.com/work-with-us/",
+    buttonUrl: "/workwithus/",
     cards: [
         {
             icon: ServiceIcon1.src,
             title: "Authentic Brand Experience Across Touchpoints",
-            description: "Product mix consulting, product page optimization & Amazon SEO, Brand Store optimization & more – we ensure your Amazon presence is true to your brand and converts in a crowded marketplace.",
+            description: "Product mix consultancy, product page optimization & Amazon SEO, Brand Store optimization & more - we ensure your Amazon presence is true to your brand and converts in a congested marketplace. ",
             bgColor: "bg-secondary" as const,
             textColor: "#333333",
             iconColor: "invert(0)",
@@ -45,7 +47,7 @@ const WorkWithData = {
         {
             icon: Layer11.src,
             title: "Full-Funnel Media Strategy",
-            description: "We employ Amazon's full advertising arsenal across search, DSP and Amazon Marketing Cloud to fuel growth. From media planning & ongoing optimization to advanced measurement capabilities that continuously calibrate.",
+            description: "We leverage Amazon's full advertising arsenal across search, DSP and Amazon Marketing Cloud to accelerate growth.  From media planning & ongoing optimization to advanced measurement capabilities that continuously calibrate. ",
             bgColor: "bg-primary" as const,
             textColor: "#ffffff",
             iconColor: "invert(1)",
@@ -54,7 +56,7 @@ const WorkWithData = {
         {
             icon: Layer1.src,
             title: "Strategic DTC and Amazon Alignment",
-            description: "Holistic strategies that connect the dots between channels and uncover the true impact of your marketing across DTC, Amazon, and retail revenue streams.",
+            description: "Holistic tactics that connect the dots between channels and identify the full impact of your marketing across DTC, Amazon, and retail revenue streams.",
             bgColor: "bg-dark" as const,
             textColor: "#ffffff",
             iconColor: "invert(1)",
@@ -65,20 +67,20 @@ const WorkWithData = {
 
 const ServicesData = {
     badge: "Our Amazon Services",
-    title: "Customized growth strategies for every storefront.",
-    description: "Our strategies ensure your company is acquiring new customers, capturing market share, and positioned properly for long-term growth.",
+    title: "Customized growth plans for every storefront.",
+    description: "Our strategies ensure your firm is attracting new consumers, capturing market share, and positioned properly for long-term success. ",
     showButton: true,
     buttonText: "Get a free marketing audit",
-    buttonUrl: "https://powerdigitalmarketing.com/work-with-us/",
+    buttonUrl: "/workwithus/",
     layout: "3-per-row" as const,
     items: [
         {
             title: "01 Prioritize & Plan",
-            description: "Identify the highest impact Amazon and retail marketing strategies to implement based on audit results & brand goals. Once we've identified your final destination, we calculate turn-by-turn directions. Using your KPIs, timeline, and industry trends, we'll outline the most efficient path and navigate the competitive landscape."
+            description: "Identify the most impact Amazon and retail marketing strategies to adopt based on audit results & brand goals.  Once we've determined your final location, we calculate turn-by-turn directions.  Using your KPIs, timetable, and market trends, we'll create the most efficient approach and navigate the competitive landscape. "
         },
         {
             title: "02 Align & Grow",
-            description: "Synchronize your Amazon marketing strategy with your brand's holistic ecommerce and/or B&M strategy, from product mix to media activation. Implement synergistic cross-channel strategies & omnichannel measurement techniques to drive overall brand growth."
+            description: "Synchronize your Amazon marketing approach with your brand's holistic ecommerce and/or B&M strategy, from product mix to media activation.  Implement synergistic cross-channel strategy & omnichannel measuring tools to drive overall brand growth. "
         },
         {
             title: "03 Measure, Iterate, Repeat",
@@ -165,17 +167,17 @@ const CardSliderData = [
 
 const WhySectionData = {
     badge: "Why Burac AI?",
-    title: "Our team of experts across all major ecommerce channels take a customized, iterative and adaptive approach to your success on Amazon and overall growth as a brand.",
+    title: "Our team of professionals across all key ecommerce channels take a tailored, iterative and adaptive approach to your success on Amazon and overall growth as a business. ",
     buttonText: "Get a free marketing audit",
-    buttonUrl: "https://powerdigitalmarketing.com/work-with-us/",
-    introText: "By partnering with us, you get:",
+    buttonUrl: "/workwithus/",
+    introText: "By collaborating with us, you get:",
     contentItems: [
         {
             type: "list" as const,
             content: [
-                "<b>Full-service management:</b> Amazon storefront, Amazon DSP, & product mix consulting, catalog management, troubleshooting, and more taken off your hands.",
-                "<b>A dedicated team of experts:</b> Hyper-focused SMEs with deep knowledge and robust experience in their specific online retail discipline.",
-                "<b>Adaptive Amazon marketplace strategies:</b> Continuous monitoring, measuring, and adapting to changes in your unique Amazon landscape."
+                "<b>Full-service management:</b> Amazon storefront, Amazon DSP, & product mix consultancy, catalog management, troubleshooting, and more taken off your hands.",
+                "<b>A committed team of experts:</b> Hyper-focused SMEs with profound knowledge and robust experience in their unique online retail discipline.",
+                "<b>Adaptive Amazon marketplace strategies:</b> Continuous monitoring, measuring, and adjusting to changes in your specific Amazon landscape."
             ]
         }
     ]
@@ -183,37 +185,57 @@ const WhySectionData = {
 
 const LearnMoreData = {
     badge: "Learn more",
-    title: "Learn more about Amazon.",
-    description: "Your Amazon Questions Answered: Optimize, Strategize, and Grow",
+    title: "Deep dive into SEO.",
+    description: "SEO isn't magic; it's engineering. Let's break down how Burac.ai helps you own your search real estate and stop renting audience attention.",
     faqs: [
         {
-            question: "What are the advantages of having 1 agency manage my DTC and Amazon marketing (vs. specialized shops)?",
+            question: "What is an SEO audit?",
             answer: [
-                "Cohesive & complementary strategies (1 agency goaled on overall success vs. sales channel success), brand image & messaging consistency, budget fluidity, nimbleness / agility – especially during critical periods like Q4, efficiency / ease of 1 go-to POC with a team behind them."
+                "Think of an SEO audit as a full-body X-ray for your website. At Burac.ai, we don't guess; we look under the hood. We analyze your technical setup, content, metadata, and backlink profile to see exactly what is holding you back from the top spot, then we build a roadmap to fix it."
             ]
         },
         {
-            question: "Will focusing on Amazon growth cannibalize sales from my website?",
+            question: "How long does SEO take?",
             answer: [
-                "Amazon accounts for nearly half of all ecommerce transactions in the US. Customers will continue to buy on Amazon, whether they end up purchasing your product or a competitor's. If your products aren't available where your customers want to shop, you're missing out on revenue.",
-                "With the right intentional, coordinated strategies in place, you can avoid cannibalization and drive overall brand growth. Burac AI specializes in growing Amazon sales & market share while deploying strategies that complement, instead of detract from, DTC efforts. Our team is goaled on overall brand success vs. retailer success."
+                "SEO is a marathon, not a sprint. Unlike paid ads where you turn a tap on and off, SEO typically takes 3 to 6 months to gain serious momentum. But once that flywheel starts spinning, the results are cumulative, compounding, and long-lasting."
             ]
         },
         {
-            question: "If Amazon sales are less profitable than my DTC sales, why would I invest to grow Amazon?",
+            question: "What are SEO keywords?",
             answer: [
-                "Amazon offers a sizable volume of high-intent customers to acquire – there's a high ceiling for revenue. That said, the fees charged for access to these customers often impacts profitability for brands.",
-                "Profitability is a key consideration at Burac AI when tailoring Amazon strategy for brands. We first evaluate strategies to improve profitability, then take a next-best-dollar approach, balancing higher traffic and conversion on Amazon with margin, often at the product level."
+                "Keywords are the bridge between what people are asking and what you are offering. It's not just about stuffing words onto a page; it's about understanding user intent. We help you speak the specific language your customers are typing into Google so you show up as the answer to their problems."
             ]
         },
         {
-            question: "Is paid Amazon advertising necessary? Can't I just list my products to capture that revenue?",
+            question: "What are SEO backlinks?",
             answer: [
-                "With 2,000+ new sellers joining Amazon every day, simply listing products isn't enough. Just like brick & mortar retail, nobody will buy your products if they can't find them on the shelves.",
-                "Burac AI takes a holistic approach to advertising for growth of your Amazon store, with strategies like search advertising to get in front of & convert interested shoppers in the digital aisle, combined with a full suite of digital marketing services to build brand intent before shoppers arrive at the online store."
+                "Think of a backlink as a vote of confidence from another website. If a reputable site links to you, it tells Google, 'Hey, these guys know their stuff.' The more high-quality 'votes' you get, the more authority you build, and the higher you rank."
+            ]
+        },
+        {
+            question: "What SEO tools do you use?",
+            answer: [
+                "We don't rely on intuition; we rely on data. We use a heavy-hitting tech stack including GA4, Semrush, Ahrefs, Moz, and Google Search Console. These tools give us the hard numbers on your competitors and your performance, allowing us to make surgical adjustments to your strategy."
+            ]
+        },
+        {
+            question: "How much does SEO cost?",
+            answer: [
+                "There's no sticker price because every website has different obstacles. A local business needs a different strategy than a global e-commerce brand. We audit your current standing first, then give you a transparent price based on exactly what you need to grow—no fluff, no hidden fees."
+            ]
+        },
+        {
+            question: "What is Local SEO?",
+            answer: [
+                "If you have a physical storefront, Local SEO is your lifeline. It’s the difference between showing up when someone searches 'near me' or being invisible. We optimize your listings and reputation to ensure you own your local neighborhood, digitally speaking."
+            ]
+        },
+        {
+            question: "Is SEO worth it?",
+            answer: [
+                "100%. Paid ads stop working the second you stop paying. SEO is an investment in digital real estate that you own. It builds long-term equity, driving organic traffic that doesn't cost you a cent per click, creating a sustainable foundation for your business."
             ]
         }
-        // Additional FAQs can be updated similarly
     ]
 };
 
@@ -221,7 +243,7 @@ const LearnMoreData = {
 const SeoPage = () => {
     return (
         <>
-            <Fullheader  />
+            <Fullheader />
             <main>
                 <HeroSection data={HeroSectionData} />
 

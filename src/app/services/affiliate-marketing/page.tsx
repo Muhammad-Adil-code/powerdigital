@@ -378,39 +378,76 @@ const WhySectionData = {
 };
 const LearnMoreData = {
     badge: "Learn more",
-    title: "Learn more about Amazon.",
-    description: "Your Amazon Questions Answered: Optimize, Strategize, and Grow",
-    faqs: [{
-        question: "What are the advantages of having 1 agency manage my DTC and Amazon marketing (vs. specialized shops)?",
-        answer: ["Cohesive & complementary strategies (1 agency focused on overall success vs. sales channel success), brand image & messaging consistency, budget flexibility, agility during peak periods, and efficiency of a single point of contact backed by a full team."]
-    }, {
-        question: "Will focusing on Amazon growth cannibalize sales from my website?",
-        answer: ["Amazon accounts for nearly half of all ecommerce transactions in the US.   Customers will continue to buy on Amazon, whether your stuff or a competitor's.   With planned, coordinated initiatives, you may minimize cannibalization and drive overall brand growth.   Burac AI specializes in growing Amazon sales & market share while complementing DTC efforts."]
-    }, {
-        question: "If Amazon sales are less profitable than my DTC sales, why invest in Amazon?",
-        answer: ["Amazon provides access to high-intent customers at scale.   Burac AI evaluates profitability first and balances revenue growth with margin optimization, often at the product level."]
-    }, {
-        question: "Is paid Amazon advertising necessary?",
-        answer: ["With thousands of new sellers daily, just listing products isn’t enough.   Burac AI takes a holistic approach to Amazon advertising, combining search, DSP, and cross-channel strategies to drive traffic and conversions."]
-    }, {
-        question: "What drives organic ranking on Amazon?",
-        answer: ["Organic ranking is influenced by keyword relevancy, sales velocity, fulfillment, reviews, and external traffic.   Burac AI integrates operational, creative, and advertising strategies to maximize rankings."]
-    }, {
-        question: "What are the advantages of Amazon DSP compared to other programmatic platforms?",
-        answer: ["DSP provides access to Amazon’s first-party data, exclusive inventory (Twitch, Prime Video), closed-loop attribution, and evolving in-store capabilities."]
-    }, {
-        question: "What is Amazon Marketing Cloud?",
-        answer: ["AMC is a privacy-safe clean room solution allowing custom analytics across Amazon and external data sources.   Burac AI uses AMC to generate actionable insights for customer understanding and marketing optimization."]
-    }, {
-        question: "Can I use Amazon Customer Reviews to improve strategy?",
-        answer: ["Yes, positive reviews improve credibility and ranking.   Burac AI leverages reviews to optimize listings, communications, and product development."]
-    }, {
-        question: "How do I enhance product visibility on Amazon?",
-        answer: ["Optimize listings, utilize Amazon Ads, and follow SEO best practices.   Burac AI identifies the right keywords, images, and ad strategies to boost visibility."]
-    }, {
-        question: "How can I track Amazon marketing performance?",
-        answer: ["Burac AI analyzes sales, conversion, and advertising metrics to continuously optimize strategies and improve results."]
-    }]
+    title: "Deep dive into Affiliate Marketing.",
+    description: "Affiliate marketing isn't just about handing out links; it's about building a network of partners who vouch for you. Let's look at how Burac.ai turns these partnerships into a measurable, scalable revenue stream.",
+    faqs: [
+        {
+            question: "What is Affiliate Marketing, really?",
+            answer: [
+                "Think of it as a partnership where you only pay for results. You team up with external partners—like publishers or creators—and you pay them a commission only when they successfully drive a sale or a specific action. It's low-risk, high-reward."
+            ]
+        },
+        {
+            question: "How is Burac.ai's approach different?",
+            answer: [
+                "We don't just throw spaghetti at the wall. Burac.ai uses a full-funnel approach backed by deep industry data. We analyze trends across huge datasets to tell you exactly *who* to partner with and *how* to scale, ensuring we aren't just guessing, but making decisions based on revenue, ROAS, and real transaction history."
+            ]
+        },
+        {
+            question: "How are Affiliate and PR connected?",
+            answer: [
+                "They're best friends. PR gets your name out there, but Affiliate incentivizes publishers to actually write about you. By combining them, we get your brand featured in top-tier reviews and 'best of' lists because those publishers know they'll earn from the traffic they send your way."
+            ]
+        },
+        {
+            question: "How do you measure success?",
+            answer: [
+                "We look at the numbers that actually pay the bills. While we track clicks and traffic, we obsess over Return on Ad Spend (ROAS), Average Order Value (AOV), and—most importantly—how much net revenue these partners are actually bringing in."
+            ]
+        },
+        {
+            question: "What types of partners are involved?",
+            answer: [
+                "It's a diverse ecosystem. We work with everyone from major media publications and trusted bloggers to content creators and cashback sites. Different partners hit different parts of the funnel, from introducing your brand to closing the final sale."
+            ]
+        },
+        {
+            question: "How long does it take to see results?",
+            answer: [
+                "Real relationships take a little time. While some wins happen quickly, a robust program usually needs a few months to hit its full stride. That time is spent negotiating the best rates, onboarding the right partners, and getting the tracking perfectly dialed in."
+            ]
+        },
+        {
+            question: "Can I track the ROI effectively?",
+            answer: [
+                "100%. That's the beauty of affiliate—it's arguably the most trackable channel. We show you exactly what every dollar spent brought back in revenue, so you never have to wonder if the program is profitable."
+            ]
+        },
+        {
+            question: "How do you ensure partners align with my brand?",
+            answer: [
+                "We are extremely picky. We vet every potential partner to make sure they vibe with your brand's mission and aesthetic. You shouldn't have to sacrifice your brand reputation for a few extra sales, and with us, you won't."
+            ]
+        },
+        {
+            question: "What happens if partners aren't performing?",
+            answer: [
+                "We don't set it and forget it. If a partner isn't pulling their weight, we dig into the data to find out why. We'll either help them optimize their content to convert better or, if necessary, swap them out for partners who will deliver results."
+            ]
+        },
+        {
+            question: "Do I have control over who promotes my brand?",
+            answer: [
+                "Absolutely. It’s your brand. While we do the heavy lifting of finding and managing the network, you always have the final 'yes' or 'no' on who gets to represent you."
+            ]
+        },
+        {
+            question: "How do commission structures work?",
+            answer: [
+                "We customize it to fit your margins. Whether it’s a flat fee or a percentage of the sale, we build a structure that motivates partners to push your product while keeping your profitability healthy."
+            ]
+        }
+    ]
 };
 
 

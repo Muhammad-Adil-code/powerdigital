@@ -12,6 +12,12 @@ import WhySection from '../maincomonents/whysection';
 import WorkWith from '../maincomonents/workwith';
 import Services from '../maincomonents/Services';
 
+import ContentMarketing from "./images/Content_Marketing.webp"
+import InteractiveContent from "./images/Interactive-Content-768x768.jpg"
+import Infographic from "./images/Infographic-768x768.jpg"
+import BlogPostCreation from "./images/Blog-Post-Creation-768x768.jpg"
+import ContentCreation from "./images/0_3-5-768x768.jpg"
+
 
 const HeroSectionData = {
     badge: "GROWTH MARKETING",
@@ -19,7 +25,7 @@ const HeroSectionData = {
     description: "Attract and inspire your audience with tailored, high-impact content. When the value is clear, choosing your brand just makes sense.",
     buttonText: "Get a Proposal",
     buttonUrl: "#",
-    image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Content_Marketing.png",
+    image: ContentMarketing.src,
     imageAlt: "Content Marketing Services"
 };
 
@@ -32,7 +38,7 @@ const WorkWithData = {
         "<b>Burac AI unifies retail, DTC, and Amazon digital marketing under one roof, driving brand awareness and profitable sales growth across channels and tactics.</b>"
     ],
     buttonText: "Get in touch",
-    buttonUrl: "https://powerdigitalmarketing.com/work-with-us/",
+    buttonUrl: "/workwithus/",
     cards: [
         {
             icon: ServiceIcon1.src,
@@ -70,7 +76,7 @@ const ServicesData = {
     description: "Our strategies ensure your company is acquiring new customers, capturing market share, and positioned properly for long-term growth.",
     showButton: true,
     buttonText: "Get a free marketing audit",
-    buttonUrl: "https://powerdigitalmarketing.com/work-with-us/",
+    buttonUrl: "/workwithus/",
     layout: "3-per-row" as const,
     items: [
         {
@@ -90,122 +96,72 @@ const ServicesData = {
 
 const CardSliderData = [
     {
-        id: "catalog-management",
-        title: "Catalog Management & Organic Strategy",
-        description: "Experts on your side to keep your account healthy, products live, and pull all organic visibility levers available to build & maintain a strong foundation for sustained growth.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Strategic-Roadmap-768x768.jpg",
-        imageAlt: "Catalog Management & Organic Strategy",
+        id: "blog-post-creation",
+        title: "Blog Post Creation",
+        description: "Long and short-form articles written, pitched and published for you.",
+        image: BlogPostCreation.src,
+        imageAlt: "Blog Post Creation",
         bgColor: "bg-white" as const
     },
     {
-        id: "product-page-creative",
-        title: "Product Page & Storefront Creative",
-        description: "Conversion-driving, Amazon-optimized assets from the product image carousel to the Amazon Brand Store that turn browsers into buyers.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Amazon-Ads-1-768x768.jpg",
-        imageAlt: "Product Page & Storefront Creative",
+        id: "premium-content-creation",
+        title: "Premium Content Creation",
+        description: "High-value assets such as lead magnets, whitepapers, and more, tailored to provide actionable insights for your target audience in impactful, data-driven formats.",
+        image: ContentCreation.src,
+        imageAlt: "Premium Content Creation",
         bgColor: "bg-secondary" as const
     },
     {
-        id: "seo-algorithm",
-        title: "SEO - Tuned to the Amazon Algorithm",
-        description: "Written content on the frontend and backend of your listings that maximizes product discoverability on the marketplace.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Conversion-Rates-768x768.jpg",
-        imageAlt: "SEO - Tuned to the Amazon Algorithm",
+        id: "infographic-copy-design",
+        title: "Infographic Copy and Design",
+        description: "Visually compelling and easy-to-digest infographics designed to simplify complex ideas and encourage sharing.",
+        image: Infographic.src,
+        imageAlt: "Infographic Copy and Design",
         bgColor: "bg-primary" as const
     },
     {
-        id: "ppc-advertising",
-        title: "Amazon PPC Search Advertising",
-        description: "Acquire & retain Amazon customers with adaptive search advertising strategy that puts business & bottom line impact first.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Optimization-Opportunities-768x768.jpg",
-        imageAlt: "Amazon PPC Search Advertising",
-        bgColor: "bg-white" as const
-    },
-    {
-        id: "dsp-advertising",
-        title: "Amazon DSP Advertising",
-        description: "Fuel the funnel for continuous growth with Amazon's powerful first-party customer data in the hands of seasoned Amazon programmatic display experts.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Executive-Strategy-768x768.jpg",
-        imageAlt: "Amazon DSP Advertising",
-        bgColor: "bg-secondary" as const
-    },
-    {
-        id: "omnichannel-strategies",
-        title: "Cutting-Edge Omnichannel Strategies",
-        description: "Customized cross-channel advertising that aligns your digital strategy with your customer's unique journey and leverages the strengths of non-Amazon channels, like our paid media marketing services, to grow Amazon revenue.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/12/pr_pdm_image-768x430.png",
-        imageAlt: "Cutting-Edge Omnichannel Strategies",
-        bgColor: "bg-primary" as const,
-        links: [
-            {
-                text: "paid media",
-                url: "https://powerdigitalmarketing.com/services/paid-media/"
-            },
-            {
-                text: "Download the Accelerator Guide",
-                url: "https://powerdigitalmarketing.com/resources/retail-media-networks-roi-accelerator/?utm_campaign__c=2025_Content_MROI&content_download_tag=MROI_2025"
-            }
-        ]
-    },
-    {
-        id: "measurement-solutions",
-        title: "Advanced Measurement Solutions",
-        description: "Amazon Marketing Cloud analytics and data science-backed incrementality testing to assess the true impact of Amazon marketing strategy and continuously iterate.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/12/0_0-1-768x768.jpg",
-        imageAlt: "Advanced Measurement Solutions",
+        id: "customer-journey-maps",
+        title: "Customer Journey Content Maps",
+        description: "Strategic frameworks that map your customer journey through audience insights and data. These tools enable tailored content delivery with precise, high-level topics designed to address specific problem-solution pairs, fostering meaningful engagement and measurable results.",
+        image: InteractiveContent.src,
+        imageAlt: "Customer Journey Content Maps",
         bgColor: "bg-white" as const
     }
 ];
 
 const LearnMoreData = {
     badge: "Learn more",
-    title: "Learn more about Content Marketing & Ecommerce.",
-    description: "Your Questions Answered: Optimize, Strategize, and Grow Your Brand",
+    title: "Deep dive into Content Marketing.",
+    description: "Content isn't just filler text; it's the voice of your brand and the fuel for your SEO. Let's explore how Burac.ai turns words and visuals into measurable assets that drive traffic and trust.",
     faqs: [
         {
-            question: "What are the advantages of having 1 agency manage my DTC and content marketing (vs. specialized shops)?",
+            question: "What is a content audit?",
             answer: [
-                "Cohesive & complementary strategies (1 agency focused on overall brand success vs. channel success), brand image & messaging consistency, budget fluidity, nimbleness / agility – especially during critical periods, and efficiency / ease of having a single point of contact with a team behind them."
+                "Think of a content audit as a spring cleaning for your website. Burac.ai reviews everything you've ever published to see what's working, what's outdated, and what's missing. We analyze your blogs, landing pages, and conversion points to build a strategy that cuts the fluff and focuses on performance."
             ]
         },
         {
-            question: "Will focusing on content marketing cannibalize sales from my existing channels?",
+            question: "What is an infographic?",
             answer: [
-                "Content marketing complements rather than cannibalizes existing sales channels. By creating targeted, high-value content, you can drive more traffic to your website, Amazon, or retail channels, and increase overall brand growth.",
-                "With the right coordinated strategies in place, Burac AI ensures that content supports all sales channels, amplifying reach, conversions, and customer engagement."
+                "An infographic is a shortcut for the brain. Since people process visuals 60,000 times faster than text, we use infographics to turn complex data or boring statistics into vibrant, easy-to-digest visual stories. They are highly shareable, making them perfect for boosting brand awareness on social media."
             ]
         },
         {
-            question: "If some channels are less profitable, why should I invest in content marketing?",
+            question: "What is the difference between long-form and short-form?",
             answer: [
-                "Content marketing builds long-term brand equity and drives high-intent customers, which can improve profitability over time. Strategic content investments balance traffic, engagement, and conversions with ROI, often measured at the campaign or product level."
+                "It comes down to intent. Long-form content (1,200+ words) is the heavy lifter for SEO—it proves to Google that you are an authority on a topic. Short-form content (around 700 words) is punchier, designed for quick engagement on social media or email. You need a healthy mix of both to succeed."
             ]
         },
         {
-            question: "Is paid promotion necessary for content marketing? Can't I just post content organically?",
+            question: "What is a content calendar?",
             answer: [
-                "Organic content alone often lacks reach due to competition and algorithmic limitations. Paid promotion amplifies visibility, ensuring your content reaches the right audience at the right time.",
-                "Burac AI combines organic content strategy with targeted paid campaigns to maximize reach, engagement, and conversions, creating a holistic growth approach."
+                "A content calendar is your sanity saver. It prevents the panic of 'what do we post today?' Burac.ai builds a roadmap that aligns with your product launches, seasonality, and customer personas, ensuring you are consistently publishing the right message at the right time without missing a beat."
             ]
         },
         {
-            question: "What drives content performance and engagement?",
+            question: "How does content marketing actually work?",
             answer: [
-                "Content performance is driven by relevance, value, timing, and distribution strategy. Optimized visuals, compelling messaging, proper SEO, and cross-channel amplification all contribute to engagement.",
-                "Burac AI continuously analyzes performance metrics to refine content, ensuring it resonates with your audience and drives measurable results."
-            ]
-        },
-        {
-            question: "Can I leverage customer feedback and reviews for content strategy?",
-            answer: [
-                "Absolutely. Customer feedback provides valuable insights into preferences, pain points, and brand perception. Using these insights, you can create targeted content that builds trust, enhances credibility, and strengthens brand loyalty."
-            ]
-        },
-        {
-            question: "How can I track the effectiveness of content marketing?",
-            answer: [
-                "Content marketing performance can be tracked through metrics such as website traffic, lead generation, social engagement, conversions, and ROI.",
-                "Burac AI uses advanced analytics and reporting to measure content performance, optimize campaigns in real-time, and ensure consistent growth across channels."
+                "Traditional ads interrupt; content marketing attracts. It works by giving value first—educating or entertaining your audience so they trust you. When they trust you, they buy from you. It’s the long game of building a relationship that turns casual readers into loyal revenue generators."
             ]
         }
     ]
@@ -216,7 +172,7 @@ const WhySectionData = {
     badge: "Why Burac AI?",
     title: "Our team of experts across all major ecommerce channels take a customized, iterative and adaptive approach to your success on Amazon and overall growth as a brand.",
     buttonText: "Get a free marketing audit",
-    buttonUrl: "https://powerdigitalmarketing.com/work-with-us/",
+    buttonUrl: "/workwithus/",
     introText: "By partnering with us, you get:",
     contentItems: [
         {

@@ -11,6 +11,14 @@ import LearnMore from '../maincomonents/learnmore';
 import WhySection from '../maincomonents/whysection';
 import WorkWith from '../maincomonents/workwith';
 import Services from '../maincomonents/Services';
+import image1 from './images/0_1-2-768x768.jpg'
+import image2 from './images/0_2-1-768x768.jpg'
+import image3 from './images/0_3-5-768x768.jpg'
+import image4 from './images/Best-Media-Matches1-768x768.jpg'
+import image5 from './images/Display-and-Native-768x768.jpg'
+import image6 from './images/Event-Opportunities-768x768.jpg'
+import image7 from './images/Possible-Story-Angles-768x768.jpg'
+import image8 from './images/Public_Relations.png'
 
 const HeroSectionData = {
     badge: "GROWTH MARKETING",
@@ -18,7 +26,7 @@ const HeroSectionData = {
     description: "With decades of experience launching the most disruptive brands, we know what it takes to create buzz, build lasting recognition, and turn customers into evangelists—all without compromise.",
     buttonText: "Get a Proposal",
     buttonUrl: "#",
-    image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Public_Relations.png",
+    image: image8.src,
     imageAlt: "Amazon Marketing Services"
 };
 
@@ -30,7 +38,7 @@ const WorkWithData = {
         "From top-tier outlets like The New York Times and Forbes to trendsetting publications such as Vogue and Food & Wine, we cultivate relationships that amplify your brand. With strong connections to media, affiliates, influencers, brand teams, and celebrity management, we create stories that resonate, cross platforms, and build lasting impact."
     ],
     buttonText: "Get in touch",
-    buttonUrl: "https://powerdigitalmarketing.com/work-with-us/",
+    buttonUrl: "/workwithus/",
     cards: [
         {
             icon: ServiceIcon1.src,
@@ -44,7 +52,7 @@ const WorkWithData = {
         {
             icon: Layer11.src,
             title: "Strategic Expertise",
-            description: "From traditional media relations to <a href=\"https://powerdigitalmarketing.com/services/affiliate-marketing/\" target=\"_blank\" rel=\"noopener\">affiliate marketing</a>, celebrity collaborations, and creative activations, we design integrated campaigns aligned with your broader marketing goals.",
+            description: "From traditional media relations to <a href=\"/services/affiliate-marketing/\" target=\"_blank\" rel=\"noopener\">affiliate marketing</a>, celebrity collaborations, and creative activations, we design integrated campaigns aligned with your broader marketing goals.",
             bgColor: "bg-secondary" as const,
             textColor: "#333333",
             iconColor: "invert(0)",
@@ -69,7 +77,7 @@ const ServicesData = {
     description2: "Our holistic approach integrates PR, affiliate, influencer, and marketing tactics to generate ongoing buzz and brand evangelism.",
     showButton: false,
     buttonText: "Get a free marketing audit",
-    buttonUrl: "https://powerdigitalmarketing.com/work-with-us/",
+    buttonUrl: "/workwithus/",
     layout: "3-per-row" as const,
     items: [
         {
@@ -104,7 +112,7 @@ const CardSliderData = [
         id: "media-relations",
         title: "Media Relations",
         description: "We craft compelling stories and secure the placements that make lasting impressions.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Event-Opportunities-768x768.jpg",
+        image: image6.src,
         imageAlt: "Media Relations",
         bgColor: "bg-white" as const
     },
@@ -112,7 +120,7 @@ const CardSliderData = [
         id: "campaigns-activations",
         title: "Campaigns + Activations",
         description: "Showstopping stunts, memorable live experiences, and viral moments that drive brand conversations.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Possible-Story-Angles-768x768.jpg",
+        image: image7.src,
         imageAlt: "Campaigns + Activations",
         bgColor: "bg-secondary" as const
     },
@@ -120,7 +128,7 @@ const CardSliderData = [
         id: "thought-leadership",
         title: "Thought Leadership",
         description: "Boost your brand’s authority through interviews, op-eds, speaking opportunities, and strategic features.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Best-Media-Matches1-768x768.jpg",
+        image: image5.src,
         imageAlt: "Thought Leadership",
         bgColor: "bg-primary" as const
     },
@@ -128,7 +136,7 @@ const CardSliderData = [
         id: "partnerships",
         title: "Partnerships",
         description: "Strategic collaborations across brands and categories that grow reach and enhance marketing impact.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2025/01/0_1-2-768x768.jpg",
+        image: image1.src,
         imageAlt: "Partnerships",
         bgColor: "bg-white" as const
     },
@@ -136,7 +144,7 @@ const CardSliderData = [
         id: "award-submissions",
         title: "Award Submissions",
         description: "We identify the best opportunities for your brand to gain recognition and credibility through awards.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Display-and-Native-768x768.jpg",
+        image: image4.src,
         imageAlt: "Award Submissions",
         bgColor: "bg-secondary" as const
     },
@@ -144,7 +152,7 @@ const CardSliderData = [
         id: "affiliate-marketing",
         title: "Affiliate Marketing",
         description: "Strategic integration with PR ensures top-of-funnel opportunities are maximized across consumer media.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2025/01/0_3-5-768x768.jpg",
+        image: image3.src,
         imageAlt: "Affiliate Marketing",
         bgColor: "bg-primary" as const
     },
@@ -152,7 +160,7 @@ const CardSliderData = [
         id: "corporate-crisis-communications",
         title: "Corporate + Crisis Communications",
         description: "Expert guidance and messaging support to navigate challenging situations and protect your brand’s reputation.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/12/0_2-1-768x768.jpg",
+        image: image2.src,
         imageAlt: "Corporate + Crisis Communications",
         bgColor: "bg-white" as const
     }
@@ -162,7 +170,7 @@ const WhySectionData = {
     badge: "Why Burac.ai ?",
     title: "Discover how Burac.ai PR elevates your brand.",
     buttonText: "Learn more about our Idea Shop",
-    buttonUrl: "https://powerdigitalmarketing.com/work-with-us/",
+    buttonUrl: "/workwithus/",
     introText: "",
     contentItems: [
         {
@@ -238,7 +246,7 @@ const LearnMoreData = {
         {
             question: "How can PR help during a product launch?",
             answer: [
-                "PR drives awareness for product launches by securing media coverage, leveraging <a href=\"https://powerdigitalmarketing.com/services/influencer-marketing/\">influencer marketing</a>, activating partnerships, and creating buzz through events and experiences."
+                "PR drives awareness for product launches by securing media coverage, leveraging <a href=\"/services/influencer-marketing/\">influencer marketing</a>, activating partnerships, and creating buzz through events and experiences."
             ]
         },
         {
@@ -267,7 +275,7 @@ const LearnMoreData = {
 const PublicRelationsPage = () => {
     return (
         <>
-            <Fullheader/>
+            <Fullheader />
             <main>
                 <HeroSection data={HeroSectionData} />
 
@@ -275,7 +283,7 @@ const PublicRelationsPage = () => {
                 <section className="text-banner bg-light">
                     <p>Burac.ai PR hits different.</p>
                     <h3>
-                       Where <span>art + science meet.</span>
+                        Where <span>art + science meet.</span>
                     </h3>
                 </section>
 

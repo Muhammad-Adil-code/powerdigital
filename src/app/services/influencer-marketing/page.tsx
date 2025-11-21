@@ -11,15 +11,20 @@ import LearnMore from '../maincomonents/learnmore';
 import WhySection from '../maincomonents/whysection';
 import WorkWith from '../maincomonents/workwith';
 import Services from '../maincomonents/Services';
-
+import image1 from './images/Influencer-Management-768x768.jpg'
+import image2 from './images/Full-Image-Rights-768x768.jpg'
+import image3 from './images/Legalities-Covered-768x768.jpg'
+import image4 from './images/0_3-5-768x768.jpg'
+import image5 from './images/Influencer-1.webp'
+import image6 from './images/Madison-1.png'
 
 const HeroSectionData = {
     badge: "GROWTH MARKETING",
     title: "Influencer Marketing Agency: Marketing that builds trust and amplifies your brand.",
     description: "Influencer marketing puts your brand in front of a captive audience that already trusts and respects the messenger.",
     buttonText: "Get a Proposal",
-    buttonUrl: "#",
-    image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Influencer-1.png",
+    buttonUrl: "/workwithus/",
+    image: image1.src,
     imageAlt: "Influencer Marketing Services"
 };
 
@@ -32,7 +37,7 @@ const WorkWithData = {
         "<b>Burac AI unifies retail, DTC, and influencer marketing under one roof, driving brand awareness and profitable sales growth across channels and tactics.</b>"
     ],
     buttonText: "Get in touch",
-    buttonUrl: "https://powerdigitalmarketing.com/work-with-us/",
+    buttonUrl: "/workwithus/",
     cards: [
         {
             icon: ServiceIcon1.src,
@@ -70,7 +75,7 @@ const ServicesData = {
     description: "Our strategies ensure your company is acquiring new customers, capturing market share, and positioned properly for long-term growth.",
     showButton: true,
     buttonText: "Get a free marketing audit",
-    buttonUrl: "https://powerdigitalmarketing.com/work-with-us/",
+    buttonUrl: "/workwithus/",
     layout: "3-per-row" as const,
     items: [
         {
@@ -90,78 +95,52 @@ const ServicesData = {
 
 const CardSliderData = [
     {
-        id: "catalog-management",
-        title: "Catalog Management & Organic Strategy",
-        description: "Experts on your side to keep your account healthy, products live, and pull all organic visibility levers to build & maintain a strong foundation for sustained growth.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Strategic-Roadmap-768x768.jpg",
-        imageAlt: "Catalog Management & Organic Strategy",
+        id: "influencer-management",
+        title: "Influencer Management",
+        description: "Let your dedicated Influencer marketing team sweat the small (and big) stuff for you. We’ll handle it all from start to finish.",
+        image: image2.src,
+        imageAlt: "Influencer Management",
         bgColor: "bg-white" as const
     },
     {
-        id: "product-page-creative",
-        title: "Product Page & Storefront Creative",
-        description: "Conversion-driving, Amazon-optimized and influencer-aligned assets that turn browsers into buyers.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Amazon-Ads-1-768x768.jpg",
-        imageAlt: "Product Page & Storefront Creative",
+        id: "performance-influencer",
+        title: "Performance Influencer",
+        description: "Take your Influencer partnerships to the next level, with ad-optimized content designed to drive measurable results across performance marketing channels.",
+        image: image3.src,
+        imageAlt: "Performance Influencer",
         bgColor: "bg-secondary" as const
     },
     {
-        id: "seo-algorithm",
-        title: "SEO - Tuned to the Amazon Algorithm",
-        description: "Written content on the frontend and backend of your listings that maximizes product discoverability on the marketplace.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Conversion-Rates-768x768.jpg",
-        imageAlt: "SEO - Tuned to the Amazon Algorithm",
+        id: "ambassador",
+        title: "Ambassador",
+        description: "Mesh your influencer and affiliate strategies, and incentivize your brand evangelists to promote your products, expand your reach, and drive engagement through trusted, real-world endorsements.",
+        image: image4.src,
+        imageAlt: "Ambassador",
         bgColor: "bg-primary" as const
     },
     {
-        id: "ppc-advertising",
-        title: "Amazon PPC Search Advertising",
-        description: "Acquire & retain Amazon customers with adaptive search advertising strategy that puts business & bottom line impact first.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Optimization-Opportunities-768x768.jpg",
-        imageAlt: "Amazon PPC Search Advertising",
+        id: "influencer-seeding",
+        title: "Influencer Seeding",
+        description: "Strategically gift products to handpicked influencers, promoting organic sharing, user-generated content creation, and authentic product reviews.",
+        image: image5.src,
+        imageAlt: "Influencer Seeding",
         bgColor: "bg-white" as const
     },
     {
-        id: "dsp-advertising",
-        title: "Amazon DSP Advertising",
-        description: "Fuel the funnel for continuous growth with Amazon's first-party data in the hands of seasoned programmatic display experts.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Executive-Strategy-768x768.jpg",
-        imageAlt: "Amazon DSP Advertising",
+        id: "influencer-events",
+        title: "Influencer Events",
+        description: "Facilitate gatherings where brands, creators, and influencers come together to collaborate, showcase products, and engage with their audiences through content creation and social media promotion",
+        image: image6.src,
+        imageAlt: "Influencer Events",
         bgColor: "bg-secondary" as const
     },
-    {
-        id: "omnichannel-strategies",
-        title: "Cutting-Edge Omnichannel Strategies",
-        description: "Customized cross-channel advertising that aligns your digital strategy with your customer's unique journey and leverages non-Amazon channels, including influencer campaigns, to grow revenue.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/12/pr_pdm_image-768x430.png",
-        imageAlt: "Cutting-Edge Omnichannel Strategies",
-        bgColor: "bg-primary" as const,
-        links: [
-            {
-                text: "paid media",
-                url: "https://powerdigitalmarketing.com/services/paid-media/"
-            },
-            {
-                text: "Download the Accelerator Guide",
-                url: "https://powerdigitalmarketing.com/resources/retail-media-networks-roi-accelerator/?utm_campaign__c=2025_Content_MROI&content_download_tag=MROI_2025"
-            }
-        ]
-    },
-    {
-        id: "measurement-solutions",
-        title: "Advanced Measurement Solutions",
-        description: "Amazon Marketing Cloud analytics and data science-backed incrementality testing to assess the true impact of Amazon and influencer marketing strategies and continuously iterate.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/12/0_0-1-768x768.jpg",
-        imageAlt: "Advanced Measurement Solutions",
-        bgColor: "bg-white" as const
-    }
 ];
 
 const WhySectionData = {
     badge: "Why Burac AI?",
     title: "Our team of experts across all major ecommerce channels takes a customized, iterative, and adaptive approach to your success on Amazon, influencer campaigns, and overall brand growth.",
     buttonText: "Get a free marketing audit",
-    buttonUrl: "https://powerdigitalmarketing.com/work-with-us/",
+    buttonUrl: "/workwithus/",
     introText: "By partnering with us, you get:",
     contentItems: [
         {
@@ -177,34 +156,75 @@ const WhySectionData = {
 
 const LearnMoreData = {
     badge: "Learn more",
-    title: "Learn more about Amazon & Influencer Marketing.",
-    description: "Your Questions Answered: Optimize, Strategize, and Grow",
+    title: "Deep dive into Affiliate Marketing.",
+    description: "Affiliate marketing isn't just about handing out links; it's about building a network of partners who vouch for you. Let's look at how Burac.ai turns these partnerships into a measurable, scalable revenue stream.",
     faqs: [
         {
-            question: "What are the advantages of having 1 agency manage my DTC, Amazon, and influencer marketing?",
+            question: "What is Affiliate Marketing, really?",
             answer: [
-                "Cohesive & complementary strategies (1 agency focused on overall success vs. sales channel success), brand image & messaging consistency, budget flexibility, agility during peak periods, and efficiency of a single point of contact backed by a full team."
+                "Think of it as a partnership where you only pay for results. You team up with external partners—like publishers or creators—and you pay them a commission only when they successfully drive a sale or a specific action. It's low-risk, high-reward."
             ]
         },
         {
-            question: "Will focusing on Amazon and influencer marketing cannibalize sales from my website?",
+            question: "How is Burac.ai's approach different?",
             answer: [
-                "Amazon accounts for nearly half of all ecommerce transactions in the US. Customers will continue to buy on Amazon. With intentional, coordinated strategies, you can avoid cannibalization and drive overall brand growth. Burac AI specializes in growing Amazon sales, influencer-driven revenue, and market share while complementing DTC efforts."
+                "We don't just throw spaghetti at the wall. Burac.ai uses a full-funnel approach backed by deep industry data. We analyze trends across huge datasets to tell you exactly *who* to partner with and *how* to scale, ensuring we aren't just guessing, but making decisions based on revenue, ROAS, and real transaction history."
             ]
         },
         {
-            question: "If Amazon and influencer sales are less profitable than my DTC sales, why invest?",
+            question: "How are Affiliate and PR connected?",
             answer: [
-                "Amazon and influencer campaigns provide access to high-intent audiences at scale. Burac AI evaluates profitability first and balances revenue growth with margin optimization, often at the product or campaign level."
+                "They're best friends. PR gets your name out there, but Affiliate incentivizes publishers to actually write about you. By combining them, we get your brand featured in top-tier reviews and 'best of' lists because those publishers know they'll earn from the traffic they send your way."
             ]
         },
         {
-            question: "Is paid Amazon or influencer advertising necessary?",
+            question: "How do you measure success?",
             answer: [
-                "With thousands of new sellers and content creators daily, just listing products or posting content isn’t enough. Burac AI takes a holistic approach combining search, DSP, and influencer strategies to drive traffic and conversions."
+                "We look at the numbers that actually pay the bills. While we track clicks and traffic, we obsess over Return on Ad Spend (ROAS), Average Order Value (AOV), and—most importantly—how much net revenue these partners are actually bringing in."
+            ]
+        },
+        {
+            question: "What types of partners are involved?",
+            answer: [
+                "It's a diverse ecosystem. We work with everyone from major media publications and trusted bloggers to content creators and cashback sites. Different partners hit different parts of the funnel, from introducing your brand to closing the final sale."
+            ]
+        },
+        {
+            question: "How long does it take to see results?",
+            answer: [
+                "Real relationships take a little time. While some wins happen quickly, a robust program usually needs a few months to hit its full stride. That time is spent negotiating the best rates, onboarding the right partners, and getting the tracking perfectly dialed in."
+            ]
+        },
+        {
+            question: "Can I track the ROI effectively?",
+            answer: [
+                "100%. That's the beauty of affiliate—it's arguably the most trackable channel. We show you exactly what every dollar spent brought back in revenue, so you never have to wonder if the program is profitable."
+            ]
+        },
+        {
+            question: "How do you ensure partners align with my brand?",
+            answer: [
+                "We are extremely picky. We vet every potential partner to make sure they vibe with your brand's mission and aesthetic. You shouldn't have to sacrifice your brand reputation for a few extra sales, and with us, you won't."
+            ]
+        },
+        {
+            question: "What happens if partners aren't performing?",
+            answer: [
+                "We don't set it and forget it. If a partner isn't pulling their weight, we dig into the data to find out why. We'll either help them optimize their content to convert better or, if necessary, swap them out for partners who will deliver results."
+            ]
+        },
+        {
+            question: "Do I have control over who promotes my brand?",
+            answer: [
+                "Absolutely. It’s your brand. While we do the heavy lifting of finding and managing the network, you always have the final 'yes' or 'no' on who gets to represent you."
+            ]
+        },
+        {
+            question: "How do commission structures work?",
+            answer: [
+                "We customize it to fit your margins. Whether it’s a flat fee or a percentage of the sale, we build a structure that motivates partners to push your product while keeping your profitability healthy."
             ]
         }
-        // Remaining FAQs can be updated similarly...
     ]
 };
 
@@ -212,7 +232,7 @@ const LearnMoreData = {
 const InfluencerMarketingPage = () => {
     return (
         <>
-            <Fullheader  />
+            <Fullheader />
             <main>
                 <HeroSection data={HeroSectionData} />
 

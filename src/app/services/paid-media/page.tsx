@@ -33,7 +33,7 @@ const HeroSectionData = {
 };
 
 const WorkWithData = {
-    badge: "Work with Power",
+    badge: "Work with Burac.ai",
     title: "Strategic PPC Management Services",
     paragraphs: [
         "With over a decade of PPC experience serving 300+ clients across diverse industries, our data-driven strategies deliver results at every stage of the customer journey, from awareness to conversion."
@@ -195,7 +195,7 @@ const CardSliderData = [
 ];
 
 const WhySectionData = {
-    badge: "Why Power?",
+    badge: "Why Burac.ai?",
     title: "By partnering with us, you get:",
     buttonText: "Get a free marketing audit",
     buttonUrl: " /workwithus/",

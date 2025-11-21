@@ -141,72 +141,65 @@ const WhySectionData = {
 
 const LearnMoreData = {
     badge: "Learn more",
-    title: "Learn more about AI Commerce Intelligence.",
-    description: "Your Marketplace Questions Answered: Automate, Optimize, and Scale.",
+    title: "Deep dive into Paid Social Media.",
+    description: "Ready to elevate your paid social game? Let's dive into how custom strategies can hit your goals—whether that's finding new customers or making every ad dollar count. See how Burac.ai streamlines your campaigns to drive actual results, not just vanity metrics.",
     faqs: [
         {
-            question: "Why unify DTC and retail marketing under one AI system?",
+            question: "What is a paid social audit?",
             answer: [
-                "Centralized AI strategy drives unified performance, improves efficiency, and maintains consistent branding. One adaptive system ensures seamless data sharing and smarter optimization across channels."
+                "Think of a paid social audit as a health checkup for your ads. At Burac.ai, we dig deep into everything you're currently running to see what's working and what isn't. We look at your customer journey, technical tracking, audience targeting, and creative assets. We take those insights and build a roadmap to stop wasted spend and start scaling your growth."
             ]
         },
         {
-            question: "Will AI-driven retail growth affect DTC performance?",
+            question: "What social platforms do you advertise on?",
             answer: [
-                "No. Burac.ai’s unified intelligence aligns both to complement each other, avoiding overlap and ensuring both platforms grow sustainably through cross-channel learning."
+                "We work with the platforms where your customers actually spend their time. Whether that's TikTok, Facebook, Instagram, Pinterest, or LinkedIn, we handle it all. But just because you *can* be everywhere doesn't mean you *should* be. We help you figure out exactly which networks will give you the best return on investment so you aren't shouting into the void."
             ]
         },
         {
-            question: "If margins are tighter on retail channels, why invest there?",
+            question: "What is retargeting?",
             answer: [
-                "AI automation allows Burac.ai to identify high-intent, high-margin segments. We prioritize ROI by balancing scale and profitability through predictive growth mapping."
+                "Retargeting is essentially a second chance at a first impression. Most people leave a website without buying anything on their first visit. Retargeting allows you to gently remind those visitors—through ads on their social feeds—about the cool stuff they looked at. It’s about bringing them back to finish what they started."
             ]
         },
         {
-            question: "Is paid advertising still necessary with AI optimization?",
+            question: "What is Facebook advertising?",
             answer: [
-                "Absolutely. AI amplifies performance by ensuring every paid impression learns from the last — reducing waste, improving conversions, and maximizing returns across channels."
+                "Facebook is still a juggernaut for reaching people. Advertising there lets you put your brand in front of highly specific groups based on interests, location, and behavior. However, their tools have gotten incredibly complex over the years. That’s where we come in—we navigate the backend technicalities to ensure you're targeting the right people without burning through your budget."
             ]
         },
         {
-            question: "What drives organic ranking in intelligent marketplaces?",
+            question: "What is LinkedIn advertising?",
             answer: [
-                "AI evaluates keyword relevancy, behavioral data, and external traffic to improve visibility. Integrated models enhance ranking performance using multi-channel influence data."
+                "If you're in the B2B space, LinkedIn is the place to be. It puts your message directly in front of decision-makers and professionals. While anyone can set up an ad account, doing it *profitably* is tricky because costs can be higher. We manage the strategy to ensure you're generating high-quality leads, not just expensive clicks."
             ]
         },
         {
-            question: "How is AI retail DSP different from standard programmatic?",
+            question: "What do you test in your social advertising?",
             answer: [
-                "Unlike traditional DSP, Burac.ai leverages real-time learning, intent modeling, and closed-loop attribution to predict performance and scale results efficiently. Exclusive datasets enhance targeting precision."
+                "We test everything, because assumptions kill budgets. At Burac.ai, we experiment with different headlines, images, video styles, and audience segments. We watch the data—clicks, engagement, and conversions—to see what resonates. Then, we double down on the winners and cut the losers."
             ]
         },
         {
-            question: "What is Burac.ai’s Data Cloud and how does it work?",
+            question: "Will you design social ad creative for my brand?",
             answer: [
-                "Our Data Cloud connects multiple ad ecosystems — including DSP, DTC, and retail platforms — enabling deeper cross-channel analytics and predictive insights for smarter decision-making."
+                "Absolutely. If you work with us on paid social, we handle the creative heavy lifting. We design visuals that look great and align with your brand voice across every platform. Consistency is key to building trust, so we make sure your ads look like *you*, whether they're on Instagram or LinkedIn."
             ]
         },
         {
-            question: "Can customer reviews improve AI models?",
+            question: "What is the difference between paid social and organic social?",
             answer: [
-                "Yes. Reviews feed sentiment and quality signals into Burac.ai’s learning systems, helping refine content, messaging, and ad strategies for stronger brand trust and conversion performance."
+                "It comes down to 'pay-to-play' versus 'community building.' Paid social involves spending money to guarantee your posts reach specific new audiences. Organic social is about posting content for free to nurture your existing followers. Paid fuels growth and acquisition; organic builds loyalty and brand personality. You usually need a mix of both to win."
             ]
         },
         {
-            question: "How do I improve visibility using AI insights?",
+            question: "How much should I spend on paid social advertising?",
             answer: [
-                "Burac.ai uses predictive analytics to identify untapped keyword, category, and placement opportunities, boosting visibility and improving your competitive advantage."
-            ]
-        },
-        {
-            question: "How can I track and measure AI-driven performance?",
-            answer: [
-                "Our real-time dashboard tracks engagement, conversion, and predictive ROI across every retail touchpoint, ensuring transparency and continual improvement."
+                "There’s no one-size-fits-all answer here—it really depends on your industry and your goals. However, you don't need to guess. During our initial audit, we look at your competitive landscape and tell you exactly what kind of budget you need to be competitive. We build a plan that respects your wallet while maximizing your results."
             ]
         }
     ]
 };
-
 
 
 const PaidSocialMediaPage = () => {
