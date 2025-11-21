@@ -29,68 +29,60 @@ const HeroSectionData = {
 };
 
 const WorkWithData = {
-    badge: "Work with Burac AI",
-    title: "Strategic PPC & Influencer Marketing Services",
+    badge: "Influencer Marketing Services",
+    title: "Gain the interest and trust of a new audience quickly and simply.",
     paragraphs: [
-        "Today's customer doesn't distinguish between buying online, on Amazon, or at a physical store. What matters is a frictionless, convenient, and accessible shopping experience, regardless of time and place.",
-        "For many brands, orchestrating a true customer-centric experience from digital awareness through conversion is challenging. DTC and retail divisions often operate in silos, and most retail marketing partners only cover a slice of the journey.",
-        "<b>Burac AI unifies retail, DTC, and influencer marketing under one roof, driving brand awareness and profitable sales growth across channels and tactics.</b>"
+        "Your clients all have someone they respect, look up to, and idolize. With our specialized approach to recruiting and screening top-tier personnel through widespread contacts and our usage of databases, we break down the traditional obstacles to finding the appropriate partner.",
+        "Get these heavyweight social influencers battling in your ring without sacrificing your soul or giving up creative control.",
+        "<b>And unlike traditional media, you’ll have access to measurable results: track how many people viewed it, shared it, and double-tapped it.</b>"
     ],
     buttonText: "Get in touch",
     buttonUrl: "/workwithus/",
-    cards: [
-        {
-            icon: ServiceIcon1.src,
-            title: "Authentic Brand Experience Across Touchpoints",
-            description: "Product mix consulting, product page optimization & Amazon SEO, Brand Store optimization & more – we ensure your presence is true to your brand, and converts in a crowded marketplace.",
-            bgColor: "bg-secondary" as const,
-            textColor: "#333333",
-            iconColor: "invert(0)",
-            alt: "Service Icon 1"
-        },
-        {
-            icon: Layer11.src,
-            title: "Full-Funnel Media Strategy",
-            description: "We employ Amazon's full advertising arsenal across search, DSP and Amazon Marketing Cloud, combined with influencer strategies, to fuel growth. From media planning & ongoing optimization to advanced measurement capabilities that continuously calibrate.",
-            bgColor: "bg-primary" as const,
-            textColor: "#ffffff",
-            iconColor: "invert(1)",
-            alt: "Layer 1-1"
-        },
-        {
-            icon: Layer1.src,
-            title: "Strategic DTC, Amazon & Influencer Alignment",
-            description: "Holistic strategies that connect the dots between channels and uncover the true impact of your marketing across DTC, Amazon, retail revenue streams, and influencer campaigns.",
-            bgColor: "bg-dark" as const,
-            textColor: "#ffffff",
-            iconColor: "invert(1)",
-            alt: "Layer 1"
-        }
-    ]
+    cards: [{
+        icon: ServiceIcon1.src,
+        title: "Reach New Audiences",
+        description: "Break into uncharted markets by working with influencers who resonate with your target demographic. Our firm thoughtfully manages these relationships from A-Z to guarantee your brand’s message reaches new audiences while keeping a consistent, authentic presence.",
+        bgColor: "bg-secondary" as const,
+        textColor: "#333333",
+        iconColor: "invert(0)",
+        alt: "Reach New Audiences Icon"
+    }, {
+        icon: Layer11.src,
+        title: "Gain Brand Trust and Authority",
+        description: "We match your brand with influencers and content creators who have gained respect within their communities. By connecting with these renowned voices, your company becomes a leader in your sector, boosting trust and generating engagement and conversions.",
+        bgColor: "bg-primary" as const,
+        textColor: "#ffffff",
+        iconColor: "invert(1)",
+        alt: "Brand Trust Icon"
+    }, {
+        icon: Layer1.src,
+        title: "Influence Action",
+        description: "Our programs do more than drive awareness—they encourage action. We work together with influencers to develop compelling content that helps their audience through the buyer’s journey, transforming followers into devoted consumers ready to engage with your company.",
+        bgColor: "bg-dark" as const,
+        textColor: "#ffffff",
+        iconColor: "invert(1)",
+        alt: "Influence Action Icon"
+    }]
 };
 
 const ServicesData = {
-    badge: "Our Services",
-    title: "Customized growth strategies for every storefront and platform.",
-    description: "Our strategies ensure your company is acquiring new customers, capturing market share, and positioned properly for long-term growth.",
+    badge: "Our Influencer Services",
+    title: "Turn-key influencer outreach that nails every aspect, every time.",
+    description: "Influencers already get the undivided attention of your audience. With influencer marketing, that attention becomes yours.",
     showButton: true,
     buttonText: "Get a free marketing audit",
     buttonUrl: "/workwithus/",
     layout: "3-per-row" as const,
-    items: [
-        {
-            title: "01 Prioritize & Plan",
-            description: "Identify the highest impact Amazon, retail, and influencer marketing strategies based on audit results & brand goals. Using KPIs, timeline, and industry trends, we outline the most efficient path and navigate the competitive landscape."
-        },
-        {
-            title: "02 Align & Grow",
-            description: "Synchronize your marketing strategy across Amazon, DTC, and influencer channels. Implement cross-channel strategies & measurement techniques to drive overall brand growth."
-        },
-        {
-            title: "03 Measure, Iterate, Repeat",
-            description: "With advanced measurement and in-depth analytics, we assess the impact of each strategy, pivot with marketplace & competitive changes, and capitalize on new opportunities."
-        }
-    ]
+    items: [{
+        title: "01 Analysis",
+        description: "Before a contract is ever signed, we pop the hood on your firm with a complete audit. You get an in-depth, data driven analysis on what’s working, what’s not, and what chances we’ve uncovered for substantial growth."
+    }, {
+        title: "02 Strategy",
+        description: "We build a bespoke influencer strategy targeted to match your goals. We’ll go deep into your audience, brand, and product to design a plan that assures harmony between influencers, platforms, and your brand messaging."
+    }, {
+        title: "03 Results, Rinse, Repeat",
+        description: "Revel in your improved brand exposure, new consumers, and important new marketing assets. But our job isn’t over yet. We regularly adjust our plan depending on performance, incorporate feedback, and gear up for your next campaign to achieve even bigger outcomes."
+    }]
 };
 
 const CardSliderData = [
@@ -138,20 +130,20 @@ const CardSliderData = [
 
 const WhySectionData = {
     badge: "Why Burac AI?",
-    title: "Our team of experts across all major ecommerce channels takes a customized, iterative, and adaptive approach to your success on Amazon, influencer campaigns, and overall brand growth.",
+    title: "We take smart initiatives to present your brand to hundreds of thousands of new prospects.",
     buttonText: "Get a free marketing audit",
     buttonUrl: "/workwithus/",
     introText: "By partnering with us, you get:",
-    contentItems: [
-        {
-            type: "list" as const,
-            content: [
-                "<b>Full-service management:</b> Amazon storefront, Amazon DSP, influencer campaigns, product mix consulting, catalog management, troubleshooting, and more handled for you.",
-                "<b>A dedicated team of experts:</b> Hyper-focused SMEs with deep knowledge and robust experience in their specific online retail discipline.",
-                "<b>Adaptive marketplace strategies:</b> Continuous monitoring, measuring, and adapting to changes in your unique landscape."
-            ]
-        }
-    ]
+    contentItems: [{
+        type: "list" as const,
+        content: [
+            "<b>Competitive Analysis:</b> We research competitors to detect trends, find gaps, and design a strategy that provides your brand a competitive edge.",
+            "<b>Intentional Influencer Selection:</b> We carefully connect you with suitable influencers, guaranteeing alignment with your digital marketing goals for optimum impact.",
+            "<b>Influencer Testing:</b> We analyze influencers’ voices and styles to ensure their authenticity aligns with your brand’s message and values.",
+            "<b>Analysis of Past Partnerships and Campaigns:</b> We evaluate previous influencer collaborations to see what worked (and what didn’t).",
+            "<b>Legal Requirements + Brand Protection:</b> We manage all legal aspects, ensuring that your influencer agreements conform with general and industry-specific requirements."
+        ]
+    }]
 };
 
 const LearnMoreData = {

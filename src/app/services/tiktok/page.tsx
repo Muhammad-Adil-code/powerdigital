@@ -24,22 +24,22 @@ const HeroSectionData = {
     imageAlt: "AI Marketing Solutions"
 };
 const ServicesData = {
-    badge: "Our AI Services",
-    title: "Tailored growth intelligence for every digital channel.",
-    description: "Our AI frameworks help your brand attract the right audience, optimize spend, and scale sustainably across all marketing platforms.",
+    badge: "Our TikTok  Services",
+    title: "There are more than 1 billion active users on TikTok right now, so now is the time to establish a strong brand voice.",
+    description: "Our organic TikTok marketing campaign tactics use real, smart, and interesting creative to take advantage of viral trends and audio to get the most organic reach.  Our strategy for creating content and our paid social media services include planning for both pre-planned and viral material. This way, we can swiftly jump on the platform's greatest moments while also being true to our brand's goals and stories.",
     showButton: true,
-    buttonText: "Get a free marketing audit",
+    buttonText: "Get a free audit",
     buttonUrl: "/workwithus/",
     layout: "3-per-row" as const,
     items: [{
-        title: "01 Analyze & Predict",
-        description: "Leverage Burac.ai’s deep learning algorithms to analyze user data, forecast trends, and identify the most impactful marketing opportunities for your brand."
+        title: "01 Analyze",
+        description: "We create and carry out expert strategies based on your company's main business aim, which helps your brand reach its full potential."
     }, {
-        title: "02 Automate & Optimize",
-        description: "Synchronize your marketing ecosystem through intelligent automation.   From content to campaign optimization, we connect every channel to drive unified growth."
+        title: "02 Strategy",
+        description: "We create and carry out professional strategies based on your company's main business aim, which helps your brand function at its best."
     }, {
-        title: "03 Measure, Learn, Improve",
-        description: "Use real-time AI analytics to track impact, uncover insights, and adapt dynamically — ensuring your campaigns evolve faster than the market."
+        title: "03 Coverage & Results",
+        description: "We work closely with TikTok Israel to give you the best TikTok strategy and give you access to special betas."
     }]
 };
 const CardSliderData = [{

@@ -258,122 +258,121 @@ const HeroSectionData = {
     imageAlt: "Amazon Marketing Services"
 };
 const WorkWithData = {
-    badge: "Work with Burac AI",
-    title: "Strategic Amazon & DTC Marketing Services",
-    paragraphs: ["Today's customer doesn't distinguish between shopping online, on Amazon, or at a physical store.   What matters is a frictionless, convenient, and accessible buying experience, regardless of time and place.", "For many organizations, creating a real customer-centric experience from digital awareness through conversion is challenging.   DTC and retail divisions generally work in silos, and most retail marketing partners only cover a slice of the journey.", "<b>Burac AI combines retail and DTC digital marketing under one roof, delivering brand awareness and profitable sales growth across channels and methods. </b>"],
+    badge: "Affiliate Marketing Services",
+    title: "This is affiliate marketing done well.",
+    paragraphs: [
+        "With a well-executed affiliate marketing campaign, everyone wins.",
+        "At the top, we work hand-in-hand with our partners at high-traffic media sites and have created 1:1 relationships with important commerce managers.",
+        "Through SERP targeting and technologies such as SEMrush, we work with review sites and specialized blogs that are currently ranking for keywords and competitors.",
+        "We also engage with a range of non-traditional affiliate partners such as Email Retargeting, Display Ads, On-Site Optimizations, CPC, Employee Perks, BNPL, and Card-Linked Offer to fulfill specific goals."
+    ],
     buttonText: "Get in touch",
     buttonUrl: "/workwithus/",
     cards: [{
-        icon: ServiceIcon1.src,
-        title: "Authentic Brand Experience Across Touchpoints",
-        description: "Product mix consulting, product page optimization & Amazon SEO, Brand Store optimization & more – we ensure your Amazon presence is true to your brand, and converts in a crowded marketplace.",
+        icon: ServiceIcon1.src, // Assumed existing import
+        title: "Streamlined Program Management",
+        description: "We offer full-service affiliate program administration from start to finish.",
         bgColor: "bg-secondary" as const,
         textColor: "#333333",
         iconColor: "invert(0)",
-        alt: "Service Icon 1"
+        alt: "Program Management Icon"
     }, {
-        icon: Layer11.src,
-        title: "Full-Funnel Media Strategy",
-        description: "We leverage Amazon's full advertising arsenal across search, DSP and Amazon Marketing Cloud to fuel growth.   From media planning & ongoing optimization to advanced measurement capabilities that continuously calibrate.",
+        icon: Layer11.src, // Assumed existing import
+        title: "Strategic Brand Growth",
+        description: "Affiliate growth tactics are custom-built for your brand, your audience and product.",
         bgColor: "bg-primary" as const,
         textColor: "#ffffff",
         iconColor: "invert(1)",
-        alt: "Layer 1-1"
+        alt: "Brand Growth Icon"
     }, {
-        icon: Layer1.src,
-        title: "Strategic DTC and Amazon Alignment",
-        description: "Holistic strategies that connect the dots between channels and uncover the true impact of your marketing across DTC, Amazon, and retail revenue streams.",
+        icon: Layer1.src, // Assumed existing import
+        title: "Affiliate Strategies That Perform",
+        description: "Our affiliate recommendations are tailored for your industry, product and goals. We undertake regular optimizations and maintenance to maintain performance good.",
         bgColor: "bg-dark" as const,
         textColor: "#ffffff",
         iconColor: "invert(1)",
-        alt: "Layer 1"
+        alt: "Affiliate Strategy Icon"
     }]
 };
 const ServicesData = {
-    badge: "Our Amazon Services",
-    title: "Customized growth strategies for every storefront.",
-    description: "Our strategies ensure your company is acquiring new customers, capturing market share, and positioned properly for long-term growth.",
+    badge: "Our Affiliate Services",
+    title: "Here's how we make successful affiliate agreements happen",
+    description: "Our affiliate staff is razor-focused on results. We don’t only focus on coupon partners - we think about the complete funnel when it comes to what is best for our clients. Our team leverages best-in-class tools to get insight into clients target demographics, and where they are likely to discover new products and/or brands to make data-informed decisions with recruitment.",
     displayButton: true,
     buttonText: "Get a free marketing audit",
     buttonUrl: "/workwithus/",
-    layout: "3-per-row" as const,
+    layout: "4-per-row" as const, // Adjusted layout since there are 4 items
     items: [{
-        title: "01 Prioritize & Plan",
-        description: "Identify the highest impact Amazon and retail marketing initiatives based on audit results & brand goals.   Using KPIs, timeline, and industry trends, we outline the most efficient path and navigate the competitive landscape."
+        title: "01 Program Analysis",
+        description: "Before a contract is ever signed, we pop the hood on your business with a complete appraisal. You get an in-depth analysis on what’s working, what’s not, and what chances we’ve uncovered to unlock development for your affiliate marketing channel."
     }, {
-        title: "02 Align & Grow",
-        description: "Synchronize your Amazon marketing strategy with your brand's holistic ecommerce and/or B&M strategy, from product mix to media activation.   Implement synergistic cross-channel strategies & omnichannel measurement techniques to drive overall brand growth."
+        title: "02 Custom Strategy",
+        description: "A precise performance-focused plan is designed and optimized to create the most effective path toward your goals."
     }, {
-        title: "03 Measure, Iterate, Repeat",
-        description: "With advanced measurement and in-depth analytics, we assess the impact of each strategy, pivot with marketplace & competitive changes, and capitalize on new opportunities."
+        title: "03 Implementation",
+        description: "" // Content was missing in the provided text
+    }, {
+        title: "04 Results, Results, Results",
+        description: "We track performance, keep your methods fresh, and optimize regularly for results that keep stacking."
     }]
 };
 const CardSliderData = [{
-    id: "catalog-management",
-    title: "Catalog Management & Organic Strategy",
-    description: "Experts on your side to keep your account healthy, products live, and pull all organic visibility levers to build & maintain a strong foundation for sustained growth.",
+    id: "full-funnel-management",
+    title: "Full Funnel Management",
+    description: "Leverage all partner types to accomplish program goals, including content, cashback, card-linked offers and more.",
     image: image1.src,
-    imageAlt: "Catalog Management & Organic Strategy",
+    imageAlt: "Full Funnel Management",
     bgColor: "bg-white" as const
 }, {
-    id: "product-page-creative",
-    title: "Product Page & Storefront Creative",
-    description: "Conversion-driving, Amazon-optimized assets from the product image carousel to the Amazon Brand Store that turn browsers into buyers.",
+    id: "performance-pr",
+    title: "Performance PR",
+    description: "By working with us across organic social and public relations services, we work in concert with our PR team on a comprehensive top-of-funnel media relations approach to grow your brand awareness.",
     image: image2.src,
-    imageAlt: "Product Page & Storefront Creative",
+    imageAlt: "Performance PR",
     bgColor: "bg-secondary" as const
 }, {
-    id: "seo-algorithm",
-    title: "SEO - Tuned to the Amazon Algorithm",
-    description: "Written content on the frontend and backend of your listings that maximizes product discoverability on the marketplace.",
+    id: "new-program-onboarding",
+    title: "New Program Onboarding",
+    description: "You’re ready to begin an affiliate program but don’t know where to start - that is where our team comes in. We can help locate the right network and affiliate partners to get you from A to Z.",
     image: image3.src,
-    imageAlt: "SEO - Tuned to the Amazon Algorithm",
+    imageAlt: "New Program Onboarding",
     bgColor: "bg-primary" as const
 }, {
-    id: "ppc-advertising",
-    title: "Amazon PPC Search Advertising",
-    description: "Acquire & retain Amazon customers with adaptive search advertising strategy that puts business & bottom line impact first.",
+    id: "consulting",
+    title: "Consulting",
+    description: "Not ready for complete program management? No problem! We can give continuous consulting to ensure your affiliate program is in the correct place.",
     image: image4.src,
-    imageAlt: "Amazon PPC Search Advertising",
+    imageAlt: "Consulting",
     bgColor: "bg-white" as const
 }, {
-    id: "dsp-advertising",
-    title: "Amazon DSP Advertising",
-    description: "Fuel the funnel for continuous growth with Amazon's powerful first-party customer data in the hands of seasoned programmatic display experts.",
+    id: "platform-migration",
+    title: "Platform Migration",
+    description: "We offer support for platform migrations and new program launches.",
     image: image5.src,
-    imageAlt: "Amazon DSP Advertising",
+    imageAlt: "Platform Migration",
     bgColor: "bg-secondary" as const
 }, {
-    id: "omnichannel-strategies",
-    title: "Cutting-Edge Omnichannel Strategies",
-    description: "Customized cross-channel advertising that aligns your digital strategy with your customer's journey and leverages non-Amazon channels to grow Amazon revenue.",
+    id: "ambassador-support",
+    title: "Ambassador Support",
+    description: "Compliment your current influencer strategy by employing affiliate methods.",
     image: image6.src,
-    imageAlt: "Cutting-Edge Omnichannel Strategies",
-    bgColor: "bg-primary" as const,
-    links: [{
-        text: "paid media",
-        url: "/services/paid-media/"
-    }, {
-        text: "Download the Accelerator Guide",
-        url: "/resources/retail-media-networks-roi-accelerator/?utm_campaign__c=2025_Content_MROI&content_download_tag=MROI_2025"
-    }]
-}, {
-    id: "measurement-solutions",
-    title: "Advanced Measurement Solutions",
-    description: "Amazon Marketing Cloud analytics and data science-backed incrementality testing to assess the true impact of Amazon marketing strategy and continuously iterate.",
-    image: image7.src,
-    imageAlt: "Advanced Measurement Solutions",
-    bgColor: "bg-white" as const
+    imageAlt: "Ambassador Support",
+    bgColor: "bg-primary" as const
 }];
 const WhySectionData = {
-    badge: "Why Burac AI?",
-    title: "Our team of experts across all major ecommerce channels takes a customized, iterative, and adaptive approach to your success on Amazon and overall brand growth.",
+    badge: "Why Partner With Us?",
+    title: "Unlock scalable growth with a custom affiliate marketing approach.",
     buttonText: "Get a free marketing audit",
     buttonUrl: "/workwithus/",
-    introText: "By partnering with us, you get:",
+    introText: "By collaborating with our affiliate team, you get:",
     contentItems: [{
         type: "list" as const,
-        content: ["<b> Full-service management:</b> Amazon storefront, Amazon DSP, & product mix consulting, catalog management, troubleshooting, and more handled for you.", "<b>A dedicated team of experts:</b> Hyper-focused SMEs with deep knowledge and robust experience in their specific online retail discipline.", "<b>Adaptive Amazon marketplace strategies:</b> Continuous monitoring, measuring, and adapting to changes in your unique Amazon landscape."]
+        content: [
+            "<b>Bespoke affiliate marketing plan</b> that is customized to your brand and goals.",
+            "<b>Access to new audiences</b> with targeted affiliate partners.",
+            "<b>The opportunity to test new markets</b> with minimum risk and expenditure.",
+            "<b>Results that drive sitewide traffic</b> and e-commerce income."
+        ]
     }]
 };
 const LearnMoreData = {

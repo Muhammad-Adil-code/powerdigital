@@ -26,161 +26,132 @@ const HeroSectionData = {
 
 const WorkWithData = {
     badge: "Work with Burac AI",
-    title: "Strategic PPC & SEO Management Services",
+    title: "What is the benefit of hiring an SEO agency?",
     paragraphs: [
-        "Today's customer doesn't distinguish between shopping online, on Amazon, or at a real store.  What matters is a frictionless, convenient and accessible buying experience, regardless of time and place.",
-        "For many organizations, creating a real customer-centric experience from digital awareness to conversion is challenging.  DTC and retail divisions generally work in silos, and most retail marketing partners only cover a portion of the trip. ",
-        "<b>Burac AI unites retail, DTC, and Amazon digital marketing under one roof, boosting brand awareness and lucrative sales growth across channels and methods. </b>"
+        "Standing out online is no simple feat. Climbing in SEO keyword rankings in a highly competitive sector and changing algorithms require a personalized SEO approach that is unique to your goals and business.",
+        "In order to compete, you need a proven partner that knows how to produce outcomes."
     ],
     buttonText: "Get in touch",
     buttonUrl: "/workwithus/",
-    cards: [
-        {
-            icon: ServiceIcon1.src,
-            title: "Authentic Brand Experience Across Touchpoints",
-            description: "Product mix consultancy, product page optimization & Amazon SEO, Brand Store optimization & more - we ensure your Amazon presence is true to your brand and converts in a congested marketplace. ",
-            bgColor: "bg-secondary" as const,
-            textColor: "#333333",
-            iconColor: "invert(0)",
-            alt: "Service Icon 1"
-        },
-        {
-            icon: Layer11.src,
-            title: "Full-Funnel Media Strategy",
-            description: "We leverage Amazon's full advertising arsenal across search, DSP and Amazon Marketing Cloud to accelerate growth.  From media planning & ongoing optimization to advanced measurement capabilities that continuously calibrate. ",
-            bgColor: "bg-primary" as const,
-            textColor: "#ffffff",
-            iconColor: "invert(1)",
-            alt: "Layer 1-1"
-        },
-        {
-            icon: Layer1.src,
-            title: "Strategic DTC and Amazon Alignment",
-            description: "Holistic tactics that connect the dots between channels and identify the full impact of your marketing across DTC, Amazon, and retail revenue streams.",
-            bgColor: "bg-dark" as const,
-            textColor: "#ffffff",
-            iconColor: "invert(1)",
-            alt: "Layer 1"
-        }
-    ]
+    cards: [{
+        icon: ServiceIcon1.src,
+        title: "Amplify brand visibility",
+        description: "Establish brand visibility and trust in the market via increased organic keyword rankings in the search results",
+        bgColor: "bg-secondary" as const,
+        textColor: "#333333",
+        iconColor: "invert(0)",
+        alt: "Amplify Brand Visibility Icon"
+    }, {
+        icon: Layer11.src,
+        title: "Optimize marketing and design spend",
+        description: "Reduce acquisition expenses through full-funnel SEO optimizations",
+        bgColor: "bg-primary" as const,
+        textColor: "#ffffff",
+        iconColor: "invert(1)",
+        alt: "Optimize Marketing Spend Icon"
+    }, {
+        icon: Layer1.src,
+        title: "Grow your audience",
+        description: "Attract new potential clients to your website by growing website traffic and generating relevant quality content people are genuinely seeking for (+reading)",
+        bgColor: "bg-dark" as const,
+        textColor: "#ffffff",
+        iconColor: "invert(1)",
+        alt: "Grow Audience Icon"
+    }]
 };
 
 const ServicesData = {
-    badge: "Our Amazon Services",
-    title: "Customized growth plans for every storefront.",
-    description: "Our strategies ensure your firm is attracting new consumers, capturing market share, and positioned properly for long-term success. ",
+    badge: "Our Approach",
+    title: "Here’s how we position your brand for optimum visibility and impact:",
+    description: "Navigating the competitive digital landscape takes precision and understanding. We employ cutting-edge technology and machine learning to find growth possibilities, target significant gaps, and develop strategies that produce measurable results. Our patented systems continuously learn and adapt, ensuring your SEO efforts stay ahead of evolving trends and algorithms.",
     showButton: true,
     buttonText: "Get a free marketing audit",
     buttonUrl: "/workwithus/",
     layout: "3-per-row" as const,
-    items: [
-        {
-            title: "01 Prioritize & Plan",
-            description: "Identify the most impact Amazon and retail marketing strategies to adopt based on audit results & brand goals.  Once we've determined your final location, we calculate turn-by-turn directions.  Using your KPIs, timetable, and market trends, we'll create the most efficient approach and navigate the competitive landscape. "
-        },
-        {
-            title: "02 Align & Grow",
-            description: "Synchronize your Amazon marketing approach with your brand's holistic ecommerce and/or B&M strategy, from product mix to media activation.  Implement synergistic cross-channel strategy & omnichannel measuring tools to drive overall brand growth. "
-        },
-        {
-            title: "03 Measure, Iterate, Repeat",
-            description: "With advanced measurement and in-depth analytics, we consider the true impact of each strategy, pivoting with marketplace & competitive landscape changes, and capitalizing on new opportunities."
-        }
-    ]
+    items: [{
+        title: "01 Analysis",
+        description: "Before a contract is ever signed, we probe into your firm with a full nova evaluation. Our SEO agency develops an in-depth analysis on what’s working in your SEO approach, what’s not, and what chances we’ve uncovered for lucrative revenue growth."
+    }, {
+        title: "02 Strategy",
+        description: "Once the assessment is done, we’ll develop an assault plan based on the evaluation of the website structure and a comparative analysis of the industry. Our marketing agency’s SEO experience and knowledge within your area of specialization create the foundation for this approach."
+    }, {
+        title: "03 Results, Rinse, Repeat",
+        description: "We don’t believe in rinse and repeat. Instead, we continuously examine outcomes, test new techniques, and enhance efforts to unleash ongoing growth. Watch as qualified traffic grows and your earning potential expands."
+    }]
 };
 
-const CardSliderData = [
-    {
-        id: "catalog-management",
-        title: "Catalog Management & Organic Strategy",
-        description: "Experts on your side to keep your account healthy, products live, and pull all organic visibility levers available to build & maintain a strong foundation for sustained growth.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Strategic-Roadmap-768x768.jpg",
-        imageAlt: "Catalog Management & Organic Strategy",
-        bgColor: "bg-white" as const,
-        actionUrl: "#"
-    },
-    {
-        id: "product-page-creative",
-        title: "Product Page & Storefront Creative",
-        description: "Conversion-driving, Amazon-optimized assets from the product image carousel to the Amazon Brand Store that turn browsers into buyers.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Amazon-Ads-1-768x768.jpg",
-        imageAlt: "Product Page & Storefront Creative",
-        bgColor: "bg-secondary" as const,
-        actionUrl: "#"
-    },
-    {
-        id: "seo-algorithm",
-        title: "SEO - Tuned to the Amazon Algorithm",
-        description: "Written content on the frontend and backend of your listings that maximizes product discoverability on the marketplace.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Conversion-Rates-768x768.jpg",
-        imageAlt: "SEO - Tuned to the Amazon Algorithm",
-        bgColor: "bg-primary" as const,
-        actionUrl: "#"
-    },
-    {
-        id: "ppc-advertising",
-        title: "Amazon PPC Search Advertising",
-        description: "Acquire & retain Amazon customers with adaptive search advertising strategy that puts business & bottom line impact first.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Optimization-Opportunities-768x768.jpg",
-        imageAlt: "Amazon PPC Search Advertising",
-        bgColor: "bg-white" as const,
-        actionUrl: "#"
-    },
-    {
-        id: "dsp-advertising",
-        title: "Amazon DSP Advertising",
-        description: "Fuel the funnel for continuous growth with Amazon's powerful first-party customer data in the hands of seasoned programmatic display experts.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Executive-Strategy-768x768.jpg",
-        imageAlt: "Amazon DSP Advertising",
-        bgColor: "bg-secondary" as const,
-        actionUrl: "#"
-    },
-    {
-        id: "omnichannel-strategies",
-        title: "Cutting-Edge Omnichannel Strategies",
-        description: "Customized cross-channel advertising that aligns your digital strategy with your customer's unique journey and leverages non-Amazon channels to grow revenue.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/12/pr_pdm_image-768x430.png",
-        imageAlt: "Cutting-Edge Omnichannel Strategies",
-        bgColor: "bg-primary" as const,
-        links: [
-            {
-                text: "paid media",
-                url: "https://powerdigitalmarketing.com/services/paid-media/"
-            },
-            {
-                text: "Download the Accelerator Guide",
-                url: "https://powerdigitalmarketing.com/resources/retail-media-networks-roi-accelerator/?utm_campaign__c=2025_Content_MROI&content_download_tag=MROI_2025"
-            }
-        ],
-        actionUrl: "#"
-    },
-    {
-        id: "measurement-solutions",
-        title: "Advanced Measurement Solutions",
-        description: "Amazon Marketing Cloud analytics and data science-backed incrementality testing to assess the true impact of Amazon marketing strategy and continuously iterate.",
-        image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/12/0_0-1-768x768.jpg",
-        imageAlt: "Advanced Measurement Solutions",
-        bgColor: "bg-white" as const,
-        actionUrl: "#"
-    }
-];
+const CardSliderData = [{
+    id: "seo-audit",
+    title: "SEO Audit",
+    description: "A full examination of your present performance, technical site health, SEO opportunities, competitor analysis and content recommendations from our team of SEO specialists. We identify critical areas for improvement and build a bespoke action plan that corresponds with your business goals, creating a strong foundation for sustainable SEO performance.",
+    image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Strategic-Roadmap-768x768.jpg",
+    imageAlt: "SEO Audit",
+    bgColor: "bg-white" as const,
+    actionUrl: "#"
+}, {
+    id: "technical-seo",
+    title: "Technical SEO",
+    description: "Behind-the-scenes technological recommended practices that boost your site’s crawlability. We focus on optimizing site speed, mobile usability, and enhancing the technological infrastructure to ensure a seamless user experience and search engine crawlability.",
+    image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Amazon-Ads-1-768x768.jpg",
+    imageAlt: "Technical SEO",
+    bgColor: "bg-secondary" as const,
+    actionUrl: "#"
+}, {
+    id: "local-seo",
+    title: "Local SEO",
+    description: "For hyper-local, retail or small enterprises that need assistance with Google Business Profile (GBP) listing(s), reviews and location maintenance. We boost local visibility by ensuring your business is appropriately listed, maintaining reviews, and targeting location-specific keywords to drive foot traffic and local leads.",
+    image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Conversion-Rates-768x768.jpg",
+    imageAlt: "Local SEO",
+    bgColor: "bg-primary" as const,
+    actionUrl: "#"
+}, {
+    id: "content-marketing",
+    title: "Content Marketing",
+    description: "Our team of SEO specialists and content developers develop relevant quality material designed to enhance rankings in search results and qualified website visitors. We develop data-driven content strategies that connect with user intent and SEO best practices, eventually delivering increased engagement and conversions.",
+    image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Optimization-Opportunities-768x768.jpg",
+    imageAlt: "Content Marketing",
+    bgColor: "bg-white" as const,
+    actionUrl: "#"
+}, {
+    id: "seo-migrations",
+    title: "SEO Migrations",
+    description: "Protect your visitors and rankings with SEO migration services. Our agency enables smooth transitions during website migrations, eliminating any risks of losing rankings, traffic, or user experience.",
+    image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/11/Executive-Strategy-768x768.jpg",
+    imageAlt: "SEO Migrations",
+    bgColor: "bg-secondary" as const,
+    actionUrl: "#"
+}, {
+    id: "link-building",
+    title: "Link Building",
+    description: "Outreach that enhances your authority and visibility across the web, enhancing keyword ranks in search engine results. We specialize on getting high-quality backlinks from reputable sites in your field, which directly improves your site’s trustworthiness and search engine results.",
+    image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/12/pr_pdm_image-768x430.png",
+    imageAlt: "Link Building",
+    bgColor: "bg-primary" as const,
+    actionUrl: "#"
+}, {
+    id: "ecommerce-seo",
+    title: "eCommerce SEO",
+    description: "Set your online store up for success by ranking on top search words, educating around products and boosting conversions. We optimize your product pages, improve on-site search functionality, and employ rich snippets to promote visibility and drive higher sales through organic search.",
+    image: "https://powerdigitalmarketing.com/wp-content/uploads/2024/12/0_0-1-768x768.jpg",
+    imageAlt: "eCommerce SEO",
+    bgColor: "bg-white" as const,
+    actionUrl: "#"
+}];
 
 const WhySectionData = {
     badge: "Why Burac AI?",
-    title: "Our team of professionals across all key ecommerce channels take a tailored, iterative and adaptive approach to your success on Amazon and overall growth as a business. ",
+    title: "Our holistic SEO strategy goes beyond rankings to create impactful business results.",
     buttonText: "Get a free marketing audit",
     buttonUrl: "/workwithus/",
-    introText: "By collaborating with us, you get:",
-    contentItems: [
-        {
-            type: "list" as const,
-            content: [
-                "<b>Full-service management:</b> Amazon storefront, Amazon DSP, & product mix consultancy, catalog management, troubleshooting, and more taken off your hands.",
-                "<b>A committed team of experts:</b> Hyper-focused SMEs with profound knowledge and robust experience in their unique online retail discipline.",
-                "<b>Adaptive Amazon marketplace strategies:</b> Continuous monitoring, measuring, and adjusting to changes in your specific Amazon landscape."
-            ]
-        }
-    ]
+    introText: "SEO at Burac AI begins with an in-depth audit that checks every part of your search engine performance—metadata, backlinks, technical SEO, content quality, and more. By collaborating with us, you get:",
+    contentItems: [{
+        type: "list" as const,
+        content: [
+            "<b>A committed, highly specialized team:</b> From Technical SEO experts to on-page and off-page leads, every area of your SEO foundation is led by specialists.",
+            "<b>Tailored strategies:</b> We ensure your Organic Search strategy is specially tailored for your organization's unique needs.",
+            "<b>A comprehensive growth engine:</b> We connect with your larger marketing efforts—content, CRO, PR, and paid media—to maximize visibility and profitability."
+        ]
+    }]
 };
 
 const LearnMoreData = {

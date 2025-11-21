@@ -31,19 +31,19 @@ const HeroSectionData = {
 
 const WorkWithData = {
     badge: "Work with Burac.ai",
-    title: "Intelligent Marketplace & PPC Optimization",
+    title: "Burac.ai paid social media advertising and marketing techniques help brands to unlock revenue.",
     paragraphs: [
-        "Modern shoppers expect frictionless commerce across every touchpoint — online, in-store, and in-app. Burac.ai connects them seamlessly using AI-driven insight and omnichannel automation.",
-        "For many brands, integrating DTC, Amazon, and retail strategies remains a challenge. Burac.ai’s unified platform bridges these silos with smart learning systems and cross-channel intelligence.",
-        "<b>Our AI marketing engine aligns retail and DTC performance under one adaptive framework — accelerating awareness, conversion, and sustained growth.</b>"
+        "From Facebook and Instagram to TikTok and YouTube, your customers spend hours on social media.  But algorithms, rivals and content saturation all stand between you and incremental money. ",
+        "An skilled social media marketing agency like Burac.ai has the skills to target, engage and persuade your market, taking the guesswork out of sponsored social marketing. ",
+        "<b>You’ll not only get your ads seen, but also get your target audience to care and buy - without emptying ad money.</b>"
     ],
     buttonText: "Get in touch",
     buttonUrl: " /work-with-us/",
     cards: [
         {
             icon: ServiceIcon1.src,
-            title: "Unified Brand Intelligence",
-            description: "From storefront optimization to AI-driven catalog management, we ensure your retail identity remains consistent and conversion-focused across every channel.",
+            title: "Acquire new customers ",
+            description: "Expand your consumer base with precision-targeted ads that reach the right people at the right time.  Our paid social tactics are designed to find and engage new prospects, turning them into loyal customers that create continuous growth for your organization. ",
             bgColor: "bg-secondary" as const,
             textColor: "#333333",
             iconColor: "invert(0)",
@@ -51,8 +51,8 @@ const WorkWithData = {
         },
         {
             icon: Layer11.src,
-            title: "Omnichannel Media Automation",
-            description: "Using AI-powered insights across search, DSP, and Amazon Marketing Cloud, Burac.ai continuously optimizes ad performance and full-funnel efficiency.",
+            title: "Run effective retention strategies ",
+            description: "Keep your existing clients coming back with retention methods that resonate.  We develop targeted programs that re-engage your audience, nurture client relationships, and stimulate repeat purchases, helping you optimize the lifetime value of each customer. ",
             bgColor: "bg-primary" as const,
             textColor: "#ffffff",
             iconColor: "invert(1)",
@@ -60,8 +60,8 @@ const WorkWithData = {
         },
         {
             icon: Layer1.src,
-            title: "Connected DTC & Retail Growth",
-            description: "Our AI platform harmonizes DTC and retail data to uncover performance gaps, amplify customer reach, and scale revenue intelligently.",
+            title: "Lower ad expenses ",
+            description: "Maximize your IROAS by cutting ad cost without compromising on outcomes.  Our approach to paid social emphasizes on efficiency, ensuring that every dollar you spend works better to reach your goals.  We continuously refine your efforts to decrease costs while driving real outcomes.",
             bgColor: "bg-dark" as const,
             textColor: "#ffffff",
             iconColor: "invert(1)",
@@ -71,25 +71,25 @@ const WorkWithData = {
 };
 
 const ServicesData = {
-    badge: "Our AI Commerce Services",
-    title: "Adaptive growth strategies powered by intelligent automation.",
-    description: "Burac.ai unites retail, Amazon, and DTC ecosystems using predictive analytics to capture share, acquire customers, and drive long-term profitability.",
+    badge: "Our Paid Social Services ",
+    title: "Take a look at what’s possible when you partner with Burac.ai for paid social media management and advertising. ",
+    description: " Everything you need for a successful Paid Social Media marketing strategy-under one roof.",
     showButton: true,
-    buttonText: "Get a free marketing audit",
+    buttonText: "Get a free audit",
     buttonUrl: " /workwithus/",
     layout: "3-per-row" as const,
     items: [
         {
-            title: "01 Discover & Map",
-            description: "AI audits your retail and digital footprint to identify the highest-value growth paths. Using your data and goals, we chart a precise roadmap for scalable results."
+            title: "01 Analysis ",
+            description: "Before a contract is ever signed, we dig into your firm with a complete appraisal.  You get an in-depth report on what’s working, what’s not, and what opportunities we’ve found for serious, profitable growth. "
         },
         {
-            title: "02 Integrate & Activate",
-            description: "Align retail, social, and ecommerce under one intelligent system. Our AI synchronizes messaging, product strategy, and audience targeting for unified performance."
+            title: "02 Implementation ",
+            description: "We consider your current paid efforts, competitive landscape, and audience segmentation opportunities while mapping out your customer journey.  From this, our social media agency curates a bespoke, multi-channel paid social approach. "
         },
         {
-            title: "03 Measure & Evolve",
-            description: "With continuous learning and advanced analytics, our system adapts to market shifts — refining strategies that keep your brand ahead of competition."
+            title: "03 Results, Rinse, Repeat ",
+            description: "As you begin witnessing new business and a rise in customer lifetime value, our digital marketing firm continues making modifications.  Nothing is safe from tests and optimization; strategy, social media content, and targeting are all regularly changed to your specific target demographic and unique market behavior. "
         }
     ]
 };
@@ -97,43 +97,44 @@ const ServicesData = {
 const CardSliderData = [
     {
         id: "catalog-management",
-        title: "AI Catalog Intelligence",
-        description: "Our system maintains listing health, optimizes organic visibility, and applies algorithmic adjustments for long-term growth stability.",
+        title: "Lead journey optimization ",
+        description: "Identify your consumer journey and make the path to buy straightforward.",
         image: image1.src,
-        imageAlt: "Catalog Management & Organic Strategy",
+        imageAlt: "Lead journey optimization",
         bgColor: "bg-white" as const
     },
     {
         id: "product-page-creative",
-        title: "Smart Storefront Design",
-        description: "AI-optimized visuals and messaging that transform browsers into buyers — from product pages to your full retail storefront.",
+        title: "Ad copy and marketing strategy creation",
+        description: "Nail the correct narrative and feed it to audiences likely to convert. ",
         image: image2.src,
-        imageAlt: "Product Page & Storefront Creative",
+        imageAlt: "Ad copy and marketing strategy creation",
         bgColor: "bg-secondary" as const
     },
     {
         id: "seo-algorithm",
-        title: "Algorithmic SEO Optimization",
-        description: "Intelligent keyword and metadata tuning designed to maximize marketplace discoverability and organic ranking performance.",
+        title: "Technical setup and maintenance ",
+        description: "Track activity, retarget and segment with pixels put up across social media channels.",
         image: image3.src,
-        imageAlt: "SEO - Tuned to the Amazon Algorithm",
+        imageAlt: "Technical setup and maintenance",
         bgColor: "bg-primary" as const
     }
 ];
 
 const WhySectionData = {
     badge: "Why Burac.ai?",
-    title: "Our AI-powered retail experts integrate automation, data, and creativity to amplify marketplace growth and brand visibility.",
-    buttonText: "Get a free marketing audit",
+    title: "By working with our social media agency, you get:",
+    buttonText: "Get a free audit",
     buttonUrl: " /work-with-us/",
-    introText: "Partnering with Burac.ai gives you:",
     contentItems: [
         {
             type: "list" as const,
             content: [
-                "<b>Full-service automation:</b> From AI-driven DSP and catalog optimization to SEO and creative alignment — managed under one system.",
-                "<b>Specialized AI experts:</b> A team of data scientists and ecommerce strategists optimizing performance across every retail channel.",
-                "<b>Adaptive marketplace intelligence:</b> Continuous machine learning models that evolve with algorithm and consumer shifts."
+                "Paid social enabled by our digital agency’s proprietary technology, nova, to design intelligent and scalable paid social marketing campaigns backed by data. ",
+                "Accurate targeting, innovative interaction and social media content creation that resonates to boost your relevance and stretch your social ad spending. ",
+                "Rigorous A/B testing to constantly improve and gain the most significant outcomes. ",
+                "Commitment to optimization and revenue growth, from ad text modifications to digital strategy realignments.  ",
+                "A unique technique to catch client attention at every step of their journey utilizing pixel tracking and segmentation."
             ]
         }
     ]
